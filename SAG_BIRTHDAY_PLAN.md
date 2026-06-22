@@ -793,6 +793,15 @@ Real-life leader → themed team. **Shane's old IMG teammate** — a former top 
 5. **Omastar** @ White Herb — *Swift Swim* — Modest — 252 SpA / 4 SpD / 252 Spe — **Shell Smash · Hydro Pump · Ice Beam · Earth Power** *(Kanto fossil — deceptive Shell Smash)*
 6. **Glimmora** @ Focus Sash — *Toxic Debris* — Timid — 252 SpA / 4 SpD / 252 Spe — **Mortal Spin · Power Gem · Earth Power · Sludge Wave** *(hazard lead)*
 
+#### GYM 14 — Professor Oak (Killington, VT) — Ice, Gen-1 showcase (CANON leader) — ~Lv 89
+Canon character → a nostalgic **best-of-Gen-1 Ice** team befitting the Kanto professor, atop the mountain where he's been tracking his discovery. *(Gen-1 Ice is scarce, so he leans on Alolan Kanto forms + the classics; a couple reappear by design.)* Ace = his find, **Kyurem**.
+1. **Kyurem** @ Choice Specs — *Pressure* — Modest — 252 SpA / 4 SpD / 252 Spe — **Ice Beam · Earth Power · Draco Meteor · Freeze-Dry** *(ACE — the "undiscovered legendary")*
+2. **Articuno** @ Heavy-Duty Boots — *Pressure* — Bold — 248 HP / 240 Def / 20 Spe — **Freeze-Dry · Hurricane · Roost · Haze** *(Kanto Ice legendary)*
+3. **Ninetales-Alola** @ Light Clay — *Snow Warning* — Timid — 252 SpA / 4 SpD / 252 Spe — **Aurora Veil · Blizzard · Moonblast · Freeze-Dry** *(Vulpix line; sets snow + screens)*
+4. **Sandslash-Alola** @ Life Orb — *Slush Rush* — Adamant — 252 Atk / 4 Def / 252 Spe — **Icicle Spear · Earthquake · Swords Dance · Iron Head** *(Sandshrew line; snow sweeper)*
+5. **Lapras** @ Leftovers — *Water Absorb* — Modest — 252 HP / 252 SpA / 4 SpD — **Freeze-Dry · Surf · Sparkling Aria · Ice Shard** *(the iconic Kanto Ice/Water; a different individual from Shane's)*
+6. **Cloyster** @ White Herb — *Skill Link* — Jolly — 252 Atk / 4 Def / 252 Spe — **Shell Smash · Icicle Spear · Rock Blast · Hydro Pump** *(Kanto Ice/Water — a classic Oak revisits)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
