@@ -74,7 +74,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 6. **[8th badge] courier Dragonite** invitation (battle+catch) → **MEWTWO ISLAND** (*First Movie*
    climax: battle Team Rocket, Ash, Misty, Brock, and **Justin**; **Armored Mewtwo** two-phase
    mirror-team boss → catch Mewtwo; **Mew** catchable after).
-7. **Gyms 9–16** (UPenn/APES, Emory, IMG, Camp Pontiac, **Killington/Wobbly Barn**, +TBD).
+7. **Gyms 9–16** (UPenn/APES, Emory, IMG, Camp Pontiac, **Killington/Wobbly Barn**, **Central Synagogue = Gym 16**).
 8. **[16th badge] ELITE FOUR** (+ Champion / secret final boss — cast TBD).
 
 ### Ready to BUILD now (the vertical slice)
@@ -294,6 +294,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Professor Oak** | **Gym 14 Leader** — researching an undiscovered legendary | Killington, VT (mountaintop) |
 | **Kenny** | Killington **slope NPC** — Dad's friend; chairlift-spitting lore | Killington, VT |
 | **Kenny & Ricky** | **Gym 15 co-Leaders** (twin double battle) — old twin doctors who own the camp; glasses + white hair *(distinct from Gym-14 Kenny)* | Camp Pontiac, Copake NY |
+| **Rabbi Angela** | **Gym 16 Leader (FINAL gym)** — young-ish Korean woman, Jewish; all trainers = synagogue congregants/clergy/staff | Central Synagogue, NYC |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -366,7 +367,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 | **Randalls Island** | real explorable ballfields/park island | baseball teammates/coach | Shane's HS baseball; a "big game" event; fishing off the water |
 | **Central Park** | big iconic green expanse | joggers, dog-walkers, chess hustlers | major hub park — wild encounters, trainers, hidden items |
 | **Riverside Park / West Side Hwy greenway** | LONG, NARROW riverfront greenway | runners, bikers | super-long **4-tiles-wide** green path along the Hudson; **connects Chelsea Piers (Gym 5) ↔ West Village** |
-| **Central Synagogue** | landmark | rabbi/cantor | bar-mitzvah-era memory (respectful + funny) |
+| **Central Synagogue** | **GYM 16 (final)** + early landmark | **Rabbi Angela** + congregants | early bar-mitzvah memory; the FINAL gym on return |
 | **Williamsburg, Bklyn** | hipster law-student life | **Cali** (sister, Brooklyn Law) | visit lil sis; she ribs Shane |
 | **Bronx** | stadium district | Yankees fans | **Yankee Stadium** landmark/event |
 | **Paramus, NJ** | mall suburbia | **Grandma Linda**, uncles **Matt & Jason** (twins), **Donut** (short) | the "crazy uncles" chaos; Grandma feeds you; mall jokes |
@@ -410,6 +411,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 3. **Gyms 9–16** — college & later-life arc (Philly/Atlanta/IMG/etc.).
 4. **After 16th badge → ELITE FOUR** — the true endgame Elite Four (+ Champion / secret final boss,
    cast TBD).
+5. **POST-GAME (locked 2026-06-22):** **Red** is the hidden secret superboss atop the **Empire State Building**, with cross-region champions (Cynthia/Wallace/Steven, etc.) as the climb up to him. Red lives in the post-game — *not* a gym.
 
 ## ★ ENDGAME ARC — MEWTWO ISLAND (*First Movie* climax; replaces mid-game E4)
 New location: **Mewtwo Island** ("New Island"), sitting **far off the eastern coast of Long Island**
@@ -525,7 +527,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 0. **Hudson Yards** — START hub (not a gym)
    → route: **Times Square**
 1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED; Altorelli + Russian-spy GF + Russian goons)*
-   → route: **Central Park** → **Central Synagogue** (LOCATION, between Central Park & the school) → Town School
+   → route: **Central Park** → **Central Synagogue** (passed early as a landmark; the gym here is the **FINAL Gym 16** — Rabbi Angela; see below) → Town School
 2. **The Town School (UES, 76th & East End)** — GYM 2 *(LOCKED; leader **Ms. Sokotch**)*
    → **before** Gym 2: **Justin** rival battle on the **Central Park** approach *(moved here 2026-06-22)*
    → after Gym 2: **John Jay Park** — battle **Steven & Jake** (Justin present, but does **not** battle)
@@ -556,8 +558,8 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
    (researching an undiscovered legendary); Kenny=slope NPC; **Wobbly Barn** + **Jamaican jerk**
    on the slopes; FLY from Florida)*
 15. **Camp Pontiac (Copake, NY)** — GYM 15 *(LOCKED; TWO leaders **Kenny & Ricky**; south from Killington)*
-16. **TBD — need ~1 more location** (ideas: a bar/nightlife district, a dispensary district,
-   the Hamptons, JFK/airport, Atlantic City, etc.)
+16. **Central Synagogue (NYC)** — GYM 16 *(LOCKED 2026-06-22; FINAL gym; leader **Rabbi Angela** — young-ish Korean Jewish woman; ALL trainers = synagogue congregants/clergy/staff)*
+   → from **Camp Pontiac**, return **south to Manhattan** for the homecoming finale
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
 
 > Non-gym story spots/LOCATIONS to thread between gyms: **Central Synagogue** (between Central Park
@@ -596,11 +598,17 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   Poison/Dark "agent" mons. Full roast — billable hours, vodka jokes, "is colluding," etc.
 - **Badge/reward:** TBD name.
 
-### CENTRAL SYNAGOGUE — LOCATION (between Central Park & the Town School) — DRAFT
-- **Location (locked 2026-06-21):** a **LOCATION (not a gym)** on the **Upper East Side**, placed
-  on the path **between Central Park and the Town School**. Landmark synagogue building.
-- **Beat:** bar-mitzvah-era memory / heartfelt-but-funny scene; a rabbi/cantor NPC; maybe a small
-  blessing/gift or an Easter egg. Respectful + light.
+### CENTRAL SYNAGOGUE — GYM 16 (FINAL gym; promoted from LOCATION) — DRAFT
+- **Promoted to GYM 16 (locked 2026-06-22):** the **final gym** before the Elite Four and the
+  personal capstone of Shane's journey — his own synagogue/community. **Upper East Side** landmark.
+- **Leader (locked 2026-06-22): RABBI ANGELA** — a **young-ish Korean woman, Jewish** (the rabbi);
+  warm-but-formidable final-boss energy.
+- **Trainers (locked 2026-06-22): everyone is from within the synagogue** — congregants, the cantor,
+  board members, Hebrew-school teachers, b'nai-mitzvah kids, the gabbai, etc. The whole community is the roster.
+- **Sequencing:** seen **early** as a passed-by landmark on the Gym 1→2 route (brief bar-mitzvah-era
+  memory beat); the **gym itself is the finale** — Shane returns to Manhattan from Camp Pontiac (Gym 15)
+  to challenge it as Gym 16. *(Confirm: keep the early walk-by beat, or only open the building at endgame?)*
+- **Type / Badge:** TBD — Psychic/Fairy "faith & community" flavor could fit; confirm at the type pass.
 
 ### #2 — THE TOWN SCHOOL (Upper East Side, 76th & East End) — GYM 2 — DRAFT
 - **Approach (route):** from Gym 1, head **through Central Park** to reach the Upper East Side.
