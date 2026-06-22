@@ -57,7 +57,16 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
   final boss TBD).**
 - **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/all teams; themed to opponent
   & location. **All Pokémon get max IVs + competitive natures (universal).** Favorites featured:
-  **Eevee, Primeape, Haunter (not Gengar), Dragonite, Mewtwo.** Legendaries are **enemies-only**
+  **Eevee, Primeape, Haunter (not Gengar), Dragonite, Mewtwo, + Lapras (gift, his canon 6th).** Legendaries are **enemies-only**
+
+> **SHANE'S CANON 6 (locked 2026-06-22) — his definitive playable team:**
+> 1. **Eevee** (Jared's gift) → player's chosen **eeveelution**.
+> 2. **Haunter** (starter; **kept as Haunter, not Gengar** — ideal Eviolite set).
+> 3. **Primeape** (starter; Mankey line — optional Annihilape).
+> 4. **Dragonite** — the **Special-Delivery / courier** Dragonite (Montauk, post-Gym 8 event).
+> 5. **Mewtwo** (caught on Mewtwo Island).
+> 6. **Lapras** — NEW **gift** mon (canon Kanto gift flavor); fills his Water/Ice coverage. *(Place a fitting in-world gift spot.)*
+> All get max IVs + competitive natures + best/Hidden ability, like every catch.
   (gyms 9–16 + E4 wield them). **Mewtwo** is the player's only catchable legendary (Mewtwo Island); **Mew is NOT player-catchable — Justin catches it there** and it becomes his ace.
 - **Establishments:** location-based Marts (CVS/Duane Reade/Target/bodega…) & Centers (CityMD/
   hospital/spa…); **Joe's Pizza** chain; **bars** & **weed dispensaries** (full roast).
