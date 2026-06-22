@@ -658,6 +658,15 @@ Real-life leader → themed team. The posh British **headmaster** of a creepy ol
 5. **Gholdengo** @ Choice Specs — *Good as Gold* — Timid — 252 SpA / 4 SpD / 252 Spe — **Make It Rain · Shadow Ball · Power Gem · Focus Blast** *(old-money golden ghost; blocks status)*
 6. **Aegislash** @ Leftovers — *Stance Change* — Quiet — 252 HP / 252 SpA / 4 Def — **King's Shield · Shadow Ball · Flash Cannon · Shadow Sneak** *(the headmaster's ancestral blade; Stance Change mind-games)*
 
+#### GYM 5 — Aaron Judge (Yankee Stadium) — Flying "home-run sluggers" (UU) — ~Lv 38
+Real-life leader → themed team. Pro baseball, "the big leagues" — everything swings for the fences. Ace = **Braviary**.
+1. **Braviary** @ Choice Band — *Defiant* — Adamant — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Close Combat · U-turn · Rock Slide** *(ACE — the Bronx-Bomber eagle; #99 raw power)*
+2. **Staraptor** @ Choice Scarf — *Reckless* — Jolly — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Close Combat · Double-Edge · U-turn** *(reckless leadoff slugger / scarf revenge)*
+3. **Aerodactyl** @ Life Orb — *Rock Head* — Jolly — 252 Atk / 4 Def / 252 Spe — **Stone Edge · Dual Wingbeat · Earthquake · Aqua Tail** *(Kanto — blazing-fast moonshot)*
+4. **Talonflame** @ Heavy-Duty Boots — *Gale Wings* — Jolly — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Flare Blitz · Swords Dance · U-turn** *(priority Brave Bird — the walk-off closer)*
+5. **Dodrio** @ Choice Band — *Early Bird* — Jolly — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Double-Edge · Drill Run · Knock Off** *(Kanto — three-headed base-runner; pure speed/power)*
+6. **Corviknight** @ Leftovers — *Mirror Armor* — Impish — 252 HP / 168 Def / 88 SpD — **Brave Bird · Body Press · Roost · U-turn** *(the bulky veteran pivot — keeps the lineup churning)*
+
 #### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 1. **Nidoking** @ Life Orb — *Sheer Force* — Modest — 252 SpA / 4 SpD / 252 Spe — **Earth Power · Sludge Wave · Ice Beam · Flamethrower** *(ACE; Sheer Force cancels Life Orb recoil → nukes)*
