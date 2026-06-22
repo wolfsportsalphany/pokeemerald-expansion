@@ -65,7 +65,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 > 3. **Primeape** (starter; Mankey line — optional Annihilape).
 > 4. **Dragonite** — the **Special-Delivery / courier** Dragonite (Montauk, post-Gym 8 event).
 > 5. **Mewtwo** (caught on Mewtwo Island).
-> 6. **Lapras** — a **static overworld encounter** (a visible sprite you walk up to and talk to), found at a **small underground lake deep in a cave** (a few floors down) — **not a gift**. Fills his Water/Ice coverage.
+> 6. **Lapras** — a **static overworld encounter** (visible sprite you walk up to / Surf out to), in the **Hudson River along the Riverside Park / West Side Highway greenway** (the Chelsea Piers ↔ West Village stretch) — met **earlier in the story (Act I)**, not a gift. Either tucked in a **hidden riverside cave** or just out on the water *(exact spot TBD)*. Fills his Water/Ice coverage.
 > All get max IVs + competitive natures + best/Hidden ability, like every catch.
   (gyms 9–16 + E4 wield them). **Mewtwo** is the player's only catchable legendary (Mewtwo Island); **Mew is NOT player-catchable — Justin catches it there** and it becomes his ace.
 - **Establishments:** location-based Marts (CVS/Duane Reade/Target/bodega…) & Centers (CityMD/
