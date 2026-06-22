@@ -572,6 +572,22 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 
 > Notes: Gym 4 Ghost lets **Gastly/Haunter** (Shane's fave) headline a gym; Gym 16 = Justin's full **eeveelution** army (his Eevee obsession) instead of one type. Override any cell freely.
 
+### ★ COMPETITIVE BATTLE BUILDS (Gym 8 → endgame) — WIP, one at a time
+From **Gym 8 onward**, every notable trainer (gym leaders, Mewtwo-Island bosses, Elite Four, Champion,
+and rival Justin) runs a **full 6-Pokémon competitive team** — real abilities, items, natures, EV
+spreads, and movesets with genuine synergy. Types/details here are **WIP**, set per battle via the
+interview. (Confirmed in this build: Rhyperior, Rhydon, Eviolite, Thick Club, Sheer Force, Arena Trap,
+etc. all exist — so **Rhydon @ Eviolite is legal**, since Rhydon is not-fully-evolved.)
+
+#### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
+Ace = **Nidoking**. Historical-best Giovanni, built competitively.
+1. **Nidoking** @ Life Orb — *Sheer Force* — Modest — 252 SpA / 4 SpD / 252 Spe — **Earth Power · Sludge Wave · Ice Beam · Flamethrower** *(ACE; Sheer Force cancels Life Orb recoil → nukes)*
+2. **Nidoqueen** @ Black Sludge — *Sheer Force* — Bold — 252 HP / 252 Def / 4 SpA — **Earth Power · Sludge Wave · Ice Beam · Stealth Rock** *(bulky hazard setter)*
+3. **Rhydon** @ **Eviolite** — *Lightning Rod* — Adamant — 252 HP / 4 Atk / 252 Def — **Earthquake · Stone Edge · Megahorn · Swords Dance** *(the "sick" pick — Eviolite makes the NFE wall absurdly bulky; Lightning Rod patches its Electric weakness)*
+4. **Marowak** @ **Thick Club** — *Rock Head* — Adamant — 252 Atk / 252 Spe / 4 HP — **Bonemerang · Stone Edge · Fire Punch · Double-Edge** *(Thick Club doubles Attack → nuclear)*
+5. **Dugtrio** @ Focus Sash — *Arena Trap* — Jolly — 252 Atk / 4 Def / 252 Spe — **Earthquake · Stone Edge · Sucker Punch · Reversal** *(traps & revenge-kills — Giovanni mind-games)*
+6. **Persian** @ Silk Scarf — *Technician* — Jolly — 252 Atk / 4 Def / 252 Spe — **Fake Out · U-turn · Knock Off · Throat Chop** *(his signature cat; fast utility/pivot. Swap to Rhyperior for raw power over flavor.)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo Island:**
 0. **Hudson Yards** — START hub (not a gym)
