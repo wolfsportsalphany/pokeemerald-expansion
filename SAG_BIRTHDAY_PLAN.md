@@ -572,12 +572,28 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 
 > Notes: Gym 4 Ghost lets **Gastly/Haunter** (Shane's fave) headline a gym; Gym 16 = Justin's full **eeveelution** army (his Eevee obsession) instead of one type. Override any cell freely.
 
-### ★ COMPETITIVE BATTLE BUILDS (Gym 8 → endgame) — WIP, one at a time
-From **Gym 8 onward**, every notable trainer (gym leaders, Mewtwo-Island bosses, Elite Four, Champion,
-and rival Justin) runs a **full 6-Pokémon competitive team** — real abilities, items, natures, EV
-spreads, and movesets with genuine synergy. Types/details here are **WIP**, set per battle via the
-interview. (Confirmed in this build: Rhyperior, Rhydon, Eviolite, Thick Club, Sheer Force, Arena Trap,
-etc. all exist — so **Rhydon @ Eviolite is legal**, since Rhydon is not-fully-evolved.)
+### ★ COMPETITIVE BATTLE BUILDS (ALL gyms + endgame) — WIP, one at a time
+**Every notable trainer** — all **16 gym leaders**, the Mewtwo-Island bosses, the **Elite Four**, the
+**Champion**, and **rival Justin** — fields a **full 6-Pokémon team**, built to be **genuinely hard**.
+- **Two methods:** **Pokémon-canon characters** (Giovanni, Prof. Oak, Steven, Red, guest champs) → their
+  **canon/signature** teams. **Real-life people** (Altorelli, Sokotch, Randolph, Judge, Jesse, Grandma
+  Linda, Shermfather, Madi, Roman, J.R. Murphy, Kenny & Ricky, Justin, Cali, Dad, Mom, Jared) → a
+  **themed competitive Smogon singles team** from a **tier matched to gym order**.
+- **Species flavor:** lean **Kanto-151** (Shane's favorites) + a **sprinkle of newer standouts** per team.
+  Modern (Gen-9) mechanics/sets on a Gen-1-heavy roster. *(Kanto has no Dark-types → "Dark/villain" gyms = menacing Kanto mons + newer Dark sprinkles.)*
+- **Difficulty:** **brutal, shifted early** (player-side scaling toggles to be added later).
+- **Tier ladder (real-life leaders):** G1 **NU** · G2 **RU** · G3 **RU** · G4 **UU** · G5 **UU** · G6 **UU/OU**
+  · G7 **OU** · G9 **OU** · G10 **OU** · G11 **OU** · G12 **OU** · G13 **OU+** · G15 **OU+/Ubers** · G16 Justin
+  **Ubers** · E4 **OU+/Ubers** · Champion Jared **Ubers**. *(G8 Giovanni & G14 Oak = canon.)*
+
+#### GYM 1 — John Altorelli (Sidley Austin) — Dark/villain lean (NU-caliber, brutal) — ~Lv 18
+Real-life leader → themed team. Corporate-coup + Russian-spy boss. Kanto menace + Dark sprinkles. Ace = **Kingambit**.
+1. **Kingambit** @ Black Glasses — *Supreme Overlord* — Adamant — 252 Atk / 4 Def / 252 Spe — **Sucker Punch · Iron Head · Kowtow Cleave · Swords Dance** *(ACE — the ruthless senior partner; newer sprinkle)*
+2. **Gengar** @ Life Orb — *Cursed Body* — Timid — 252 SpA / 4 SpD / 252 Spe — **Shadow Ball · Sludge Wave · Nasty Plot · Focus Blast** *(Kanto — the slippery fixer)*
+3. **Alakazam** @ Focus Sash — *Magic Guard* — Timid — 252 SpA / 4 SpD / 252 Spe — **Psychic · Shadow Ball · Focus Blast · Encore** *(Kanto — the cold mastermind)*
+4. **Persian** @ Silk Scarf — *Technician* — Jolly — 252 Atk / 4 Def / 252 Spe — **Fake Out · Knock Off · U-turn · Throat Chop** *(Kanto — the smooth-talking corporate cat)*
+5. **Weezing** @ Black Sludge — *Levitate* — Bold — 252 HP / 252 Def / 4 SpD — **Sludge Bomb · Will-O-Wisp · Pain Split · Toxic Spikes** *(Kanto — toxic-corporate wall)*
+6. **Weavile** @ Heavy-Duty Boots — *Pressure* — Jolly — 252 Atk / 4 Def / 252 Spe — **Triple Axel · Knock Off · Ice Shard · Low Kick** *(newer sprinkle — the Russian-spy assassin)*
 
 #### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
