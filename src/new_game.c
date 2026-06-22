@@ -158,6 +158,28 @@ void ResetMenuAndMonGlobals(void)
     ResetPokeblockScrollPositions();
 }
 
+// --- SAG v0.2: competitive-sandbox starting loadout ---
+static void SAG_GiveStartingLoadout(void)
+{
+    u32 i;
+    static const u16 sStartItems[] = {
+        ITEM_RARE_CANDY,
+        ITEM_HP_UP, ITEM_PROTEIN, ITEM_IRON, ITEM_CALCIUM, ITEM_ZINC, ITEM_CARBOS, ITEM_PP_UP, ITEM_PP_MAX,
+        ITEM_MAX_REVIVE, ITEM_FULL_RESTORE, ITEM_MAX_POTION, ITEM_FULL_HEAL, ITEM_MAX_ETHER, ITEM_MAX_ELIXIR,
+        ITEM_MASTER_BALL, ITEM_ULTRA_BALL,
+        ITEM_LEFTOVERS, ITEM_FOCUS_SASH, ITEM_CHOICE_BAND, ITEM_CHOICE_SPECS, ITEM_CHOICE_SCARF,
+        ITEM_LIFE_ORB, ITEM_ASSAULT_VEST, ITEM_EVIOLITE, ITEM_HEAVY_DUTY_BOOTS, ITEM_BLACK_SLUDGE,
+        ITEM_FLAME_ORB, ITEM_BOOSTER_ENERGY, ITEM_ABILITY_PATCH,
+    };
+
+    for (i = 0; i < ARRAY_COUNT(sStartItems); i++)
+        AddBagItem((enum Item)sStartItems[i], 99);
+
+    // Every TM + HM (TMs reusable via I_REUSABLE_TMS), so any move is teachable from the start
+    for (i = ITEM_TM01; i <= ITEM_HM08; i++)
+        AddBagItem((enum Item)i, 1);
+}
+
 void NewGameInitData(void)
 {
 #if IS_FRLG
@@ -188,7 +210,7 @@ void NewGameInitData(void)
     ResetGabbyAndTy();
     ClearSecretBases();
     ClearBerryTrees();
-    SetMoney(&gSaveBlock1Ptr->money, 3000);
+    SetMoney(&gSaveBlock1Ptr->money, MAX_MONEY);
     SetCoins(0);
     ResetLinkContestBoolean();
     ResetGameStats();
@@ -203,6 +225,7 @@ void NewGameInitData(void)
     gSaveBlock1Ptr->registeredItem = ITEM_NONE;
     ClearBag();
     NewGameInitPCItems();
+    SAG_GiveStartingLoadout();
     ClearPokeblocks();
     ClearDecorationInventories();
     InitEasyChatPhrases();
