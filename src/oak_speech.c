@@ -657,7 +657,7 @@ static const u8 *const sRivalNameChoices[] =
     gNameChoice_Kaz,
     gNameChoice_Toru
 #else
-    gNameChoice_Red,
+    gNameChoice_Justin,
     gNameChoice_Ash,
     gNameChoice_Kene,
     gNameChoice_Geki
