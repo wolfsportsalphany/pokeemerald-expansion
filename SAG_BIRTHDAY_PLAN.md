@@ -432,7 +432,7 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 > **levels track the player/gym curve** — he **starts ~Gym-1 level** alongside Shane and grows in step; by Gym 16
 > it's his fully-evolved obtainable squad.
 
-1. ✅ **Times Square**, pre-Gym 1 — first battle &mdash; team **Eevee · Kadabra · Snorlax · Pupitar** (4, since Shane starts with 3); Eevee-vs-Eevee; Pilates brag.
+1. ✅ **Times Square**, pre-Gym 1 — first battle — team **Eevee · Kadabra · Snorlax · Pupitar** (4, since Shane starts with 3); Eevee-vs-Eevee; Pilates brag.
 2. ✅ **Central Park**, pre-Gym 2 — approach rematch. **Team: Eevee · Kadabra · Snorlax · Pupitar** — his core trio (mirrors Shane's pool), which **evolve across the arc** → his eeveelution / **Alakazam** / **Tyranitar**.
 3. ➕ **Randalls Island**, after Gym 3 — baseball turf; he claims he was the better ballplayer.
 4. ➕ **Brooklyn Bridge**, crossing to Gym 6 — iconic mid-bridge set-piece battle.
@@ -588,6 +588,8 @@ direction; water bodies are real; the southern college leg is a long journey sou
 So Shane can freely build & test teams against the brutal gauntlet:
 - **EV control (locked 2026-06-22):** start with **99× of every EV vitamin** (Protein, Iron, Calcium, Zinc, Carbos, HP Up) — max any spread instantly. And **every Pokémon Center has an EV-reset NPC**: talk to them, pick a Pokémon, and **all its EVs are wiped** so Shane can freely re-spread/optimize.
 - **No bag limit (locked 2026-06-22):** the player's bag has **no item cap** — unlimited capacity / max stack sizes per pocket, so the entire competitive stockpile fits.
+- **All-gen wild availability (locked 2026-06-22):** beyond the Kanto-lean *flavor*, the **best competitive Pokémon from EVERY generation are obtainable in the wild** somewhere, at appropriate levels — so Shane can build any competitive team he wants.
+- **All TMs + HMs, no gating (locked 2026-06-22):** start with a **full set of every TM and HM**; **every HM is usable anytime** (no badge requirement, no unlocking). **No field/badge gating** — Shane can **explore anywhere** from the start.
 - **Starting loadout (from the first save):** **max money**; **99×** of every medicine/healing/status item
   (Potions→Max/Full Restore, Revives, Full Heals, Ethers/Elixirs…); **6×** of every competitive battle item,
   esp. consumables (**Focus Sash**, Sitrus/Lum/Weakness Policy berries, Air Balloon…) plus several of each
