@@ -314,7 +314,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 
 ### Still open
 - **Gyms** = a lighter, SEPARATE layer (see below) — not built from the family. Leaders/types TBD.
-- **Secret final boss** (Red analog) — TBD.
+- *(No secret final boss / post-game — cut 2026-06-22; **Champion Jared** is the finale.)*
 
 ## ★ OPENING SEQUENCE — LOCKED & READY TO BUILD (2026-06-21)
 The concrete first slice of the game (Act I start):
@@ -617,7 +617,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 ### ★ COMPETITIVE BATTLE BUILDS (ALL gyms + endgame) — WIP, one at a time
 **Every notable trainer** — all **16 gym leaders**, the Mewtwo's Island bosses, the **Elite Four**, the
 **Champion**, and **rival Justin** — fields a **full 6-Pokémon team**, built to be **genuinely hard**.
-- **Two methods:** **Pokémon-canon characters** (Giovanni, Prof. Oak, Steven, Red, guest champs) → their
+- **Two methods:** **Pokémon-canon characters** (Giovanni, Prof. Oak, Steven, guest champs) → their
   **canon/signature** teams. **Real-life people** (Altorelli, Sokotch, Randolph, Judge, Jesse, Grandma
   Linda, Shermfather, Brielle, Roman, J.R. Murphy, Kenny & Ricky, Justin, Cali, Dad, Mom, Jared) → a
   **themed competitive Smogon singles team** from a **tier matched to gym order**.
@@ -631,7 +631,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 ### ★ LEVEL CURVE (locked 2026-06-22)
 Start ~**Lv 16** (early-stage party, Gym-1-ready). Ramp:
 G1 **18** · G2 **24** · G3 **30** · G4 **36** · G5 **42** · G6 **48** · G7 **54** · G8 **60** · Mewtwo's Island **~63** · G9 **68** · G10 **73** · G11 **78** · G12 **82** · G13 **86** · G14 **89** · G15 **92** · **G16 (Justin) mid-90s (90–96)**.
-**ELITE FOUR, CHAMPION & ALL POST-GAME (incl. Red) = Lv 100.** The universal level cap rises to each step's value; per-entry "~Lv" figures follow this table.
+**ELITE FOUR & CHAMPION = Lv 100.** The universal level cap rises to each step's value; per-entry "~Lv" figures follow this table.
 - **Battle AI (locked 2026-06-22): top-of-the-line, EVERYWHERE.** Every trainer runs the **maxed smart-AI
   flag set** (damage/viability checks, smart switching, priority & status awareness, sequence prediction,
   Trick Room / weather / screens awareness) — no dumb AI anywhere in the game.
@@ -1254,7 +1254,7 @@ _(awaiting details)_
 - Implementation: add them as battleable trainers / cameo NPCs. Each needs a trainer-class +
   party definition, overworld sprite, and placement/dialogue script. Naturally pairs with the
   Hoenn/Sinnoh expansion (they can headline those regions), but cameos can also be dropped into
-  the existing world as special post-game battles.
+  the existing world as special late-game battles.
 - Files (to locate): trainer party data (`data/trainers/`), trainer class constants, overworld
   sprites, and map event scripts for placement.
 
