@@ -615,6 +615,11 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Tier ladder (real-life leaders):** G1 **NU** · G2 **RU** · G3 **RU** · G4 **UU** · G5 **UU** · G6 **UU/OU**
   · G7 **OU** · G9 **OU** · G10 **OU** · G11 **OU** · G12 **OU** · G13 **OU+** · G15 **OU+/Ubers** · G16
   **Justin = Shane-mirror (obtainable team, not Ubers)** · E4 **OU+/Ubers** · Champion Jared **Ubers**. *(G8 Giovanni & G14 Oak = canon.)*
+
+### ★ LEVEL CURVE (locked 2026-06-22)
+Start ~**Lv 16** (early-stage party, Gym-1-ready). Ramp:
+G1 **18** · G2 **24** · G3 **30** · G4 **36** · G5 **42** · G6 **48** · G7 **54** · G8 **60** · Mewtwo Island **~63** · G9 **68** · G10 **73** · G11 **78** · G12 **82** · G13 **86** · G14 **89** · G15 **92** · **G16 (Justin) mid-90s (90–96)**.
+**ELITE FOUR, CHAMPION & ALL POST-GAME (incl. Red) = Lv 100.** The universal level cap rises to each step's value; per-entry "~Lv" figures follow this table.
 - **Battle AI (locked 2026-06-22): top-of-the-line, EVERYWHERE.** Every trainer runs the **maxed smart-AI
   flag set** (damage/viability checks, smart switching, priority & status awareness, sequence prediction,
   Trick Room / weather / screens awareness) — no dumb AI anywhere in the game.
@@ -631,7 +636,7 @@ Real-life leader → themed team. Corporate-coup + Russian-spy boss. Kanto menac
 5. **Weezing** @ Black Sludge — *Levitate* — Bold — 252 HP / 252 Def / 4 SpD — **Sludge Bomb · Will-O-Wisp · Pain Split · Toxic Spikes** *(Kanto — toxic-corporate wall)*
 6. **Weavile** @ Heavy-Duty Boots — *Pressure* — Jolly — 252 Atk / 4 Def / 252 Spe — **Triple Axel · Knock Off · Ice Shard · Low Kick** *(newer sprinkle — the Russian-spy assassin)*
 
-#### GYM 2 — Ms. Sokotch (The Town School) — Psychic, "control & punish" (RU-caliber) — ~Lv 22
+#### GYM 2 — Ms. Sokotch (The Town School) — Psychic, "control & punish" (RU-caliber) — ~Lv 24
 Real-life leader → themed team. The terrifying schoolteacher: sleep + Trick Room + status, then punish. Ace = **Hypno**.
 1. **Hypno** @ Leftovers — *Insomnia* — Calm — 252 HP / 4 SpA / 252 SpD — **Hypnosis · Psychic · Future Sight · Thunder Wave** *(ACE — hypnotic disciplinarian: sleeps you, grinds you down)*
 2. **Slowking** @ Leftovers — *Regenerator* — Sassy — 252 HP / 4 Def / 252 SpD — **Trick Room · Psychic · Scald · Slack Off** *(sets Trick Room for the slow punishers)*
@@ -640,7 +645,7 @@ Real-life leader → themed team. The terrifying schoolteacher: sleep + Trick Ro
 5. **Mr. Mime** @ Light Clay — *Filter* — Bold — 252 HP / 252 Def / 4 SpD — **Reflect · Light Screen · Psychic · Dazzling Gleam** *(screens — detention by attrition)*
 6. **Hatterene** @ Life Orb — *Magic Bounce* — Quiet — 248 HP / 252 SpA / 8 SpD — **Psyshock · Dazzling Gleam · Mystical Fire · Trick Room** *(newer sprinkle — bounces your status; slow TR nuke)*
 
-#### GYM 3 — Uptown Randall (Randalls Island) — Fighting/Normal "baseball sluggers" (RU-caliber) — ~Lv 28
+#### GYM 3 — Uptown Randall (Randalls Island) — Fighting/Normal "baseball sluggers" (RU-caliber) — ~Lv 30
 Real-life leader → themed team. League-captain boss of Shane's youth ball (Uptown/CYO/Thunder/Gothams/Riverdale/Titans as the grunts). Ace = **Conkeldurr**.
 1. **Conkeldurr** @ Flame Orb — *Guts* — Adamant — 252 HP / 252 Atk / 4 Def — **Drain Punch · Mach Punch · Knock Off · Facade** *(ACE — swings concrete pillars like bats; Guts + Flame Orb cleanup hitter; newer sprinkle)*
 2. **Machamp** @ Choice Band — *No Guard* — Adamant — 252 Atk / 4 Def / 252 Spe — **Dynamic Punch · Knock Off · Stone Edge · Ice Punch** *(Kanto — power slugger; guaranteed DynPunch)*
@@ -649,7 +654,7 @@ Real-life leader → themed team. League-captain boss of Shane's youth ball (Upt
 5. **Hitmonlee** @ Life Orb — *Reckless* — Jolly — 252 Atk / 4 Def / 252 Spe — **High Jump Kick · Close Combat · Stone Edge · Mach Punch** *(Kanto — the big-swing kicker)*
 6. **Kangaskhan** @ Silk Scarf — *Scrappy* — Adamant — 252 Atk / 4 Def / 252 Spe — **Double-Edge · Earthquake · Sucker Punch · Fake Out** *(Kanto — the seasoned vet)*
 
-#### GYM 4 — Dominic A.A. Randolph (Riverdale Country School) — Ghost, "raw spooky power" (UU) — ~Lv 33
+#### GYM 4 — Dominic A.A. Randolph (Riverdale Country School) — Ghost, "raw spooky power" (UU) — ~Lv 36
 Real-life leader → themed team. The posh British **headmaster** of a creepy old manor-school. Kanto is barren on Ghosts, so this is the **meet-the-modern-Ghosts** gym; **Haunter** reps Shane's fave. Ace = **Dragapult**.
 1. **Dragapult** @ Choice Specs — *Infiltrator* — Timid — 252 SpA / 4 SpD / 252 Spe — **Shadow Ball · Draco Meteor · Flamethrower · U-turn** *(ACE — fast, elegant special nuke; ignores screens/subs)*
 2. **Haunter** @ Life Orb — *Levitate* — Timid — 252 SpA / 4 SpD / 252 Spe — **Shadow Ball · Sludge Wave · Nasty Plot · Dazzling Gleam** *(Kanto — Shane's fave line; Ground-immune glass cannon)*
@@ -658,7 +663,7 @@ Real-life leader → themed team. The posh British **headmaster** of a creepy ol
 5. **Gholdengo** @ Choice Specs — *Good as Gold* — Timid — 252 SpA / 4 SpD / 252 Spe — **Make It Rain · Shadow Ball · Power Gem · Focus Blast** *(old-money golden ghost; blocks status)*
 6. **Aegislash** @ Leftovers — *Stance Change* — Quiet — 252 HP / 252 SpA / 4 Def — **King's Shield · Shadow Ball · Flash Cannon · Shadow Sneak** *(the headmaster's ancestral blade; Stance Change mind-games)*
 
-#### GYM 5 — Aaron Judge (Yankee Stadium) — Flying "home-run sluggers" (UU) — ~Lv 38
+#### GYM 5 — Aaron Judge (Yankee Stadium) — Flying "home-run sluggers" (UU) — ~Lv 42
 Real-life leader → themed team. Pro baseball, "the big leagues" — everything swings for the fences. Ace = **Braviary**.
 1. **Braviary** @ Choice Band — *Defiant* — Adamant — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Close Combat · U-turn · Rock Slide** *(ACE — the Bronx-Bomber eagle; #99 raw power)*
 2. **Staraptor** @ Choice Scarf — *Reckless* — Jolly — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Close Combat · Double-Edge · U-turn** *(reckless leadoff slugger / scarf revenge)*
@@ -667,7 +672,7 @@ Real-life leader → themed team. Pro baseball, "the big leagues" — everything
 5. **Dodrio** @ Choice Band — *Early Bird* — Jolly — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Double-Edge · Drill Run · Knock Off** *(Kanto — three-headed base-runner; pure speed/power)*
 6. **Corviknight** @ Leftovers — *Mirror Armor* — Impish — 252 HP / 168 Def / 88 SpD — **Brave Bird · Body Press · Roost · U-turn** *(the bulky veteran pivot — keeps the lineup churning)*
 
-#### GYM 6 — The Dean (Brooklyn Law School, Williamsburg) — Steel "ironclad wall/stall" (UU/OU) — ~Lv 42
+#### GYM 6 — The Dean (Brooklyn Law School, Williamsburg) — Steel "ironclad wall/stall" (UU/OU) — ~Lv 48
 Real-life leader → themed team. **Cali's incoming Brooklyn Law dean** — set at **orientation season (~mid-August)**; Cali is an incoming 1L, freed/reached after the win. The letter of the law: hazards, walls, lockdown. Ace = **Scizor**.
 1. **Scizor** @ Leftovers — *Technician* — Impish — 248 HP / 8 Atk / 252 Def — **Bullet Punch · Knock Off · Roost · Swords Dance** *(ACE — bulky win-con; priority + setup)*
 2. **Skarmory** @ Leftovers — *Sturdy* — Impish — 252 HP / 252 Def / 4 SpD — **Spikes · Body Press · Roost · Defog** *(hazard wall + control)*
@@ -676,7 +681,7 @@ Real-life leader → themed team. **Cali's incoming Brooklyn Law dean** — set 
 5. **Klefki** @ Leftovers — *Prankster* — Bold — 252 HP / 252 Def / 4 SpD — **Spikes · Thunder Wave · Foul Play · Light Screen** *(the dean's ring of keys — Prankster lockdown/bureaucracy)*
 6. **Heatran** @ Leftovers — *Flash Fire* — Calm — 252 HP / 4 SpA / 252 SpD — **Magma Storm · Earth Power · Taunt · Flash Cannon** *(bulky Steel/Fire breaker + trap)*
 
-#### GYM 7 — Jesse (Old Brookville) — Fairy "warm but deceptively tough" (OU) — ~Lv 47
+#### GYM 7 — Jesse (Old Brookville) — Fairy "warm but deceptively tough" (OU) — ~Lv 54
 Real-life leader → themed team. The beloved old former nanny — sweet tone, but a genuinely brutal battler. Ace = **Clefable**.
 1. **Clefable** @ Leftovers — *Magic Guard* — Bold — 252 HP / 252 Def / 4 SpD — **Moonblast · Calm Mind · Soft-Boiled · Flamethrower** *(ACE — the unkillable motherly matriarch)*
 2. **Azumarill** @ Sitrus Berry — *Huge Power* — Adamant — 252 HP / 252 Atk / 4 Def — **Belly Drum · Play Rough · Aqua Jet · Knock Off** *(deceptively tough — cute bunny, Huge Power nuke)*
@@ -685,7 +690,7 @@ Real-life leader → themed team. The beloved old former nanny — sweet tone, b
 5. **Tinkaton** @ Leftovers — *Mold Breaker* — Jolly — 252 HP / 4 Atk / 252 Spe — **Gigaton Hammer · Play Rough · Knock Off · Stealth Rock** *(giant-hammer fairy — deceptively brutal)*
 6. **Wigglytuff** @ Leftovers — *Competitive* — Bold — 252 HP / 252 Def / 4 SpD — **Wish · Protect · Dazzling Gleam · Thunder Wave** *(Kanto — the huggable nanny: Wish-heals & protects the team)*
 
-#### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
+#### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 60
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 1. **Nidoking** @ Life Orb — *Sheer Force* — Modest — 252 SpA / 4 SpD / 252 Spe — **Earth Power · Sludge Wave · Ice Beam · Flamethrower** *(ACE; Sheer Force cancels Life Orb recoil → nukes)*
 2. **Nidoqueen** @ Black Sludge — *Sheer Force* — Bold — 252 HP / 252 Def / 4 SpA — **Earth Power · Sludge Wave · Ice Beam · Stealth Rock** *(bulky hazard setter)*
