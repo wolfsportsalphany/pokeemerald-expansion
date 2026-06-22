@@ -784,6 +784,15 @@ Real-life leader → themed team. The unassuming snack-bar guy who turns out to 
 5. **Dondozo** @ Leftovers — *Unaware* — Impish — 248 HP / 252 Def / 8 SpD — **Wave Crash · Body Press · Curse · Rest** *(the big lazy beast)*
 6. **Tentacruel** @ Black Sludge — *Clear Body* — Timid — 252 HP / 4 SpA / 252 Spe — **Scald · Sludge Bomb · Rapid Spin · Toxic Spikes** *(Kanto — beachside hazard control)*
 
+#### GYM 13 — J.R. Murphy (IMG Academy, Bradenton FL) — Rock "hard-nosed sand grind" (OU+) — ~Lv 86
+Real-life leader → themed team. **Shane's old IMG teammate** — a former top prospect, now a **retired ex-Yankees catcher**. Relentless, disciplined, rock-solid. *(Kanto Rocks were spent by Brock/Giovanni, so this is the modern Rock gym.)* Ace = **Tyrantrum**.
+1. **Tyrantrum** @ Choice Band — *Strong Jaw* — Adamant — 252 Atk / 4 Def / 252 Spe — **Head Smash · Crunch · Dragon Claw · Earthquake** *(ACE — the T-rex prospect; Strong Jaw nukes)*
+2. **Garganacl** @ Leftovers — *Purifying Salt* — Impish — 252 HP / 252 Def / 4 SpD — **Salt Cure · Recover · Body Press · Stealth Rock** *(rock-solid salt wall)*
+3. **Sandaconda** @ Smooth Rock — *Sand Spit* — Impish — 252 HP / 4 Atk / 252 Def — **Glare · Coil · Earthquake · Rock Blast** *(sets the sand)*
+4. **Lycanroc** @ Life Orb — *Sand Rush* — Jolly — 252 Atk / 4 Def / 252 Spe — **Stone Edge · Close Combat · Crunch · Swords Dance** *(sand-rush sweeper)*
+5. **Omastar** @ White Herb — *Swift Swim* — Modest — 252 SpA / 4 SpD / 252 Spe — **Shell Smash · Hydro Pump · Ice Beam · Earth Power** *(Kanto fossil — deceptive Shell Smash)*
+6. **Glimmora** @ Focus Sash — *Toxic Debris* — Timid — 252 SpA / 4 SpD / 252 Spe — **Mortal Spin · Power Gem · Earth Power · Sludge Wave** *(hazard lead)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
