@@ -1,0 +1,29 @@
+name: Release ROM
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Version label (e.g. v0.1.0-baseline)"
+        required: false
+        default: "dev"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Install toolchain
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends binutils-arm-none-eabi gcc-arm-none-eabi libnewlib-arm-none-eabi libpng-dev python3 build-essential
+      - name: Build ROM
+        run: |
+          make -j"$(nproc)" 2>&1 | tail -60
+      - name: Show ROM
+        run: ls -la *.gba
+      - name: Upload ROM artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: sag-rom
+          path: "*.gba"
+          if-no-files-found: error
