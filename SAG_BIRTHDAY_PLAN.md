@@ -84,7 +84,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
    climax: battle Team Rocket, Ash, Misty, Brock, and **Justin**; **Armored Mewtwo** two-phase
    mirror-team boss → **Shane catches Mewtwo; Justin catches Mew** — Mew becomes Justin's ace).
 7. **Gyms 9–16** (UPenn/APES, Emory, IMG, Camp Pontiac, **Killington/Wobbly Barn**, **Central Synagogue = Gym 16**).
-8. **[16th badge] ELITE FOUR** (+ Champion / secret final boss — cast TBD).
+8. **[16th badge] ELITE FOUR** (+ Champion — cast TBD).
 
 ### Ready to BUILD now (the vertical slice)
 The **opening through Gym 1** is fully specified: apt 28C → floor 11 (Eevee) → Hudson Yards →
@@ -92,7 +92,7 @@ Times Square → Justin → Sidley Austin gym.
 
 ### Still OPEN (won't block the opening)
 - Gyms **14–16** locations/leaders; **gym types** (keep PC's vs re-theme); **Elite Four + Champion
-  + secret final boss** cast.
+  + Champion Jared** cast.
 - Exact **starting Eevee level**; the **species→nature** table; **Joe's** exact role.
 - Custom **Armored Mewtwo sprite** + **mirror-team** custom code (build-phase engineering).
 
@@ -111,7 +111,7 @@ Times Square → Justin → Sidley Austin gym.
      (+ Jared's Eevee).
   5. Build the opening slice (Hudson Yards → Times Square → Gym 1 Sidley Austin → Justin).
 - **Still to design before/while building:** **Gym 16**, the **Elite Four (×4)**, the **Champion**,
-  and the **secret final boss**.
+  and the **Champion Jared**.
 
 ## Status Legend
 - [ ] Not started
@@ -419,8 +419,8 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
    the usual mid-game Elite Four.** **Shane catches Mewtwo; Justin catches Mew** (Mew is NOT player-catchable — it becomes Justin's permanent ace).
 3. **Gyms 9–16** — college & later-life arc (Philly/Atlanta/IMG/etc.).
 4. **After 16th badge → ELITE FOUR** — E4 = **Cali → Dad → Mom → Steven** (Hoenn Champion), then **CHAMPION: Jared** (Shane's brother). *(See "ELITE FOUR & CHAMPION" below.)*
-5. **POST-GAME (locked 2026-06-22):** **Red** is the hidden secret superboss atop the **Empire State Building**, with cross-region champions (Cynthia/Wallace/Steven, etc.) as the climb up to him. Red lives in the post-game — *not* a gym.
-> **Post-Champion → post-game (locked 2026-06-22):** beating **Champion Jared** rolls the **credits**, then Shane **wakes up in his Hudson Yards apt (28C)** and the **post-game** opens — Red atop the Empire State Building + more, which we design next.
+5. **ENDING (locked 2026-06-22):** beat **Champion Jared** → **credits** → wake in **Hudson Yards (apt 28C)** → **THE END.** **No post-game** — the game is already very full. *(The earlier Red / Empire State Building post-game idea is **cut**.)*
+> **Ending (locked 2026-06-22):** beating **Champion Jared** rolls the **credits**, then Shane **wakes up in his Hudson Yards apt (28C)** — a quiet personal finale. **No post-game** (the game is already very full).
 
 ## ★ RIVAL ARC — JUSTIN'S BATTLES (locked 2026-06-22; ~12 fights)
 Justin recurs across the whole game with an escalating, overcompensating Napoleon-complex arc. His
@@ -903,7 +903,7 @@ After the 16th badge. **E4: Cali → Dad → Mom → Steven, then CHAMPION: Jare
 15. **Camp Pontiac (Copake, NY)** — GYM 15 *(LOCKED; TWO leaders **Kenny & Ricky**; south from Killington)*
 16. **Central Synagogue (NYC)** — GYM 16 *(LOCKED 2026-06-22; FINAL gym; **JUSTIN (rival) has seized the synagogue as his gym** — mirrors Altorelli/Gym 1. Congregation (incl. **Rabbi Angela**) forced to allow it; trainers = synagogue members. The climactic rival battle.)*
    → from **Camp Pontiac**, return **south to Manhattan** for the homecoming finale
-   → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
+   → **16th badge → ELITE FOUR (+ Champion)**
 
 > Non-gym story spots/LOCATIONS to thread between gyms: **Central Synagogue** (between Central Park
 > & Town School), **Chelsea Piers** (sports complex), **West Village** (Mom & Dad), **Riverside
