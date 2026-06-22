@@ -51,8 +51,8 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 - **Base/engine:** Polished Crystal (builds clean here — RGBDS 1.0.1 verified).
 - **World:** ONE region = full Johto+Kanto landmass combined, re-skinned to **real tri-state
   geography** (Manhattan core; Bronx/Hudson Valley/Killington north; LI east; NJ/Philly west/SW;
-  Brooklyn south; ocean + Mewtwo Island; far-south college leg). Wild Pokémon themed per area.
-- **Progression:** **Gyms 1–8 (NYC/suburbs) → [8th badge] courier Dragonite + MEWTWO ISLAND arc
+  Brooklyn south; ocean + Mewtwo's Island; far-south college leg). Wild Pokémon themed per area.
+- **Progression:** **Gyms 1–8 (NYC/suburbs) → [8th badge] courier Dragonite + MEWTWO'S ISLAND arc
   (replaces mid-game E4) → Gyms 9–16 (college/later-life) → [16th badge] ELITE FOUR (+ Champion/
   final boss TBD).**
 - **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/all teams; themed to opponent
@@ -64,10 +64,10 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 > 2. **Haunter** (starter; **kept as Haunter, not Gengar** — ideal Eviolite set).
 > 3. **Primeape** (starter; Mankey line — optional Annihilape).
 > 4. **Dragonite** — the **Special-Delivery / courier** Dragonite (Montauk, post-Gym 8 event).
-> 5. **Mewtwo** (caught on Mewtwo Island).
+> 5. **Mewtwo** (caught on Mewtwo's Island).
 > 6. **Lapras** — a **static overworld encounter** (visible sprite you walk up to / Surf out to), in the **Hudson River along the Riverside Park / West Side Highway greenway** (the Chelsea Piers ↔ West Village stretch) — met **earlier in the story (Act I)**, not a gift. Either tucked in a **hidden riverside cave** or just out on the water *(exact spot TBD)*. Fills his Water/Ice coverage.
 > All get max IVs + competitive natures + best/Hidden ability, like every catch.
-  (gyms 9–16 + E4 wield them). **Mewtwo** is the player's only catchable legendary (Mewtwo Island); **Mew is NOT player-catchable — Justin catches it there** and it becomes his ace.
+  (gyms 9–16 + E4 wield them). **Mewtwo** is the player's only catchable legendary (Mewtwo's Island); **Mew is NOT player-catchable — Justin catches it there** and it becomes his ace.
 - **Establishments:** location-based Marts (CVS/Duane Reade/Target/bodega…) & Centers (CityMD/
   hospital/spa…); **Joe's Pizza** chain; **bars** & **weed dispensaries** (full roast).
 
@@ -80,7 +80,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 5. **Gyms 2–8** across NYC/suburbs; family & story NPCs woven through (Mom/Dad West Village, Cali
    Williamsburg, Grandma Linda + uncles Matt/Jason/Donut in Paramus, Old Brookville memorial);
    opponents begin fielding legendaries in later gyms.
-6. **[8th badge] courier Dragonite** invitation (battle+catch) → **MEWTWO ISLAND** (*First Movie*
+6. **[8th badge] courier Dragonite** invitation (battle+catch) → **MEWTWO'S ISLAND** (*First Movie*
    climax: battle Team Rocket, Ash, Misty, Brock, and **Justin**; **Armored Mewtwo** two-phase
    mirror-team boss → **Shane catches Mewtwo; Justin catches Mew** — Mew becomes Justin's ace).
 7. **Gyms 9–16** (UPenn/APES, Emory, IMG, Camp Pontiac, **Killington/Wobbly Barn**, **Central Synagogue = Gym 16**).
@@ -100,7 +100,7 @@ Times Square → Justin → Sidley Austin gym.
 - **Base forked (2026-06-21):** `rh-hideout/pokeemerald-expansion` → your fork (e.g.
   `wolfsportsalphany/pokemon-sag-version`). This is the GBA engine going forward.
 - **Source of truth:** copy **this `SAG_BIRTHDAY_PLAN.md`** into the new repo first thing — it holds
-  the entire design (world/geography, 15 gyms + buildouts, Mewtwo Island arc, cast, mechanics).
+  the entire design (world/geography, 15 gyms + buildouts, Mewtwo's Island arc, cast, mechanics).
 - **First steps in the new session:**
   1. Copy `SAG_BIRTHDAY_PLAN.md` over; commit.
   2. Install toolchain (**devkitARM** + agbcc/modern gcc per the fork's `INSTALL.md`); verify a clean
@@ -186,7 +186,7 @@ in milestones.
     - Shane doesn't love legendaries, so **the player generally can't obtain them** — instead the
       **second-half GYM LEADERS (gyms 9–16) and the ELITE FOUR field legendaries in their parties**
       as serious threats. Legendaries become intimidating opponent power, not collectibles.
-    - **MEWTWO is the deliberate exception** — the player's lone catchable legendary, only via the Mewtwo Island arc
+    - **MEWTWO is the deliberate exception** — the player's lone catchable legendary, only via the Mewtwo's Island arc
       (his favorite, earned through the *First Movie* climax). Concentrate player-obtainable
       legendary content into that one arc; keep others as enemies-only.
     - **★ ARMORED MEWTWO STORYLINE** — a central plot arc themed on *Pokémon: The First Movie*
@@ -292,7 +292,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Dominic A.A. Randolph** | **Gym 4 Leader** — British old guy, posh headmaster | Riverdale Country School, the Bronx |
 | **Aaron Judge** | **Gym 5 Leader** — pro baseball slugger, "the big leagues" | Yankee Stadium, the Bronx |
 | **Jesse** | **Gym 7 Leader** — sweet old Black woman, former family nanny (warm, not roast) | Old Brookville, Long Island |
-| **Giovanni** | **Gym 8 Leader** — Team Rocket boss; Montauk overrun w/ Rocket; bridges to Mewtwo Island | Montauk Lighthouse |
+| **Giovanni** | **Gym 8 Leader** — Team Rocket boss; Montauk overrun w/ Rocket; bridges to Mewtwo's Island | Montauk Lighthouse |
 | **Grandma Linda** | **Gym 9 Leader** — the whole town knows her | Paramus, NJ |
 | **Uncles Matt, Jason (twins), Donut (short)** | **Gym 9 goons** — Grandma's grunt trainers | Paramus, NJ |
 | **The Shermfather** | **Gym 10 Leader** — frat-boss of APES "4K" | UPenn, Philadelphia |
@@ -414,8 +414,8 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 
 ## ★ GAME PROGRESSION / STRUCTURE (locked 2026-06-21)
 1. **Gyms 1–8** — NYC & suburbs arc (start: Hudson Yards → Gym 1 Sidley Austin → …).
-2. **After 8th badge → MEWTWO ISLAND arc** — courier **Dragonite** arrives with Mewtwo's
-   invitation (battle + catch it), then the *First Movie* climax on Mewtwo Island. **This replaces
+2. **After 8th badge → MEWTWO'S ISLAND arc** — courier **Dragonite** arrives with Mewtwo's
+   invitation (battle + catch it), then the *First Movie* climax on Mewtwo's Island. **This replaces
    the usual mid-game Elite Four.** **Shane catches Mewtwo; Justin catches Mew** (Mew is NOT player-catchable — it becomes Justin's permanent ace).
 3. **Gyms 9–16** — college & later-life arc (Philly/Atlanta/IMG/etc.).
 4. **After 16th badge → ELITE FOUR** — E4 = **Cali → Dad → Mom → Steven** (Hoenn Champion), then **CHAMPION: Jared** (Shane's brother). *(See "ELITE FOUR & CHAMPION" below.)*
@@ -436,7 +436,7 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 3. ➕ **Randalls Island**, after Gym 3 — baseball turf; he claims he was the better ballplayer.
 4. ➕ **Brooklyn Bridge**, crossing to Gym 6 — iconic mid-bridge set-piece battle.
 5. ➕ **Montauk**, at Gym 8 — he blunders into the Team Rocket takeover.
-6. ✅ **Mewtwo Island**, post-Gym 8 — Act-I capstone; **Justin catches Mew here** (Shane catches Mewtwo) → Mew becomes his permanent ace.
+6. ✅ **Mewtwo's Island**, post-Gym 8 — Act-I capstone; **Justin catches Mew here** (Shane catches Mewtwo) → Mew becomes his permanent ace.
 7. ➕ **GW Bridge / Fort Lee**, Act II open, pre-Gym 9 — "you're *still* doing this?"
 8. ➕ **Airport** (a Fly hop) — running gag: Justin keeps turning up at airports.
 9. ➕ **Killington chairlift**, at Gym 14 — cold-weather comedy.
@@ -448,8 +448,8 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 
 > **JUSTIN'S TEAM ACROSS THE GAME (locked 2026-06-22; species = proposal, overridable).**
 > **Permanent core (evolves, kept):** Eevee → **Sylveon** (eeveelution — his pick), Kadabra → **Alakazam**, Pupitar → **Tyranitar**.
-> **Act I (by Mewtwo Island), 6:** Eevee · Kadabra · Pupitar · **Gyarados** · **Snorlax** · **temp (Raticate)**.
-> **At Mewtwo Island:** Justin catches **Mew**, replacing the temp 6th slot — **Mew is his ace** from here on (player gets Mewtwo).
+> **Act I (by Mewtwo's Island), 6:** Eevee · Kadabra · Pupitar · **Gyarados** · **Snorlax** · **temp (Raticate)**.
+> **At Mewtwo's Island:** Justin catches **Mew**, replacing the temp 6th slot — **Mew is his ace** from here on (player gets Mewtwo).
 > **Act II — replace the three lower-end mons one-by-one** with stronger **Act-II-obtainable** picks (finalize vs the Act-II wild lists): Gyarados → **Salamence**, Snorlax → **Metagross**; Kadabra finishes → Alakazam.
 > **FINAL team (Gym 16 / League):** **Sylveon · Tyranitar · Alakazam · Mew · Salamence · Metagross** — all from Shane's obtainable pool + the lone Mew exception.
 
@@ -461,8 +461,8 @@ The endgame after the 16th badge. Shane's closest family is the final wall — t
 4. **STEVEN** (E4 #4) — **Steven Stone, Hoenn Champion** (the pokeemerald base's own Champion; Steel-type ace). The lone "outsider" wall in an otherwise all-family Elite Four, right before Jared. *(Already in the base game → easy to wire up. Swap to Cynthia if preferred.)*
 5. **CHAMPION: JARED** — **Shane's brother**, the final boss to beat. *(Bookend: Jared also gives Shane his starter **Eevee** at the very start — the one who begins the journey ends it.)*
 
-## ★ ENDGAME ARC — MEWTWO ISLAND (*First Movie* climax; replaces mid-game E4)
-New location: **Mewtwo Island** ("New Island"), sitting **far off the eastern coast of Long Island**
+## ★ ENDGAME ARC — MEWTWO'S ISLAND (*First Movie* climax; replaces mid-game E4)
+New location: **Mewtwo's Island** ("New Island"), sitting **far off the eastern coast of Long Island**
 in the open Atlantic — reached by **surfing east from Montauk through a movie-accurate hurricane**
 (unlocked after the 8th badge via the courier Dragonite's invitation). The arc **closely mirrors
 the plot & beats of *Pokémon: The First Movie***
@@ -473,7 +473,7 @@ Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our
 **Flow:**
 1. Beat **Gym 8 (Montauk)** → **courier Dragonite** flies into Montauk with the invitation →
    **battle & catch the Dragonite** (the one-off) → accept invite → **SURF EAST from Montauk
-   through a movie-accurate HURRICANE** to **Mewtwo Island**, which sits **far off the eastern
+   through a movie-accurate HURRICANE** to **Mewtwo's Island**, which sits **far off the eastern
    coast of Long Island** in the open Atlantic. (Recreate the First Movie's violent storm crossing
    — huge waves, lightning; a dramatic, perilous surf to the island.)
 2. **On the island:** invited-trainer arrivals, Mewtwo's mansion/lab, clone-machine intrigue —
@@ -526,7 +526,7 @@ direction; water bodies are real; the southern college leg is a long journey sou
                                   |
                           [ NY HARBOR / ATLANTIC ]
                                   |
-                          [ MEWTWO ISLAND ]   out at sea (unlocks after 8th badge)
+                          [ MEWTWO'S ISLAND ]   out at sea (unlocks after 8th badge)
 
    ── SOUTHERN LEG (Act II; reached by Amtrak/flight from Penn Station) ──
    [ PHILADELPHIA / UPenn ] ——S——> [ ATLANTA / Emory ] ——S——> [ FLORIDA ]
@@ -535,7 +535,7 @@ direction; water bodies are real; the southern college leg is a long journey sou
                                                                  Hemispheres" (SE coast, hoops)
 ```
 - **Water/surf routes:** Hudson River (W), East River (E), NY Harbor (S), Long Island Sound (E).
-  **Mewtwo Island = far EAST of Montauk** in the open Atlantic (surf there through a hurricane after
+  **Mewtwo's Island = far EAST of Montauk** in the open Atlantic (surf there through a hurricane after
   Gym 8). HM Surf/fishing gate the islands & coastlines.
 - **North spine:** Manhattan → Bronx → Hudson Valley (Camp Pontiac) → Killington, VT (coldest/
   northernmost). Temperature/biome shifts colder as you go north (snow at Killington).
@@ -563,7 +563,7 @@ direction; water bodies are real; the southern college leg is a long journey sou
 
 > **Note:** Shane's favorites stay special: **Mankey** features around Randalls/Bronx (Fighting),
 > **Gastly/Haunter** in spooky night spots (Central Park at night, old buildings), **Eevee** stays
-> Jared-only, **Dragonite** stays the Mewtwo-Island one-off.
+> Jared-only, **Dragonite** stays the Mewtwo's Island one-off.
 
 ## ★ PLAYER-SIDE QOL & LEVELING (locked 2026-06-22) — features to implement
 So Shane can freely build & test teams against the brutal gauntlet:
@@ -612,7 +612,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 > Notes: Gym 4 Ghost lets **Gastly/Haunter** (Shane's fave) headline a gym; Gym 16 = Justin's full **eeveelution** army (his Eevee obsession) instead of one type. Override any cell freely.
 
 ### ★ COMPETITIVE BATTLE BUILDS (ALL gyms + endgame) — WIP, one at a time
-**Every notable trainer** — all **16 gym leaders**, the Mewtwo-Island bosses, the **Elite Four**, the
+**Every notable trainer** — all **16 gym leaders**, the Mewtwo's Island bosses, the **Elite Four**, the
 **Champion**, and **rival Justin** — fields a **full 6-Pokémon team**, built to be **genuinely hard**.
 - **Two methods:** **Pokémon-canon characters** (Giovanni, Prof. Oak, Steven, Red, guest champs) → their
   **canon/signature** teams. **Real-life people** (Altorelli, Sokotch, Randolph, Judge, Jesse, Grandma
@@ -627,7 +627,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 
 ### ★ LEVEL CURVE (locked 2026-06-22)
 Start ~**Lv 16** (early-stage party, Gym-1-ready). Ramp:
-G1 **18** · G2 **24** · G3 **30** · G4 **36** · G5 **42** · G6 **48** · G7 **54** · G8 **60** · Mewtwo Island **~63** · G9 **68** · G10 **73** · G11 **78** · G12 **82** · G13 **86** · G14 **89** · G15 **92** · **G16 (Justin) mid-90s (90–96)**.
+G1 **18** · G2 **24** · G3 **30** · G4 **36** · G5 **42** · G6 **48** · G7 **54** · G8 **60** · Mewtwo's Island **~63** · G9 **68** · G10 **73** · G11 **78** · G12 **82** · G13 **86** · G14 **89** · G15 **92** · **G16 (Justin) mid-90s (90–96)**.
 **ELITE FOUR, CHAMPION & ALL POST-GAME (incl. Red) = Lv 100.** The universal level cap rises to each step's value; per-entry "~Lv" figures follow this table.
 - **Battle AI (locked 2026-06-22): top-of-the-line, EVERYWHERE.** Every trainer runs the **maxed smart-AI
   flag set** (damage/viability checks, smart switching, priority & status awareness, sequence prediction,
@@ -708,7 +708,7 @@ Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 5. **Dugtrio** @ Focus Sash — *Arena Trap* — Jolly — 252 Atk / 4 Def / 252 Spe — **Earthquake · Stone Edge · Sucker Punch · Reversal** *(traps & revenge-kills — Giovanni mind-games)*
 6. **Persian** @ Silk Scarf — *Technician* — Jolly — 252 Atk / 4 Def / 252 Spe — **Fake Out · U-turn · Knock Off · Throat Chop** *(his signature cat; fast utility/pivot. Swap to Rhyperior for raw power over flavor.)*
 
-#### MEWTWO ISLAND — boss gauntlet (post-Gym 8) — full competitive, ~Lv 63
+#### MEWTWO'S ISLAND — boss gauntlet (post-Gym 8) — full competitive, ~Lv 63
 The *First Movie* climax. Surf through the hurricane from Montauk → invited-trainer battles → Team Rocket → Armored Mewtwo. **Shane catches Mewtwo; Justin catches Mew.** Anime trainers = full competitive upgrades.
 
 **ASH** — iconic regional aces, maxed. Ace = **Pikachu**.
@@ -748,7 +748,7 @@ The *First Movie* climax. Surf through the hurricane from Montauk → invited-tr
 **ARMORED MEWTWO (two-phase boss)** — ~Lv 65. Phase 1: trainer battle, **mirror team = clone of the player's party +5 levels**. Phase 2: armor shatters → **wild Mewtwo** → Shane catches it. (Full spec in the Endgame Arc section.)
 
 ### Proposed order / skeleton (DRAFT — reorder freely)
-**ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo Island:**
+**ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
    → route: **Times Square**
 1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED; Altorelli + Russian-spy GF + Russian goons)*
@@ -767,8 +767,8 @@ The *First Movie* climax. Surf through the hurricane from Montauk → invited-tr
 7. **Old Brookville (Long Island)** — GYM 7 *(LOCKED; leader **Jesse**, sweet old former nanny;
    coexists with grandparents' memorial)*
    → route: **continue east to the tip of Long Island**
-8. **Montauk Lighthouse** — GYM 8 *(LOCKED; LAST Act-I gym; leader **Giovanni** / Team Rocket boss — bridges to Mewtwo Island)*
-   → **after Gym 8: courier DRAGONITE arrives in MONTAUK (battle+catch) → sail to MEWTWO ISLAND arc**
+8. **Montauk Lighthouse** — GYM 8 *(LOCKED; LAST Act-I gym; leader **Giovanni** / Team Rocket boss — bridges to Mewtwo's Island)*
+   → **after Gym 8: courier DRAGONITE arrives in MONTAUK (battle+catch) → sail to MEWTWO'S ISLAND arc**
 **ACT II — opens by waking in apt 28C → West Village (Dad) → Paramus. (Gyms 9–16), then Elite Four:**
 9. **Paramus, NJ** — GYM 9 *(LOCKED; leader **Grandma Linda**, goons = uncles **Matt/Jason/Donut**,
    whole town knows them; reached via **West Side Hwy → GW Bridge → Fort Lee → Paramus**;
@@ -944,11 +944,11 @@ The *First Movie* climax. Surf through the hurricane from Montauk → invited-tr
   **Team Rocket takeover** — Rocket grunts everywhere as the trainers (storm the town, fight up the
   lighthouse). Big set-piece "liberate Montauk" beat, like a Rocket-HQ raid.
 - **Leader: GIOVANNI** — the **Team Rocket boss**, fought at the **top of the lighthouse** as the
-  Gym 8 leader. **Perfect bridge:** beating Giovanni leads straight into **Mewtwo Island**, where
+  Gym 8 leader. **Perfect bridge:** beating Giovanni leads straight into **Mewtwo's Island**, where
   **Team Rocket** is behind the Mewtwo experiment (Giovanni can flee/foreshadow toward the island).
   **Type:** Ground/Rocket (canon-ish). Badge TBD.
 - **★ AFTER GYM 8 (locked 2026-06-21): the courier DRAGONITE arrives in MONTAUK** with Mewtwo's
-  invitation (battle + catch it) → **sail from Montauk's ocean tip out to MEWTWO ISLAND** → the
+  invitation (battle + catch it) → **sail from Montauk's ocean tip out to MEWTWO'S ISLAND** → the
   *First Movie* arc. (Montauk = the literal jumping-off point to the island. Perfect.)
 
 > ✅ **GYM COUNT RESOLVED:** Act I = exactly **8** (Sidley, Town School, Randalls, Riverdale,
@@ -956,7 +956,7 @@ The *First Movie* climax. Surf through the hurricane from Montauk → invited-tr
 > Pontiac, Killington, Hallandale, Central Synagogue, Paramus) = **8** → fits 9–16 cleanly.
 
 ### ACT II OPENING + #9 — PARAMUS, NJ — GYM 9 (Grandma Linda) — DRAFT
-- **Act II kickoff (locked 2026-06-21):** after Mewtwo Island, Shane **wakes in apt 28C** → goes
+- **Act II kickoff (locked 2026-06-21):** after Mewtwo's Island, Shane **wakes in apt 28C** → goes
   home to the **West Village** → **Dad tells him to visit Paramus.**
 - **Route to Paramus (locked):** from the **West Village**, take the **West Side Highway** north up
   to the **George Washington Bridge**, cross into NJ to **FORT LEE**, then on to **Paramus**.
@@ -1114,7 +1114,7 @@ _(awaiting details)_
 - **TRIGGER (locked):** after the player **defeats Gym 8 (Montauk Lighthouse)**, the **courier
   Dragonite arrives in MONTAUK with Mewtwo's invitation.** The Dragonite is then **battleable AND
   catchable** right there — the one-off Dragonite. Accepting the invite → **sail from Montauk's
-  ocean tip to MEWTWO ISLAND** (the endgame arc).
+  ocean tip to MEWTWO'S ISLAND** (the endgame arc).
 - **Ties into the ★ Armored Mewtwo storyline** (see Featured Pokémon) — the letter it delivers is
   Mewtwo's invitation; the two events form one cohesive *First Movie* arc.
 - Implementation ideas (TBD):
