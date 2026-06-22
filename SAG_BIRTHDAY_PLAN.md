@@ -820,6 +820,49 @@ The climactic rival battle: Justin's seized the synagogue as his gym (congregati
 5. **Salamence** @ Lum Berry — *Moxie* — Adamant — 252 Atk / 4 Def / 252 Spe — **Dragon Dance · Dragon Claw · Earthquake · Roost** *(Act-II upgrade)*
 6. **Metagross** @ Life Orb — *Tough Claws* — Adamant — 252 Atk / 4 Def / 252 Spe — **Meteor Mash · Bullet Punch · Earthquake · Ice Punch** *(Act-II upgrade)*
 
+#### ELITE FOUR & CHAMPION — teams (Lv 100)
+After the 16th badge. **E4: Cali → Dad → Mom → Steven, then CHAMPION: Jared.** Everything is Lv 100.
+
+**E4 #1 — CALI** (younger sister) — "small but nasty" competitive mons. Ace = **Weavile**.
+1. **Weavile** @ Heavy-Duty Boots — *Pressure* — Jolly — **Triple Axel · Knock Off · Ice Shard · Low Kick** *(ACE)*
+2. **Mawile** @ Life Orb — *Huge Power* — Adamant — **Play Rough · Sucker Punch · Swords Dance · Iron Head**
+3. **Sneasler** @ Heavy-Duty Boots — *Unburden* — Jolly — **Close Combat · Dire Claw · Swords Dance · U-turn**
+4. **Grafaiai** @ Black Sludge — *Prankster* — Jolly — **Gunk Shot · Knock Off · Encore · Parting Shot**
+5. **Maushold** @ Wide Lens — *Technician* — Jolly — **Population Bomb · Tidy Up · Bite · Encore**
+6. **Sableye** @ Leftovers — *Prankster* — Bold — **Will-O-Wisp · Foul Play · Recover · Knock Off**
+
+**E4 #2 — DAD** — "technology-looking" competitive (Iron Paradox + machines). Ace = **Iron Valiant**.
+1. **Iron Valiant** @ Booster Energy — *Quark Drive* — Naive — **Moonblast · Close Combat · Knock Off · Encore** *(ACE)*
+2. **Iron Hands** @ Assault Vest — *Quark Drive* — Adamant — **Drain Punch · Fake Out · Thunder Punch · Close Combat**
+3. **Iron Treads** @ Booster Energy — *Quark Drive* — Jolly — **Earthquake · Iron Head · Rapid Spin · Stealth Rock**
+4. **Archaludon** @ Assault Vest — *Stamina* — Modest — **Electro Shot · Draco Meteor · Flash Cannon · Body Press**
+5. **Revavroom** @ Life Orb — *Filter* — Adamant — **Shift Gear · Gunk Shot · Iron Head · High Horsepower**
+6. **Rotom-Wash** @ Leftovers — *Levitate* — Bold — **Hydro Pump · Volt Switch · Will-O-Wisp · Nasty Plot**
+
+**E4 #3 — MOM** — "beautiful" competitive. Ace = **Milotic**.
+1. **Milotic** @ Flame Orb — *Marvel Scale* — Bold — **Scald · Recover · Ice Beam · Haze** *(ACE)*
+2. **Gardevoir** @ Choice Specs — *Trace* — Timid — **Moonblast · Psyshock · Focus Blast · Trick**
+3. **Roserade** @ Black Sludge — *Natural Cure* — Timid — **Sludge Bomb · Giga Drain · Sleep Powder · Spikes**
+4. **Togekiss** @ Leftovers — *Serene Grace* — Timid — **Air Slash · Nasty Plot · Roost · Flamethrower**
+5. **Serperior** @ Leftovers — *Contrary* — Timid — **Leaf Storm · Giga Drain · Glare · Substitute**
+6. **Espathra** @ Leftovers — *Speed Boost* — Timid — **Lumina Crash · Calm Mind · Stored Power · Protect**
+
+**E4 #4 — STEVEN** (Hoenn Champion, canon) — Steel/Rock. Ace = **Metagross**.
+1. **Metagross** @ Life Orb — *Clear Body* — Adamant — **Meteor Mash · Earthquake · Bullet Punch · Ice Punch** *(ACE)*
+2. **Aggron** @ Assault Vest — *Rock Head* — Adamant — **Heavy Slam · Head Smash · Earthquake · Ice Punch**
+3. **Skarmory** @ Rocky Helmet — *Sturdy* — Impish — **Body Press · Spikes · Roost · Iron Defense**
+4. **Excadrill** @ Leftovers — *Mold Breaker* — Adamant — **Earthquake · Iron Head · Rapid Spin · Stealth Rock**
+5. **Cradily** @ Leftovers — *Storm Drain* — Careful — **Recover · Giga Drain · Stealth Rock · Stone Edge**
+6. **Armaldo** @ Life Orb — *Swift Swim* — Adamant — **Stone Edge · X-Scissor · Earthquake · Aqua Tail**
+
+**CHAMPION — JARED** (Shane's brother; the Eevee-giver). Specified team — legendary firepower + the signature **Eviolite** tech wall (echoes the clever-NFE motif). Ace = **Kyogre**.
+1. **Kyogre** @ Mystic Water — *Drizzle* — Modest — **Water Spout · Origin Pulse · Ice Beam · Thunder** *(ACE)*
+2. **Dialga** @ Life Orb — *Pressure* — Modest — **Draco Meteor · Flash Cannon · Earth Power · Thunder**
+3. **Zapdos** @ Heavy-Duty Boots — *Static* — Timid — **Thunderbolt · Hurricane · Heat Wave · Roost**
+4. **Cresselia** @ Leftovers — *Levitate* — Bold — **Moonblast · Moonlight · Calm Mind · Ice Beam**
+5. **Marshadow** @ Life Orb — *Technician* — Jolly — **Spectral Thief · Close Combat · Shadow Sneak · Bulk Up**
+6. **Porygon2** @ **Eviolite** — *Download* — Bold — **Tri Attack · Ice Beam · Recover · Thunder Wave** *(the clever Eviolite NFE wall — Jared's signature)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
