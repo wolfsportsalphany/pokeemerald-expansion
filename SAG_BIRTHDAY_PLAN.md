@@ -527,7 +527,8 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED; Altorelli + Russian-spy GF + Russian goons)*
    → route: **Central Park** → **Central Synagogue** (LOCATION, between Central Park & the school) → Town School
 2. **The Town School (UES, 76th & East End)** — GYM 2 *(LOCKED; leader **Ms. Sokotch**)*
-   → after Gym 2: **John Jay Park** gauntlet (Steven, Jake, Justin)
+   → **before** Gym 2: **Justin** rival battle on the **Central Park** approach *(moved here 2026-06-22)*
+   → after Gym 2: **John Jay Park** — battle **Steven & Jake** (Justin present, but does **not** battle)
 3. **Randalls Island** — GYM 3 *(LOCKED; BASEBALL — teammates from Uptown/CYO/Thunder/Gothams/
    Riverdale/Titans; N&E of the Town School, an island)*
 4. **Riverdale Country School (the Bronx)** — GYM 4 *(LOCKED; leader **Dominic A.A. Randolph**, British old guy)*
@@ -605,6 +606,9 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Approach (route):** from Gym 1, head **through Central Park** to reach the Upper East Side.
   **Central Park** = the green route between Gyms 1 and 2 (joggers, dog-walkers, chess hustlers as
   trainers; bug/grass/normal wilds; Gastly at night).
+- **PRE-GYM RIVAL BATTLE (moved here 2026-06-22):** on the **Central Park** approach to the Town
+  School (at the gym gate), **Justin** reappears to block Shane for a **rival battle — fought
+  *before* Gym 2.** *(This is the rival fight relocated out of the post-gym John Jay Park gauntlet.)*
 - **Location:** **The Town School**, **76th St & East End Ave**, Upper East Side.
 - **Leader (locked 2026-06-21):** **Ms. Sokotch** — give her **glasses**, and make her **mean and
   ugly** (the strict, terrifying schoolteacher). Full-roast battle-axe energy.
@@ -612,10 +616,11 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   trainers; detention/principal's-office vibe.
 - **Type:** TBD (school → could be Normal or Psychic "teacher's pet/smarty" theme).
 - **Badge/reward:** TBD name.
-- **POST-GYM BATTLES (locked 2026-06-21):** right after beating the Town School gym, in **John Jay
+- **POST-GYM BATTLES (updated 2026-06-22):** right after beating the Town School gym, in **John Jay
   Park** (real UES park, ~76th by the East River, right outside the school), Shane battles a
-  gauntlet of **Steven**, **Jake**, and **Justin** (rival shows up again). Three back-to-back
-  trainer battles in the park. *(Steven & Jake = new characters — friends/classmates; confirm.)*
+  gauntlet of **Steven** and **Jake** — two back-to-back trainer battles. **Justin is also present
+  at John Jay Park, but does NOT battle Shane here** (story-beat/taunt cameo only; his rival battle
+  now happens *before* the Town School gym). *(Steven & Jake = new characters — friends/classmates; confirm.)*
 
 ### #3 — RANDALLS ISLAND — GYM 3 (BASEBALL) — DRAFT
 - **Approach:** from **John Jay Park**, head **north & east to Randalls Island** (an island, across
