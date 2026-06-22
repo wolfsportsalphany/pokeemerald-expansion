@@ -58,7 +58,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 - **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/all teams; themed to opponent
   & location. **All Pokémon get max IVs + competitive natures (universal).** Favorites featured:
   **Eevee, Primeape, Haunter (not Gengar), Dragonite, Mewtwo.** Legendaries are **enemies-only**
-  (gyms 9–16 + E4 wield them) **except Mewtwo & Mew** (caught on Mewtwo Island).
+  (gyms 9–16 + E4 wield them). **Mewtwo** is the player's only catchable legendary (Mewtwo Island); **Mew is NOT player-catchable — Justin catches it there** and it becomes his ace.
 - **Establishments:** location-based Marts (CVS/Duane Reade/Target/bodega…) & Centers (CityMD/
   hospital/spa…); **Joe's Pizza** chain; **bars** & **weed dispensaries** (full roast).
 
@@ -73,7 +73,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
    opponents begin fielding legendaries in later gyms.
 6. **[8th badge] courier Dragonite** invitation (battle+catch) → **MEWTWO ISLAND** (*First Movie*
    climax: battle Team Rocket, Ash, Misty, Brock, and **Justin**; **Armored Mewtwo** two-phase
-   mirror-team boss → catch Mewtwo; **Mew** catchable after).
+   mirror-team boss → **Shane catches Mewtwo; Justin catches Mew** — Mew becomes Justin's ace).
 7. **Gyms 9–16** (UPenn/APES, Emory, IMG, Camp Pontiac, **Killington/Wobbly Barn**, **Central Synagogue = Gym 16**).
 8. **[16th badge] ELITE FOUR** (+ Champion / secret final boss — cast TBD).
 
@@ -177,7 +177,7 @@ in milestones.
     - Shane doesn't love legendaries, so **the player generally can't obtain them** — instead the
       **second-half GYM LEADERS (gyms 9–16) and the ELITE FOUR field legendaries in their parties**
       as serious threats. Legendaries become intimidating opponent power, not collectibles.
-    - **MEWTWO (+ Mew) are the deliberate exceptions** — catchable only via the Mewtwo Island arc
+    - **MEWTWO is the deliberate exception** — the player's lone catchable legendary, only via the Mewtwo Island arc
       (his favorite, earned through the *First Movie* climax). Concentrate player-obtainable
       legendary content into that one arc; keep others as enemies-only.
     - **★ ARMORED MEWTWO STORYLINE** — a central plot arc themed on *Pokémon: The First Movie*
@@ -407,7 +407,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 1. **Gyms 1–8** — NYC & suburbs arc (start: Hudson Yards → Gym 1 Sidley Austin → …).
 2. **After 8th badge → MEWTWO ISLAND arc** — courier **Dragonite** arrives with Mewtwo's
    invitation (battle + catch it), then the *First Movie* climax on Mewtwo Island. **This replaces
-   the usual mid-game Elite Four.** Catch Mewtwo; Mew becomes catchable after.
+   the usual mid-game Elite Four.** **Shane catches Mewtwo; Justin catches Mew** (Mew is NOT player-catchable — it becomes Justin's permanent ace).
 3. **Gyms 9–16** — college & later-life arc (Philly/Atlanta/IMG/etc.).
 4. **After 16th badge → ELITE FOUR** — E4 = **Cali → Dad → Mom → Steven** (Hoenn Champion), then **CHAMPION: Jared** (Shane's brother). *(See "ELITE FOUR & CHAMPION" below.)*
 5. **POST-GAME (locked 2026-06-22):** **Red** is the hidden secret superboss atop the **Empire State Building**, with cross-region champions (Cynthia/Wallace/Steven, etc.) as the climb up to him. Red lives in the post-game — *not* a gym.
@@ -427,7 +427,7 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 3. ➕ **Randalls Island**, after Gym 3 — baseball turf; he claims he was the better ballplayer.
 4. ➕ **Brooklyn Bridge**, crossing to Gym 6 — iconic mid-bridge set-piece battle.
 5. ➕ **Montauk**, at Gym 8 — he blunders into the Team Rocket takeover.
-6. ✅ **Mewtwo Island**, post-Gym 8 — he tags along to the island (Act-I capstone).
+6. ✅ **Mewtwo Island**, post-Gym 8 — Act-I capstone; **Justin catches Mew here** (Shane catches Mewtwo) → Mew becomes his permanent ace.
 7. ➕ **GW Bridge / Fort Lee**, Act II open, pre-Gym 9 — "you're *still* doing this?"
 8. ➕ **Airport** (a Fly hop) — running gag: Justin keeps turning up at airports.
 9. ➕ **Killington chairlift**, at Gym 14 — cold-weather comedy.
@@ -436,6 +436,13 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 12. ➕ **Pokémon League gate**, before the Champion — final battle; Napoleon-complex payoff (earns respect or fully melts down).
 
 > Life-specific beats to confirm: was Justin a **baseball** guy (#3)? did Shane & Justin go to **camp** together (#10)? weave the **Pilates / Jared's-wedding** roast into specific fights.
+
+> **JUSTIN'S TEAM ACROSS THE GAME (locked 2026-06-22; species = proposal, overridable).**
+> **Permanent core (evolves, kept):** Eevee → **Sylveon** (eeveelution — his pick), Kadabra → **Alakazam**, Pupitar → **Tyranitar**.
+> **Act I (by Mewtwo Island), 6:** Eevee · Kadabra · Pupitar · **Gyarados** · **Arcanine** · **temp (Raticate)**.
+> **At Mewtwo Island:** Justin catches **Mew**, replacing the temp 6th slot — **Mew is his ace** from here on (player gets Mewtwo).
+> **Act II — replace the three lower-end mons one-by-one** with stronger **Act-II-obtainable** picks (finalize vs the Act-II wild lists): Gyarados → **Salamence**, Arcanine → **Metagross**; Kadabra finishes → Alakazam.
+> **FINAL team (Gym 16 / League):** **Sylveon · Tyranitar · Alakazam · Mew · Salamence · Metagross** — all from Shane's obtainable pool + the lone Mew exception.
 
 ## ★ ELITE FOUR & CHAMPION (locked 2026-06-22 — cast)
 The endgame after the 16th badge. Shane's closest family is the final wall — the journey ends at home.
@@ -470,7 +477,7 @@ Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our
 4. **★ Armored Mewtwo (two-phase boss):**
    - Phase 1: trainer battle vs **Armored Mewtwo** with the **mirror team** (clone of player's
      party, +5 levels). Phase 2: armor shatters → **wild Mewtwo** → **catchable.**
-5. **Mew appears** and becomes **catchable after** the Mewtwo battle (movie's other legendary).
+5. **Mew appears** after the Mewtwo battle — **Justin catches it; it is NOT player-catchable.** Mew is Justin's ace for the rest of the game.
 6. **Arc ends → Shane WAKES BACK UP in apt 28C, Hudson Yards** (First-Movie-style dreamlike
    aftermath / memory haze — did it even happen?). This transitions into **Act II.**
 7. **Act II kickoff:** head home to the **West Village**, where **Dad** tells Shane he needs to
