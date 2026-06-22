@@ -548,6 +548,30 @@ Per-location detail captured here as we walk through them. Format per entry: **m
 resident NPCs → story beat → (if gym) leader / type / team theme / puzzle.** Gym **types** default
 to PC's existing types under new skins unless we re-theme (your call per gym).
 
+### ★ GYM TYPES & BADGES (locked 2026-06-22 — supersedes the per-gym "Type: TBD" lines)
+15 distinct mono-types + an Eeveelution finale. (Grass = Central Park wilds; Electric/Dragon → E4/Champion.)
+
+| # | Gym (leader) | Type | Badge |
+|---|---|---|---|
+| 1 | Sidley Austin (Altorelli) | **Dark** | Counsel |
+| 2 | The Town School (Ms. Sokotch) | **Psychic** | Honor Roll |
+| 3 | Randalls Island (youth baseball) | **Fighting** | Sandlot |
+| 4 | Riverdale Country School (Randolph) | **Ghost** | Old Manor |
+| 5 | Yankee Stadium (Aaron Judge) | **Flying** | Pinstripe |
+| 6 | Brooklyn Law (→ Cali) | **Steel** | Gavel |
+| 7 | Old Brookville (Jesse) | **Fairy** | Hearth |
+| 8 | Montauk Lighthouse (Giovanni) | **Ground** | Rocket |
+| 9 | Paramus (Grandma Linda) | **Normal** | Family |
+| 10 | UPenn frat "4K" (Shermfather) | **Poison** | Keg |
+| 11 | Emory Law (Madi) | **Fire** | Peach |
+| 12 | Hallandale "Hemispheres" (Roman) | **Water** | Tide |
+| 13 | IMG Academy (J.R. Murphy) | **Rock** | Prospect |
+| 14 | Killington (Prof. Oak) | **Ice** | Summit |
+| 15 | Camp Pontiac (Kenny & Ricky) | **Bug** | Cabin |
+| 16 | Central Synagogue (Justin) | **Eeveelutions (mixed)** | Rival |
+
+> Notes: Gym 4 Ghost lets **Gastly/Haunter** (Shane's fave) headline a gym; Gym 16 = Justin's full **eeveelution** army (his Eevee obsession) instead of one type. Override any cell freely.
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo Island:**
 0. **Hudson Yards** — START hub (not a gym)
