@@ -432,8 +432,8 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 > **levels track the player/gym curve** — he **starts ~Gym-1 level** alongside Shane and grows in step; by Gym 16
 > it's his fully-evolved obtainable squad.
 
-1. ✅ **Times Square**, pre-Gym 1 — first battle, Eevee vs Eevee; Pilates brag.
-2. ✅ **Central Park**, pre-Gym 2 — approach rematch. **Team (locked): Eevee + Kadabra + Pupitar** — his core trio (mirrors Shane's pool), which **evolve across the arc** → his eeveelution / **Alakazam** / **Tyranitar**.
+1. ✅ **Times Square**, pre-Gym 1 — first battle &mdash; team **Eevee · Kadabra · Snorlax · Pupitar** (4, since Shane starts with 3); Eevee-vs-Eevee; Pilates brag.
+2. ✅ **Central Park**, pre-Gym 2 — approach rematch. **Team: Eevee · Kadabra · Snorlax · Pupitar** — his core trio (mirrors Shane's pool), which **evolve across the arc** → his eeveelution / **Alakazam** / **Tyranitar**.
 3. ➕ **Randalls Island**, after Gym 3 — baseball turf; he claims he was the better ballplayer.
 4. ➕ **Brooklyn Bridge**, crossing to Gym 6 — iconic mid-bridge set-piece battle.
 5. ➕ **Montauk**, at Gym 8 — he blunders into the Team Rocket takeover.
@@ -446,6 +446,24 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 12. ➕ **Pokémon League gate**, before the Champion — final battle; Napoleon-complex payoff (earns respect or fully melts down).
 
 > Life-specific beats to confirm: was Justin a **baseball** guy (#3)? did Shane & Justin go to **camp** together (#10)? weave the **Pilates / Jared's-wedding** roast into specific fights.
+
+### ★ JUSTIN — TEAM BY BATTLE (locked 2026-06-22)
+His squad grows, then upgrades one-by-one in Act II. Sets follow his Smogon-mirror picks; levels track the curve. (Battle 1 already fields 4, since Shane starts with 3.)
+
+| # | Where | ~Lv | Justin's team (bold = new/changed) |
+|---|---|---|---|
+| 1 | Times Square (pre-G1) | 18 | Eevee · Kadabra · Snorlax · Pupitar |
+| 2 | Central Park (pre-G2) | 24 | Eevee · Kadabra · Snorlax · Pupitar |
+| 3 | Randalls (post-G3) | 30 | + **Gyarados** (5) |
+| 4 | Brooklyn Bridge (→G6) | 45 | Pupitar → **Tyranitar**; + **Raticate** (temp) → 6 |
+| 5 | Montauk (G8) | 58 | Eevee · Kadabra · Tyranitar · Snorlax · Gyarados · Raticate |
+| 6 | Mewtwo's Island | 63 | …six → **catches Mew** (replaces Raticate) |
+| 7 | Fort Lee (Act II, pre-G9) | 66 | Eevee · Kadabra · Tyranitar · Snorlax · Gyarados · **Mew** |
+| 8 | Airport | 73 | Kadabra → **Alakazam** |
+| 9 | Killington (G14) | 88 | Gyarados → **Salamence** |
+| 10 | Camp Pontiac (G15) | 92 | Snorlax → **Metagross**; Eevee → **Sylveon** |
+| 11 | Synagogue = G16 | 95 | **Sylveon · Alakazam · Tyranitar · Salamence · Metagross · Mew** (final) |
+| 12 | League gate (pre-Champion) | 98 | …final six |
 
 > **JUSTIN'S TEAM ACROSS THE GAME (locked 2026-06-22; species = proposal, overridable).**
 > **Permanent core (evolves, kept):** Eevee → **Sylveon** (eeveelution — his pick), Kadabra → **Alakazam**, Pupitar → **Tyranitar**.
