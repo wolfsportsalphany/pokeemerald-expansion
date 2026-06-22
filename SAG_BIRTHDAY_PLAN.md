@@ -294,7 +294,8 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Professor Oak** | **Gym 14 Leader** — researching an undiscovered legendary | Killington, VT (mountaintop) |
 | **Kenny** | Killington **slope NPC** — Dad's friend; chairlift-spitting lore | Killington, VT |
 | **Kenny & Ricky** | **Gym 15 co-Leaders** (twin double battle) — old twin doctors who own the camp; glasses + white hair *(distinct from Gym-14 Kenny)* | Camp Pontiac, Copake NY |
-| **Rabbi Angela** | **Gym 16 Leader (FINAL gym)** — young-ish Korean woman, Jewish; all trainers = synagogue congregants/clergy/staff | Central Synagogue, NYC |
+| **Justin** (rival) | **Gym 16 Leader (FINAL gym)** — *hostile takeover* of Central Synagogue (mirrors Altorelli seizing Sidley/Gym 1); the climactic rival battle | Central Synagogue, NYC |
+| **Rabbi Angela** | Central Synagogue member — young-ish Korean Jewish woman; publicly objects that Justin seized the gym (the congregation doesn't want him, but has to allow it) | Central Synagogue, NYC |
 
 ### Locked decisions (2026-06-21)
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
@@ -367,7 +368,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 | **Randalls Island** | real explorable ballfields/park island | baseball teammates/coach | Shane's HS baseball; a "big game" event; fishing off the water |
 | **Central Park** | big iconic green expanse | joggers, dog-walkers, chess hustlers | major hub park — wild encounters, trainers, hidden items |
 | **Riverside Park / West Side Hwy greenway** | LONG, NARROW riverfront greenway | runners, bikers | super-long **4-tiles-wide** green path along the Hudson; **connects Chelsea Piers (Gym 5) ↔ West Village** |
-| **Central Synagogue** | **GYM 16 (final)** + early landmark | **Rabbi Angela** + congregants | early bar-mitzvah memory; the FINAL gym on return |
+| **Central Synagogue** | **GYM 16 (final)** + early landmark | **Justin** (rival, took it over) + congregants incl. **Rabbi Angela** | early bar-mitzvah memory; final gym = Justin's takeover |
 | **Williamsburg, Bklyn** | hipster law-student life | **Cali** (sister, Brooklyn Law) | visit lil sis; she ribs Shane |
 | **Bronx** | stadium district | Yankees fans | **Yankee Stadium** landmark/event |
 | **Paramus, NJ** | mall suburbia | **Grandma Linda**, uncles **Matt & Jason** (twins), **Donut** (short) | the "crazy uncles" chaos; Grandma feeds you; mall jokes |
@@ -409,9 +410,39 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
    invitation (battle + catch it), then the *First Movie* climax on Mewtwo Island. **This replaces
    the usual mid-game Elite Four.** Catch Mewtwo; Mew becomes catchable after.
 3. **Gyms 9–16** — college & later-life arc (Philly/Atlanta/IMG/etc.).
-4. **After 16th badge → ELITE FOUR** — the true endgame Elite Four (+ Champion / secret final boss,
-   cast TBD).
+4. **After 16th badge → ELITE FOUR** — E4 = **Cali → Dad → Mom → Steven** (Hoenn Champion), then **CHAMPION: Jared** (Shane's brother). *(See "ELITE FOUR & CHAMPION" below.)*
 5. **POST-GAME (locked 2026-06-22):** **Red** is the hidden secret superboss atop the **Empire State Building**, with cross-region champions (Cynthia/Wallace/Steven, etc.) as the climb up to him. Red lives in the post-game — *not* a gym.
+
+## ★ RIVAL ARC — JUSTIN'S BATTLES (locked 2026-06-22; ~12 fights)
+Justin recurs across the whole game with an escalating, overcompensating Napoleon-complex arc. His
+**Eevee evolution** across the fights is a *decide-later* option. ✅ = already in the doc, ➕ = new.
+
+1. ✅ **Times Square**, pre-Gym 1 — first battle, Eevee vs Eevee; Pilates brag.
+2. ✅ **Central Park**, pre-Gym 2 — approach rematch.
+3. ➕ **Randalls Island**, after Gym 3 — baseball turf; he claims he was the better ballplayer.
+4. ➕ **Brooklyn Bridge**, crossing to Gym 6 — iconic mid-bridge set-piece battle.
+5. ➕ **Montauk**, at Gym 8 — he blunders into the Team Rocket takeover.
+6. ✅ **Mewtwo Island**, post-Gym 8 — he tags along to the island (Act-I capstone).
+7. ➕ **GW Bridge / Fort Lee**, Act II open, pre-Gym 9 — "you're *still* doing this?"
+8. ➕ **Airport** (a Fly hop) — running gag: Justin keeps turning up at airports.
+9. ➕ **Killington chairlift**, at Gym 14 — cold-weather comedy.
+10. ➕ **Camp Pontiac**, at Gym 15 — nostalgic childhood-camp battle.
+11. ➕ **Central Synagogue = GYM 16** — Justin's hostile takeover *is* the climactic rival battle (see Gym 16).
+12. ➕ **Pokémon League gate**, before the Champion — final battle; Napoleon-complex payoff (earns respect or fully melts down).
+
+> Life-specific beats to confirm: was Justin a **baseball** guy (#3)? did Shane & Justin go to **camp** together (#10)? weave the **Pilates / Jared's-wedding** roast into specific fights.
+
+## ★ ELITE FOUR & CHAMPION (locked 2026-06-22 — cast)
+The endgame after the 16th badge. Shane's closest family is the final wall — the journey ends at home.
+1. **CALI** (E4 #1) — Shane's **younger sister**; Williamsburg, Brooklyn Law School. (Reappears from the Gym 6 beat.)
+2. **DAD** (E4 #2) — lives in the **West Village**.
+3. **MOM** (E4 #3) — lives in the **West Village**.
+4. **STEVEN** (E4 #4) — **Steven Stone, Hoenn Champion** (the pokeemerald base's own Champion; Steel-type ace). The lone "outsider" wall in an otherwise all-family Elite Four, right before Jared. *(Already in the base game → easy to wire up. Swap to Cynthia if preferred.)*
+5. **CHAMPION: JARED** — **Shane's brother**, the final boss to beat. *(Bookend: Jared also gives Shane his starter **Eevee** at the very start — the one who begins the journey ends it.)*
+
+> ⚠️ **Continuity flag:** the opening currently treats the **brother** (sends Shane off, floor 11) and
+> **Jared** (gives Eevee, apt 11I) as **two people**. Per this decision **Jared = the brother**; confirm
+> so I can merge those references into one person (Jared, Shane's brother, who gives the Eevee AND is the Champion).
 
 ## ★ ENDGAME ARC — MEWTWO ISLAND (*First Movie* climax; replaces mid-game E4)
 New location: **Mewtwo Island** ("New Island"), sitting **far off the eastern coast of Long Island**
@@ -527,7 +558,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 0. **Hudson Yards** — START hub (not a gym)
    → route: **Times Square**
 1. **Sidley Austin / Midtown** — GYM 1 *(LOCKED; Altorelli + Russian-spy GF + Russian goons)*
-   → route: **Central Park** → **Central Synagogue** (passed early as a landmark; the gym here is the **FINAL Gym 16** — Rabbi Angela; see below) → Town School
+   → route: **Central Park** → **Central Synagogue** (passed early as a landmark; the gym here is the **FINAL Gym 16** — now **Justin's** hostile takeover; see below) → Town School
 2. **The Town School (UES, 76th & East End)** — GYM 2 *(LOCKED; leader **Ms. Sokotch**)*
    → **before** Gym 2: **Justin** rival battle on the **Central Park** approach *(moved here 2026-06-22)*
    → after Gym 2: **John Jay Park** — battle **Steven & Jake** (Justin present, but does **not** battle)
@@ -558,7 +589,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
    (researching an undiscovered legendary); Kenny=slope NPC; **Wobbly Barn** + **Jamaican jerk**
    on the slopes; FLY from Florida)*
 15. **Camp Pontiac (Copake, NY)** — GYM 15 *(LOCKED; TWO leaders **Kenny & Ricky**; south from Killington)*
-16. **Central Synagogue (NYC)** — GYM 16 *(LOCKED 2026-06-22; FINAL gym; leader **Rabbi Angela** — young-ish Korean Jewish woman; ALL trainers = synagogue congregants/clergy/staff)*
+16. **Central Synagogue (NYC)** — GYM 16 *(LOCKED 2026-06-22; FINAL gym; **JUSTIN (rival) has seized the synagogue as his gym** — mirrors Altorelli/Gym 1. Congregation (incl. **Rabbi Angela**) forced to allow it; trainers = synagogue members. The climactic rival battle.)*
    → from **Camp Pontiac**, return **south to Manhattan** for the homecoming finale
    → **16th badge → ELITE FOUR (+ Champion / secret final boss)**
 
@@ -598,17 +629,22 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   Poison/Dark "agent" mons. Full roast — billable hours, vodka jokes, "is colluding," etc.
 - **Badge/reward:** TBD name.
 
-### CENTRAL SYNAGOGUE — GYM 16 (FINAL gym; promoted from LOCATION) — DRAFT
-- **Promoted to GYM 16 (locked 2026-06-22):** the **final gym** before the Elite Four and the
-  personal capstone of Shane's journey — his own synagogue/community. **Upper East Side** landmark.
-- **Leader (locked 2026-06-22): RABBI ANGELA** — a **young-ish Korean woman, Jewish** (the rabbi);
-  warm-but-formidable final-boss energy.
-- **Trainers (locked 2026-06-22): everyone is from within the synagogue** — congregants, the cantor,
-  board members, Hebrew-school teachers, b'nai-mitzvah kids, the gabbai, etc. The whole community is the roster.
-- **Sequencing:** seen **early** as a passed-by landmark on the Gym 1→2 route (brief bar-mitzvah-era
-  memory beat); the **gym itself is the finale** — Shane returns to Manhattan from Camp Pontiac (Gym 15)
-  to challenge it as Gym 16. *(Confirm: keep the early walk-by beat, or only open the building at endgame?)*
-- **Type / Badge:** TBD — Psychic/Fairy "faith & community" flavor could fit; confirm at the type pass.
+### CENTRAL SYNAGOGUE — GYM 16 (FINAL gym; JUSTIN's takeover) — DRAFT
+- **The final gym (locked 2026-06-22):** Central Synagogue — Shane's own synagogue/community on the
+  **Upper East Side** — is the last gym before the Elite Four. Seen **early** as a passed-by landmark
+  on the Gym 1→2 route (brief bar-mitzvah-era memory); the gym opens for the **homecoming finale**
+  when Shane returns to Manhattan from Camp Pontiac (Gym 15).
+- **Leader (CHANGED 2026-06-22): JUSTIN — the rival.** Justin has **taken the gym over by force** and
+  installed himself as its leader — a **hostile takeover** that deliberately **mirrors John Altorelli
+  seizing Sidley Austin at Gym 1** (the game is bookended by takeovers). This is the **climactic rival
+  battle**, the peak of Justin's Napoleon-complex arc.
+- **Rabbi Angela (locked 2026-06-22):** a **young-ish Korean Jewish woman**, a member of the synagogue
+  (no longer the leader). She makes clear to Shane that **the congregation does NOT want Justin as their
+  gym leader — but he seized it, so they have no choice but to let it stand.** She quietly roots for Shane.
+- **Trainers:** still **the synagogue community** — congregants, cantor, board members, Hebrew-school
+  teachers, b'nai-mitzvah kids, the gabbai — but now **reluctantly fielded under Justin's regime**
+  (resentful flavor; some may subtly help Shane).
+- **Type / Badge:** TBD — Justin's team is his strongest of the game (rival capstone). Confirm at the type pass.
 
 ### #2 — THE TOWN SCHOOL (Upper East Side, 76th & East End) — GYM 2 — DRAFT
 - **Approach (route):** from Gym 1, head **through Central Park** to reach the Upper East Side.
