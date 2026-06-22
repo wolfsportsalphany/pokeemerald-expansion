@@ -960,11 +960,12 @@ void ChooseStarter(void)
 
 static void CB2_GiveStarter(void)
 {
-    u16 starterMon;
 
     *GetVarPointer(VAR_STARTER_MON) = gSpecialVar_Result;
-    starterMon = GetStarterPokemon(gSpecialVar_Result);
-    ScriptGiveMon(starterMon, 5, ITEM_NONE);
+    // SAG: Shane begins with his trio
+    ScriptGiveMon(SPECIES_EEVEE, 16, ITEM_NONE);
+    ScriptGiveMon(SPECIES_GASTLY, 16, ITEM_NONE);
+    ScriptGiveMon(SPECIES_MANKEY, 16, ITEM_NONE);
     ResetTasks();
     PlayBattleBGM();
     SetMainCallback2(CB2_StartFirstBattle);
