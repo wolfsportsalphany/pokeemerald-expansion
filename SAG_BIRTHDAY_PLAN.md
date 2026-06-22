@@ -642,6 +642,15 @@ Real-life leader → themed team. League-captain boss of Shane's youth ball (Upt
 5. **Hitmonlee** @ Life Orb — *Reckless* — Jolly — 252 Atk / 4 Def / 252 Spe — **High Jump Kick · Close Combat · Stone Edge · Mach Punch** *(Kanto — the big-swing kicker)*
 6. **Kangaskhan** @ Silk Scarf — *Scrappy* — Adamant — 252 Atk / 4 Def / 252 Spe — **Double-Edge · Earthquake · Sucker Punch · Fake Out** *(Kanto — the seasoned vet)*
 
+#### GYM 4 — Dominic A.A. Randolph (Riverdale Country School) — Ghost, "raw spooky power" (UU) — ~Lv 33
+Real-life leader → themed team. The posh British **headmaster** of a creepy old manor-school. Kanto is barren on Ghosts, so this is the **meet-the-modern-Ghosts** gym; **Haunter** reps Shane's fave. Ace = **Dragapult**.
+1. **Dragapult** @ Choice Specs — *Infiltrator* — Timid — 252 SpA / 4 SpD / 252 Spe — **Shadow Ball · Draco Meteor · Flamethrower · U-turn** *(ACE — fast, elegant special nuke; ignores screens/subs)*
+2. **Haunter** @ Life Orb — *Levitate* — Timid — 252 SpA / 4 SpD / 252 Spe — **Shadow Ball · Sludge Wave · Nasty Plot · Dazzling Gleam** *(Kanto — Shane's fave line; Ground-immune glass cannon)*
+3. **Mimikyu** @ Life Orb — *Disguise* — Jolly — 252 Atk / 4 Def / 252 Spe — **Swords Dance · Play Rough · Shadow Sneak · Shadow Claw** *(Disguise = free setup; the creepy "student")*
+4. **Chandelure** @ Choice Scarf — *Flash Fire* — Timid — 252 SpA / 4 SpD / 252 Spe — **Shadow Ball · Fire Blast · Energy Ball · Trick** *(the haunted manor chandelier; scarf revenge-killer)*
+5. **Gholdengo** @ Choice Specs — *Good as Gold* — Timid — 252 SpA / 4 SpD / 252 Spe — **Make It Rain · Shadow Ball · Power Gem · Focus Blast** *(old-money golden ghost; blocks status)*
+6. **Aegislash** @ Leftovers — *Stance Change* — Quiet — 252 HP / 252 SpA / 4 Def — **King's Shield · Shadow Ball · Flash Cannon · Shadow Sneak** *(the headmaster's ancestral blade; Stance Change mind-games)*
+
 #### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 1. **Nidoking** @ Life Orb — *Sheer Force* — Modest — 252 SpA / 4 SpD / 252 Spe — **Earth Power · Sludge Wave · Ice Beam · Flamethrower** *(ACE; Sheer Force cancels Life Orb recoil → nukes)*
