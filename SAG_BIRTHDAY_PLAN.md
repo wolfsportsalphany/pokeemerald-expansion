@@ -600,7 +600,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 | 6 | Brooklyn Law (→ Cali) | **Steel** | Gavel |
 | 7 | Old Brookville (Jesse) | **Fairy** | Hearth |
 | 8 | Montauk Lighthouse (Giovanni) | **Ground** | Rocket |
-| 9 | Paramus (Grandma Linda) | **Normal** | Family |
+| 9 | Paramus (Grandma Linda) | **Ground** | Family |
 | 10 | UPenn frat "4K" (Shermfather) | **Poison** | Keg |
 | 11 | Emory Law (Madi) | **Fire** | Peach |
 | 12 | Hallandale "Hemispheres" (Roman) | **Water** | Tide |
@@ -755,6 +755,15 @@ Real-life leader → themed team. The tough-as-nails Jersey matriarch (uncles Ma
 4. **Hippowdon** @ Leftovers — *Sand Stream* — Impish — 252 HP / 252 Def / 4 SpD — **Earthquake · Slack Off · Stealth Rock · Whirlwind** *(sand wall)*
 5. **Great Tusk** @ Booster Energy — *Protosynthesis* — Jolly — 252 Atk / 4 Def / 252 Spe — **Headlong Rush · Close Combat · Rapid Spin · Knock Off** *(newer monster)*
 6. **Krookodile** @ Choice Band — *Intimidate* — Jolly — 252 Atk / 4 Def / 252 Spe — **Earthquake · Knock Off · Stone Edge · Close Combat** *(Ground/Dark enforcer — Jersey attitude)*
+
+#### GYM 10 — The Shermfather (UPenn frat "4K", Philly) — Poison "party-animal aggro" (OU) — ~Lv 73
+Real-life leader → themed team. Godfather-meets-frat; loud, reckless, toxic offense. Ace = **Toxtricity**.
+1. **Toxtricity** @ Throat Spray — *Punk Rock* — Modest — 252 SpA / 4 SpD / 252 Spe — **Boomburst · Overdrive · Sludge Wave · Volt Switch** *(ACE — the frat amp; Punk Rock special nuke)*
+2. **Salazzle** @ Choice Scarf — *Corrosion* — Timid — 252 SpA / 4 SpD / 252 Spe — **Sludge Wave · Fire Blast · Nasty Plot · Toxic** *(Corrosion poisons anything)*
+3. **Dragalge** @ Choice Specs — *Adaptability* — Modest — 252 SpA / 4 Def / 252 Spe — **Draco Meteor · Sludge Bomb · Flip Turn · Focus Blast** *(Adaptability poison nuke)*
+4. **Crobat** @ Life Orb — *Infiltrator* — Jolly — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Cross Poison · U-turn · Roost** *(Kanto-family; fast)*
+5. **Muk-Alola** @ Assault Vest — *Poison Touch* — Adamant — 240 HP / 252 Atk / 16 Spe — **Gunk Shot · Knock Off · Poison Jab · Drain Punch** *(Kanto-family; bulky sludge bruiser)*
+6. **Venusaur** @ Life Orb — *Chlorophyll* — Modest — 252 SpA / 4 SpD / 252 Spe — **Sludge Bomb · Giga Drain · Sleep Powder · Earth Power** *(Kanto starter rep)*
 
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
