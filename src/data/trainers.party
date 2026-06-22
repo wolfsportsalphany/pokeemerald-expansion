@@ -4791,38 +4791,80 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Crunch
 
 === TRAINER_ROXANNE_1 ===
-Name: ROXANNE
+Name: ALTORELLI
 Class: Leader
 Pic: Leader Roxanne
-Gender: Female
-Music: Female
-Items: Potion / Potion
+Gender: Male
+Music: Male
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Kingambit @ Black Glasses
+Ability: Supreme Overlord
+Adamant Nature
+Level: 18
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 252 Atk / 4 Def / 252 Spe
+- Sucker Punch
+- Iron Head
+- Kowtow Cleave
+- Swords Dance
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Gengar @ Life Orb
+Ability: Cursed Body
+Timid Nature
+Level: 18
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Shadow Ball
+- Sludge Wave
+- Nasty Plot
+- Focus Blast
 
-Nosepass @ Oran Berry
-Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
-- Rock Tomb
+Alakazam @ Focus Sash
+Ability: Magic Guard
+Timid Nature
+Level: 18
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Psychic
+- Shadow Ball
+- Focus Blast
+- Encore
+
+Arbok @ Life Orb
+Ability: Intimidate
+Jolly Nature
+Level: 18
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 252 Atk / 4 Def / 252 Spe
+- Gunk Shot
+- Sucker Punch
+- Earthquake
+- Glare
+
+Weezing @ Black Sludge
+Ability: Levitate
+Bold Nature
+Level: 18
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 252 HP / 252 Def / 4 SpD
+- Sludge Bomb
+- Will-O-Wisp
+- Pain Split
+- Toxic Spikes
+
+Weavile @ Heavy-Duty Boots
+Ability: Pressure
+Jolly Nature
+Level: 18
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 252 Atk / 4 Def / 252 Spe
+- Triple Axel
+- Knock Off
+- Ice Shard
+- Low Kick
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
