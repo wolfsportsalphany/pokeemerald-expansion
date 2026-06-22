@@ -64,7 +64,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 
 ### GAME FLOW (start → finish)
 1. **Open:** wake in **apt 28C, Hudson Yards**; party = **Lv1 Gastly + Lv1 Mankey**.
-2. **Floor 11:** **brother** sends Shane off (gear); **Jared** gifts **Eevee** (only one in game).
+2. **Floor 11:** **Jared** (Shane's brother) sends Shane off (gear) and gifts the **Eevee** (only one in game).
 3. **Hudson Yards** plaza (doormen **Robert/Eric/Jose/Jonathon**) → **Times Square** (funny route).
 4. **Justin** blocks Sidley Austin for the **first rival battle** (Eevee vs Eevee; Pilates brag) →
    **GYM 1: Sidley Austin** (Altorelli; multi-story office; Russian-spy subplot seed).
@@ -236,7 +236,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
     Town School / John Jay Park.
 - **Randalls Island** — *baseball* fields (early-childhood baseball). → park/route w/ baseball NPCs.
 - **Hudson Yards** — Shane's **current home** & **THE STARTING POINT**: his **1-bedroom apt on the
-  28th floor (apt C)**. Same building as his **brother**. **Jared** = neighbor in **apartment 11I,
+  28th floor (apt C)**. His **brother Jared** lives in the same building, in **apartment 11I,
   floor 11**. → sleek modern city hub; the game opens here (New-Bark/player's-room analog).
 - **Williamsburg, Brooklyn** — younger sister **Cali** (at **Brooklyn Law School**).
 - **Central Synagogue (NYC)** — landmark; key building/event (bar-mitzvah-era memory?).
@@ -271,8 +271,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Merrick** | **Justin's brother** — genuinely nice; warm foil to Justin's ego | helpful NPC; encourages Shane, maybe gives items/tips |
 | **Mom & Dad** | Parents (home NPCs) | West Village |
 | **Cali** (younger sister) | Family NPC (law student) | Williamsburg / Brooklyn Law |
-| **Brother** (the gift-giver) | NPC — same Hudson Yards building | Hudson Yards |
-| **Jared** | NPC — same building, apt **11I** (age 11?) | Hudson Yards |
+| **Jared** | **Shane's brother** & gift-giver — same building, **apt 11I**; sends Shane off (gear) + the **Eevee**; later the **Champion** | Hudson Yards |
 | **Grandma Linda** | Family NPC | Paramus |
 | **Uncle Matt** & **Uncle Jason** | Twins, "crazy uncles" | Paramus |
 | **Uncle Donut** | Short, Napoleon complex (cf. Justin) | Paramus |
@@ -301,7 +300,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 - **Start point:** Hudson Yards, Shane's 1-bedroom apt, **28th floor (apt C)**. ✅
 - **Tone:** **FULL ROAST** — lean into the underage bars, law-internship, Russian-spy, short-uncle
   jokes, etc. Comedic and irreverent. (Still handle deceased grandparents respectfully.) ✅
-- **Jared:** neighbor in the same building, **apartment 11I, floor 11**. ✅
+- **Jared:** **Shane's brother**; same building, **apartment 11I, floor 11**; the floor-11 send-off + Eevee giver, and the endgame **Champion**. ✅
 - **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/opponent teams. ✅
 
 ### Still open
@@ -314,11 +313,11 @@ The concrete first slice of the game (Act I start):
 1. **Apt 28C, Hudson Yards** — Shane wakes up in his 1-bedroom apartment on the **28th floor**.
    Tutorial/room beat, then head out to the elevator.
 2. **Elevator → 11th floor** — Shane takes the elevator **down to the 11th floor to visit his
-   brother**. (Brother lives on floor 11; **Jared** is the neighbor in **apt 11I**.)
+   brother Jared** (he lives on floor 11, in **apt 11I**).
 3. **CHANGED (2026-06-21): Shane starts with a full PARTY** (no single-Eevee gift). The party is
    pre-set at new-game start (see "Starting party" below). The **11th-floor visit becomes a
-   send-off**: the **brother** sees Shane off (gives gear — Pokédex / Town Map / running shoes /
-   key item), and **Jared** still gets a comedic bit.
+   send-off**: his **brother Jared** sees Shane off (gives gear — Pokédex / Town Map / running shoes /
+   key item) and hands over the **Eevee**, with the comedic bit.
    - **STARTING PARTY (confirmed 2026-06-21): Eevee + Level 1 Gastly + Level 1 Mankey.** All three
      of his favorites (Eevee + Haunter & Primeape lines). Gastly & Mankey are **Lv1**; Eevee level
      TBD (default low, e.g. Lv5 as a "found" mon — confirm if you want a specific level).
@@ -361,7 +360,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 
 | Town / area (re-skin of PC map) | Real-life vibe | Resident NPCs | Personal story beat (full roast) |
 |---|---|---|---|
-| **Hudson Yards** (START) | glass high-rises, adult life | **Brother** (floor 11), **Jared** (apt 11I); doormen **Robert, Eric, Jose, Jonathon** | wake in apt 28C → elevator to fl 11 → Jared gifts **Eevee** → explore Hudson Yards lobby/street |
+| **Hudson Yards** (START) | glass high-rises, adult life | **Jared** (Shane's brother; apt 11I, floor 11); doormen **Robert, Eric, Jose, Jonathon** | wake in apt 28C → elevator to fl 11 → Jared gifts **Eevee** + send-off → explore Hudson Yards lobby/street |
 | **Times Square** (Route 1) | tourist-trap chaos | costumed characters, Naked Cowboy, scalpers | the funny "route" from Hudson Yards to the office — see Opening seq. |
 | **West Village** | brownstone childhood home | **Mom & Dad** | the family home; parents send you off / give gear |
 | **Upper East Side** | posh; **The Town School** | childhood friends, teachers | grade-school throwback; earliest memories |
@@ -439,10 +438,6 @@ The endgame after the 16th badge. Shane's closest family is the final wall — t
 3. **MOM** (E4 #3) — lives in the **West Village**.
 4. **STEVEN** (E4 #4) — **Steven Stone, Hoenn Champion** (the pokeemerald base's own Champion; Steel-type ace). The lone "outsider" wall in an otherwise all-family Elite Four, right before Jared. *(Already in the base game → easy to wire up. Swap to Cynthia if preferred.)*
 5. **CHAMPION: JARED** — **Shane's brother**, the final boss to beat. *(Bookend: Jared also gives Shane his starter **Eevee** at the very start — the one who begins the journey ends it.)*
-
-> ⚠️ **Continuity flag:** the opening currently treats the **brother** (sends Shane off, floor 11) and
-> **Jared** (gives Eevee, apt 11I) as **two people**. Per this decision **Jared = the brother**; confirm
-> so I can merge those references into one person (Jared, Shane's brother, who gives the Eevee AND is the Champion).
 
 ## ★ ENDGAME ARC — MEWTWO ISLAND (*First Movie* climax; replaces mid-game E4)
 New location: **Mewtwo Island** ("New Island"), sitting **far off the eastern coast of Long Island**
@@ -601,10 +596,10 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 ### #0 — HUDSON YARDS (start hub) — DRAFT
 - **Map concept:** sleek glass high-rise + ground-level plaza/street (the real Hudson Yards "Vessel"
   could be a landmark set-piece). Interior: Shane's **apt 28C** (bedroom/start), elevator,
-  **floor 11** (brother's place + Jared's apt 11I), lobby.
-- **NPCs:** **Brother** (send-off, gives gear), **Jared** (gives **Eevee**), doormen **Robert,
+  **floor 11** (Jared's apt 11I), lobby.
+- **NPCs:** **Jared** (Shane's brother — send-off, gives gear + the **Eevee**), doormen **Robert,
   Eric, Jose, Jonathon** (each a distinct funny personality), neighbors.
-- **Story beat:** wake in 28C → elevator to fl 11 → Jared's Eevee → brother sends Shane off →
+- **Story beat:** wake in 28C → elevator to fl 11 → Jared (his brother) gives the Eevee + sends Shane off →
   exit into Hudson Yards plaza → head to **Times Square** (route) → Gym 1.
 - **Not a gym.** Heal/shop: a location-appropriate Center + Mart here (e.g., a CityMD + a Duane
   Reade), plus a **Joe's Pizza**.
@@ -634,6 +629,9 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   **Upper East Side** — is the last gym before the Elite Four. Seen **early** as a passed-by landmark
   on the Gym 1→2 route (brief bar-mitzvah-era memory); the gym opens for the **homecoming finale**
   when Shane returns to Manhattan from Camp Pontiac (Gym 15).
+- **Early walk-by KEPT + wild encounters (locked 2026-06-22):** the early visit on the Gym 1→2 route
+  stays. **Pokémon are catchable *inside* the synagogue** — a small indoor encounter pool, available
+  from that first early visit (not just at the endgame). *(Pick the species set at the encounter pass — something fitting/meaningful.)*
 - **Leader (CHANGED 2026-06-22): JUSTIN — the rival.** Justin has **taken the gym over by force** and
   installed himself as its leader — a **hostile takeover** that deliberately **mirrors John Altorelli
   seizing Sidley Austin at Gym 1** (the game is bookended by takeovers). This is the **climactic rival
