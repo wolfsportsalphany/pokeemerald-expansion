@@ -469,6 +469,21 @@ void CreateWildMon(enum Species species, u8 level)
     u32 personality = GetMonPersonality(species, GetSynchronizedGender(WILDMON_ORIGIN, species), PickWildMonNature(species), RANDOM_UNOWN_LETTER);
     CreateMonWithIVs(&gParties[B_TRAINER_OPPONENT_A][0], species, level, personality, OTID_STRUCT_PLAYER_ID, USE_RANDOM_IVS);
     GiveMonInitialMoveset(&gParties[B_TRAINER_OPPONENT_A][0]);
+    // --- SAG v0.3: perfect IVs (+ Hidden Ability when available) on wild mons ---
+    {
+        struct Pokemon *wildMon = &gParties[B_TRAINER_OPPONENT_A][0];
+        u32 perfectIv = MAX_PER_STAT_IVS;
+        u32 hiddenAbility = NUM_NORMAL_ABILITY_SLOTS;
+        SetMonData(wildMon, MON_DATA_HP_IV, &perfectIv);
+        SetMonData(wildMon, MON_DATA_ATK_IV, &perfectIv);
+        SetMonData(wildMon, MON_DATA_DEF_IV, &perfectIv);
+        SetMonData(wildMon, MON_DATA_SPEED_IV, &perfectIv);
+        SetMonData(wildMon, MON_DATA_SPATK_IV, &perfectIv);
+        SetMonData(wildMon, MON_DATA_SPDEF_IV, &perfectIv);
+        if (gSpeciesInfo[species].abilities[NUM_NORMAL_ABILITY_SLOTS] != ABILITY_NONE)
+            SetMonData(wildMon, MON_DATA_ABILITY_NUM, &hiddenAbility);
+        CalculateMonStats(wildMon);
+    }
 }
 
 #ifdef BUGFIX
