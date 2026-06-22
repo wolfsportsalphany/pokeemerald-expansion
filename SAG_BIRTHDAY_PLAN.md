@@ -802,6 +802,15 @@ Canon character → a nostalgic **best-of-Gen-1 Ice** team befitting the Kanto p
 5. **Lapras** @ Leftovers — *Water Absorb* — Modest — 252 HP / 252 SpA / 4 SpD — **Freeze-Dry · Surf · Sparkling Aria · Ice Shard** *(the iconic Kanto Ice/Water; a different individual from Shane's)*
 6. **Cloyster** @ White Herb — *Skill Link* — Jolly — 252 Atk / 4 Def / 252 Spe — **Shell Smash · Icicle Spear · Rock Blast · Hydro Pump** *(Kanto Ice/Water — a classic Oak revisits)*
 
+#### GYM 15 — Kenny & Ricky (Camp Pontiac, Copake NY) — Bug, twin DOUBLE-BATTLE (OU+) — ~Lv 92
+Real-life leaders → themed team. The eccentric old twin doctors who own the camp (glasses + white hair). A **double battle** — they tag-team the 6 two-at-a-time; doubles-tuned (Sticky Web, Wide Guard, spread/priority). Ace = **Pinsir**.
+1. **Pinsir** @ Life Orb — *Mold Breaker* — Jolly — 252 Atk / 4 Def / 252 Spe — **Swords Dance · X-Scissor · Close Combat · Earthquake** *(ACE — Kanto beetle bruiser)*
+2. **Galvantula** @ Focus Sash — *Compound Eyes* — Timid — 252 SpA / 4 SpD / 252 Spe — **Sticky Web · Thunder · Bug Buzz · Volt Switch** *(web lead — doubles support)*
+3. **Araquanid** @ Assault Vest — *Water Bubble* — Adamant — 248 HP / 252 Atk / 8 Spe — **Liquidation · Leech Life · Wide Guard · Sucker Punch** *(camp-lake spider; Water Bubble nukes)*
+4. **Slither Wing** @ Booster Energy — *Protosynthesis* — Adamant — 252 Atk / 4 Def / 252 Spe — **First Impression · Close Combat · U-turn · Flare Blitz** *(paradox bruiser)*
+5. **Lokix** @ Choice Band — *Tinted Lens* — Adamant — 252 Atk / 4 Def / 252 Spe — **First Impression · Lunge · Sucker Punch · U-turn** *(Bug/Dark assassin)*
+6. **Butterfree** @ Focus Sash — *Tinted Lens* — Timid — 252 SpA / 4 SpD / 252 Spe — **Quiver Dance · Bug Buzz · Sleep Powder · Air Slash** *(Kanto — disruption + sweep)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
