@@ -543,6 +543,23 @@ direction; water bodies are real; the southern college leg is a long journey sou
 > **Gastly/Haunter** in spooky night spots (Central Park at night, old buildings), **Eevee** stays
 > Jared-only, **Dragonite** stays the Mewtwo-Island one-off.
 
+## ★ PLAYER-SIDE QOL & LEVELING (locked 2026-06-22) — features to implement
+So Shane can freely build & test teams against the brutal gauntlet:
+- **Starting loadout (from the first save):** **max money**; **99×** of every medicine/healing/status item
+  (Potions→Max/Full Restore, Revives, Full Heals, Ethers/Elixirs…); **6×** of every competitive battle item,
+  esp. consumables (**Focus Sash**, Sitrus/Lum/Weakness Policy berries, Air Balloon…) plus several of each
+  non-consumable (Leftovers, Choice Band/Specs/Scarf, Life Orb, Assault Vest, Eviolite, Heavy-Duty Boots,
+  Black Sludge…). Basically a **full competitive item bag** at the start.
+- **Wild Pokémon / team-building:** encounter pools lean **Kanto-151** + a **sprinkle of newer standouts**,
+  and **must let him catch a genuinely strong, competitively viable team** (universal max-IVs + competitive
+  natures already apply — see Gameplay Mechanics).
+- **Bulk Rare Candy (level on demand):** use **multiple at once** (e.g. 10). Implementation = **iterate one
+  level at a time** (never jump the level directly) so each level triggers **move-learning, then evolution**,
+  naturally. *(Not hard — just loops the standard single-level routine; a direct level-set would skip
+  moves/evos, so we iterate.)*
+- **Universal level cap (rises per story step):** a global cap that increases at each gym/milestone; XP **and**
+  Rare Candy cannot push a mon above the current cap. Level displays normally. Level freely up to the cap, never past it.
+
 ## ★ LOCATION & GYM BUILDOUT (in progress — going through each, in order)
 Per-location detail captured here as we walk through them. Format per entry: **map concept →
 resident NPCs → story beat → (if gym) leader / type / team theme / puzzle.** Gym **types** default
@@ -591,9 +608,18 @@ Real-life leader → themed team. Corporate-coup + Russian-spy boss. Kanto menac
 1. **Kingambit** @ Black Glasses — *Supreme Overlord* — Adamant — 252 Atk / 4 Def / 252 Spe — **Sucker Punch · Iron Head · Kowtow Cleave · Swords Dance** *(ACE — the ruthless senior partner; newer sprinkle)*
 2. **Gengar** @ Life Orb — *Cursed Body* — Timid — 252 SpA / 4 SpD / 252 Spe — **Shadow Ball · Sludge Wave · Nasty Plot · Focus Blast** *(Kanto — the slippery fixer)*
 3. **Alakazam** @ Focus Sash — *Magic Guard* — Timid — 252 SpA / 4 SpD / 252 Spe — **Psychic · Shadow Ball · Focus Blast · Encore** *(Kanto — the cold mastermind)*
-4. **Persian** @ Silk Scarf — *Technician* — Jolly — 252 Atk / 4 Def / 252 Spe — **Fake Out · Knock Off · U-turn · Throat Chop** *(Kanto — the smooth-talking corporate cat)*
+4. **Arbok** @ Life Orb — *Intimidate* — Jolly — 252 Atk / 4 Def / 252 Spe — **Gunk Shot · Sucker Punch · Earthquake · Glare** *(Kanto — sneaky snake-in-a-suit; Intimidate + Glare to control; swapped off Persian to avoid Giovanni dup)*
 5. **Weezing** @ Black Sludge — *Levitate* — Bold — 252 HP / 252 Def / 4 SpD — **Sludge Bomb · Will-O-Wisp · Pain Split · Toxic Spikes** *(Kanto — toxic-corporate wall)*
 6. **Weavile** @ Heavy-Duty Boots — *Pressure* — Jolly — 252 Atk / 4 Def / 252 Spe — **Triple Axel · Knock Off · Ice Shard · Low Kick** *(newer sprinkle — the Russian-spy assassin)*
+
+#### GYM 2 — Ms. Sokotch (The Town School) — Psychic, "control & punish" (RU-caliber) — ~Lv 22
+Real-life leader → themed team. The terrifying schoolteacher: sleep + Trick Room + status, then punish. Ace = **Hypno**.
+1. **Hypno** @ Leftovers — *Insomnia* — Calm — 252 HP / 4 SpA / 252 SpD — **Hypnosis · Psychic · Future Sight · Thunder Wave** *(ACE — hypnotic disciplinarian: sleeps you, grinds you down)*
+2. **Slowking** @ Leftovers — *Regenerator* — Sassy — 252 HP / 4 Def / 252 SpD — **Trick Room · Psychic · Scald · Slack Off** *(sets Trick Room for the slow punishers)*
+3. **Exeggutor** @ Sitrus Berry — *Harvest* — Quiet — 252 HP / 252 SpA / 4 SpD — **Sleep Powder · Psychic · Giga Drain · Sludge Bomb** *(more sleep; slow TR attacker)*
+4. **Jynx** @ Focus Sash — *Forewarn* — Modest — 252 SpA / 4 SpD / 252 Spe — **Lovely Kiss · Psychic · Ice Beam · Nasty Plot** *(third sleep move — you stay asleep)*
+5. **Mr. Mime** @ Light Clay — *Filter* — Bold — 252 HP / 252 Def / 4 SpD — **Reflect · Light Screen · Psychic · Dazzling Gleam** *(screens — detention by attrition)*
+6. **Hatterene** @ Life Orb — *Magic Bounce* — Quiet — 248 HP / 252 SpA / 8 SpD — **Psyshock · Dazzling Gleam · Mystical Fire · Trick Room** *(newer sprinkle — bounces your status; slow TR nuke)*
 
 #### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
