@@ -63,7 +63,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
   hospital/spa…); **Joe's Pizza** chain; **bars** & **weed dispensaries** (full roast).
 
 ### GAME FLOW (start → finish)
-1. **Open:** wake in **apt 28C, Hudson Yards**; party = **Lv1 Gastly + Lv1 Mankey**.
+1. **Open:** wake in **apt 28C, Hudson Yards**; party = **Gastly + Mankey (~Lv 16, Gym-1-ready)**.
 2. **Floor 11:** **Jared** (Shane's brother) sends Shane off (gear) and gifts the **Eevee** (only one in game).
 3. **Hudson Yards** plaza (doormen **Robert/Eric/Jose/Jonathon**) → **Times Square** (funny route).
 4. **Justin** blocks Sidley Austin for the **first rival battle** (Eevee vs Eevee; Pilates brag) →
@@ -98,7 +98,7 @@ Times Square → Justin → Sidley Austin gym.
      baseline **`.gba`** build.
   3. Set up **Porymap** for visual map editing (the custom NYC region).
   4. Re-apply the throwaway pokecrystal edits on the new base: default player name **Shane**, rival
-     default **Justin**, starting town **Hudson Yards**, starting party **Lv1 Gastly + Lv1 Mankey**
+     default **Justin**, starting town **Hudson Yards**, starting party **Gastly + Mankey (~Lv 16)**
      (+ Jared's Eevee).
   5. Build the opening slice (Hudson Yards → Times Square → Gym 1 Sidley Austin → Justin).
 - **Still to design before/while building:** **Gym 16**, the **Elite Four (×4)**, the **Champion**,
@@ -318,9 +318,9 @@ The concrete first slice of the game (Act I start):
    pre-set at new-game start (see "Starting party" below). The **11th-floor visit becomes a
    send-off**: his **brother Jared** sees Shane off (gives gear — Pokédex / Town Map / running shoes /
    key item) and hands over the **Eevee**, with the comedic bit.
-   - **STARTING PARTY (confirmed 2026-06-21): Eevee + Level 1 Gastly + Level 1 Mankey.** All three
-     of his favorites (Eevee + Haunter & Primeape lines). Gastly & Mankey are **Lv1**; Eevee level
-     TBD (default low, e.g. Lv5 as a "found" mon — confirm if you want a specific level).
+   - **STARTING PARTY (updated 2026-06-22): Eevee + Gastly + Mankey, all started near Gym-1 level (~Lv 16).** Three
+     of his favorites (Eevee + Haunter & Primeape lines), set **competitive with Gym 1 from the jump** — no Lv1 grind.
+     With the rising level cap + bulk Rare Candy, Shane tunes the trio (and catches) right up to each step's cap.
    - **Eevee delivery (keeps the jokes):** Shane already has Gastly + Mankey; **Jared hands over
      the Eevee on floor 11.** This preserves the **only obtainable Eevee**, Justin's **Eevee-mirror
      battle**, and the **"Jared said it's rare / that's why he wasn't invited to the wedding"** gags.
@@ -415,6 +415,12 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 ## ★ RIVAL ARC — JUSTIN'S BATTLES (locked 2026-06-22; ~12 fights)
 Justin recurs across the whole game with an escalating, overcompensating Napoleon-complex arc. His
 **Eevee evolution** across the fights is a *decide-later* option. ✅ = already in the doc, ➕ = new.
+
+> **Justin = Shane's mirror (locked 2026-06-22).** Unlike the gym leaders' Smogon teams, Justin's party is
+> **built only from Pokémon Shane himself could obtain** (Kanto-lean + the same sprinkle pool) — a realistic
+> rival, not an out-of-reach wall. His **Eevee evolves across the fights** (his chosen eeveelution), and his
+> **levels track the player/gym curve** — he **starts ~Gym-1 level** alongside Shane and grows in step; by Gym 16
+> it's his fully-evolved obtainable squad.
 
 1. ✅ **Times Square**, pre-Gym 1 — first battle, Eevee vs Eevee; Pilates brag.
 2. ✅ **Central Park**, pre-Gym 2 — approach rematch.
@@ -600,8 +606,8 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
   Modern (Gen-9) mechanics/sets on a Gen-1-heavy roster. *(Kanto has no Dark-types → "Dark/villain" gyms = menacing Kanto mons + newer Dark sprinkles.)*
 - **Difficulty:** **brutal, shifted early** (player-side scaling toggles to be added later).
 - **Tier ladder (real-life leaders):** G1 **NU** · G2 **RU** · G3 **RU** · G4 **UU** · G5 **UU** · G6 **UU/OU**
-  · G7 **OU** · G9 **OU** · G10 **OU** · G11 **OU** · G12 **OU** · G13 **OU+** · G15 **OU+/Ubers** · G16 Justin
-  **Ubers** · E4 **OU+/Ubers** · Champion Jared **Ubers**. *(G8 Giovanni & G14 Oak = canon.)*
+  · G7 **OU** · G9 **OU** · G10 **OU** · G11 **OU** · G12 **OU** · G13 **OU+** · G15 **OU+/Ubers** · G16
+  **Justin = Shane-mirror (obtainable team, not Ubers)** · E4 **OU+/Ubers** · Champion Jared **Ubers**. *(G8 Giovanni & G14 Oak = canon.)*
 
 #### GYM 1 — John Altorelli (Sidley Austin) — Dark/villain lean (NU-caliber, brutal) — ~Lv 18
 Real-life leader → themed team. Corporate-coup + Russian-spy boss. Kanto menace + Dark sprinkles. Ace = **Kingambit**.
