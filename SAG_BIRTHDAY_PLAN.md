@@ -57,7 +57,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
   final boss TBD).**
 - **Pokémon:** same Pokédex; re-cast starters/legendaries/encounters/all teams; themed to opponent
   & location. **All Pokémon get max IVs + competitive natures (universal).** Favorites featured:
-  **Eevee, Primeape, Haunter (not Gengar), Dragonite, Mewtwo, + Lapras (gift, his canon 6th).** Legendaries are **enemies-only**
+  **Eevee, Primeape, Haunter (not Gengar), Dragonite, Mewtwo, + Lapras (his canon 6th).** Legendaries are **enemies-only**
 
 > **SHANE'S CANON 6 (locked 2026-06-22) — his definitive playable team:**
 > 1. **Eevee** (Jared's gift) → player's chosen **eeveelution**.
@@ -65,7 +65,7 @@ region**. Every line of dialogue, character, and Pokémon casting is new. **Full
 > 3. **Primeape** (starter; Mankey line — optional Annihilape).
 > 4. **Dragonite** — the **Special-Delivery / courier** Dragonite (Montauk, post-Gym 8 event).
 > 5. **Mewtwo** (caught on Mewtwo Island).
-> 6. **Lapras** — NEW **gift** mon (canon Kanto gift flavor); fills his Water/Ice coverage. *(Place a fitting in-world gift spot.)*
+> 6. **Lapras** — a **static overworld encounter** (a visible sprite you walk up to and talk to), found at a **small underground lake deep in a cave** (a few floors down) — **not a gift**. Fills his Water/Ice coverage.
 > All get max IVs + competitive natures + best/Hidden ability, like every catch.
   (gyms 9–16 + E4 wield them). **Mewtwo** is the player's only catchable legendary (Mewtwo Island); **Mew is NOT player-catchable — Justin catches it there** and it becomes his ace.
 - **Establishments:** location-based Marts (CVS/Duane Reade/Target/bodega…) & Centers (CityMD/
@@ -448,9 +448,9 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 
 > **JUSTIN'S TEAM ACROSS THE GAME (locked 2026-06-22; species = proposal, overridable).**
 > **Permanent core (evolves, kept):** Eevee → **Sylveon** (eeveelution — his pick), Kadabra → **Alakazam**, Pupitar → **Tyranitar**.
-> **Act I (by Mewtwo Island), 6:** Eevee · Kadabra · Pupitar · **Gyarados** · **Arcanine** · **temp (Raticate)**.
+> **Act I (by Mewtwo Island), 6:** Eevee · Kadabra · Pupitar · **Gyarados** · **Snorlax** · **temp (Raticate)**.
 > **At Mewtwo Island:** Justin catches **Mew**, replacing the temp 6th slot — **Mew is his ace** from here on (player gets Mewtwo).
-> **Act II — replace the three lower-end mons one-by-one** with stronger **Act-II-obtainable** picks (finalize vs the Act-II wild lists): Gyarados → **Salamence**, Arcanine → **Metagross**; Kadabra finishes → Alakazam.
+> **Act II — replace the three lower-end mons one-by-one** with stronger **Act-II-obtainable** picks (finalize vs the Act-II wild lists): Gyarados → **Salamence**, Snorlax → **Metagross**; Kadabra finishes → Alakazam.
 > **FINAL team (Gym 16 / League):** **Sylveon · Tyranitar · Alakazam · Mew · Salamence · Metagross** — all from Shane's obtainable pool + the lone Mew exception.
 
 ## ★ ELITE FOUR & CHAMPION (locked 2026-06-22 — cast)
