@@ -423,7 +423,7 @@ Justin recurs across the whole game with an escalating, overcompensating Napoleo
 > it's his fully-evolved obtainable squad.
 
 1. ✅ **Times Square**, pre-Gym 1 — first battle, Eevee vs Eevee; Pilates brag.
-2. ✅ **Central Park**, pre-Gym 2 — approach rematch.
+2. ✅ **Central Park**, pre-Gym 2 — approach rematch. **Team (locked): Eevee + Kadabra + Pupitar** — his core trio (mirrors Shane's pool), which **evolve across the arc** → his eeveelution / **Alakazam** / **Tyranitar**.
 3. ➕ **Randalls Island**, after Gym 3 — baseball turf; he claims he was the better ballplayer.
 4. ➕ **Brooklyn Bridge**, crossing to Gym 6 — iconic mid-bridge set-piece battle.
 5. ➕ **Montauk**, at Gym 8 — he blunders into the Team Rocket takeover.
@@ -608,6 +608,12 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 - **Tier ladder (real-life leaders):** G1 **NU** · G2 **RU** · G3 **RU** · G4 **UU** · G5 **UU** · G6 **UU/OU**
   · G7 **OU** · G9 **OU** · G10 **OU** · G11 **OU** · G12 **OU** · G13 **OU+** · G15 **OU+/Ubers** · G16
   **Justin = Shane-mirror (obtainable team, not Ubers)** · E4 **OU+/Ubers** · Champion Jared **Ubers**. *(G8 Giovanni & G14 Oak = canon.)*
+- **Battle AI (locked 2026-06-22): top-of-the-line, EVERYWHERE.** Every trainer runs the **maxed smart-AI
+  flag set** (damage/viability checks, smart switching, priority & status awareness, sequence prediction,
+  Trick Room / weather / screens awareness) — no dumb AI anywhere in the game.
+- **Abilities (locked 2026-06-22): best competitive ability — incl. Hidden — EVERYWHERE.** Every trainer mon
+  uses its optimal (often **Hidden**) ability, and **wild + gift Pokémon spawn with that competitive/Hidden
+  ability by default**, so anything Shane catches is immediately viable (pairs with the max-IV + competitive-nature rule).
 
 #### GYM 1 — John Altorelli (Sidley Austin) — Dark/villain lean (NU-caliber, brutal) — ~Lv 18
 Real-life leader → themed team. Corporate-coup + Russian-spy boss. Kanto menace + Dark sprinkles. Ace = **Kingambit**.
