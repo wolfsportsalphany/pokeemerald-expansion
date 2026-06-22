@@ -296,7 +296,7 @@ Early game leans hard into the **NYC / NY-suburbs** vibe. Player = **Shane** (th
 | **Grandma Linda** | **Gym 9 Leader** — the whole town knows her | Paramus, NJ |
 | **Uncles Matt, Jason (twins), Donut (short)** | **Gym 9 goons** — Grandma's grunt trainers | Paramus, NJ |
 | **The Shermfather** | **Gym 10 Leader** — frat-boss of APES "4K" | UPenn, Philadelphia |
-| **Madi** (+ **Brielle**) | **Gym 11 Leader** — blonde ex-classmate (Brielle alongside) | Emory Law, Atlanta |
+| **Brielle** (+ **Madi**) | **Gym 11 Leader** — femme fatale; Madi is her right-hand | Emory Law, Atlanta |
 | **Roman** | **Gym 12 Leader** — old guy who runs the snack bar (secret boss) | The Hemispheres, Hallandale Beach FL |
 | **J.R. Murphy** | **Gym 13 Leader** — baseball (catcher); elite-academy boss | IMG Academy, Bradenton FL |
 | **Professor Oak** | **Gym 14 Leader** — researching an undiscovered legendary | Killington, VT (mountaintop) |
@@ -765,6 +765,15 @@ Real-life leader → themed team. Godfather-meets-frat; loud, reckless, toxic of
 5. **Muk-Alola** @ Assault Vest — *Poison Touch* — Adamant — 240 HP / 252 Atk / 16 Spe — **Gunk Shot · Knock Off · Poison Jab · Drain Punch** *(Kanto-family; bulky sludge bruiser)*
 6. **Venusaur** @ Life Orb — *Chlorophyll* — Modest — 252 SpA / 4 SpD / 252 Spe — **Sludge Bomb · Giga Drain · Sleep Powder · Earth Power** *(Kanto starter rep)*
 
+#### GYM 11 — Brielle (Emory Law, Atlanta) — Fire/Fairy "heartbreaker" (OU) — ~Lv 78
+Real-life leader → themed team. Femme-fatale energy; **Madi** is her right-hand (lead-in fight). Charming but lethal. Ace = **Volcarona**.
+1. **Volcarona** @ Heavy-Duty Boots — *Flame Body* — Timid — 252 SpA / 4 SpD / 252 Spe — **Quiver Dance · Fiery Dance · Bug Buzz · Giga Drain** *(ACE — the showstopper moth)*
+2. **Enamorus** @ Choice Specs — *Contrary* — Modest — 252 SpA / 4 SpD / 252 Spe — **Moonblast · Earth Power · Mystical Fire · Sludge Bomb** *(the love-deity femme fatale)*
+3. **Flutter Mane** @ Choice Specs — *Protosynthesis* — Timid — 252 SpA / 4 SpD / 252 Spe — **Moonblast · Shadow Ball · Mystical Fire · Power Gem** *(haunting lethal beauty)*
+4. **Ninetales** @ Heat Rock — *Drought* — Timid — 252 SpA / 4 SpD / 252 Spe — **Fire Blast · Solar Beam · Nasty Plot · Dazzling Gleam** *(Kanto — elegant nine-tails / sun)*
+5. **Arcanine** @ Heavy-Duty Boots — *Intimidate* — Adamant — 252 Atk / 4 Def / 252 Spe — **Flare Blitz · Extreme Speed · Play Rough · Morning Sun** *(Kanto — fierce flame)*
+6. **Skeledirge** @ Leftovers — *Unaware* — Bold — 252 HP / 252 Def / 4 SpD — **Torch Song · Shadow Ball · Slack Off · Will-O-Wisp** *(the fiery diva singer)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
@@ -792,7 +801,7 @@ Real-life leader → themed team. Godfather-meets-frat; loud, reckless, toxic of
    whole town knows them; reached via **West Side Hwy → GW Bridge → Fort Lee → Paramus**;
    **Fort Lee** LOCATION has **Hiram's** hot dogs & **Dong Bang** Korean BBQ)*
 10. **UPenn / APES frat house "4K" (Philly)** — GYM 10 *(LOCKED; 3-story frat-house gym; leader **The Shermfather**; from Paramus south to Philly)*
-11. **Emory Law School (Atlanta)** — GYM 11 *(LOCKED; leader **Madi**, blonde ex-classmate, +**Brielle**;
+11. **Emory Law School (Atlanta)** — GYM 11 *(LOCKED; leader **Brielle** (Madi = right-hand), blonde ex-classmate, +**Brielle**;
     FLY from Philly; locations: Emory baseball field, Fox Bros BBQ)*
 12. **Hallandale Beach, FL — "The Hemispheres"** — GYM 12 *(LOCKED; BASKETBALL old-folks resort;
    leader **Roman** (old guy who runs the snack bar); FLY from Atlanta)*
