@@ -5077,96 +5077,144 @@ EVs: 252 HP / 252 SpA / 4 Def
 - Shadow Sneak
 
 === TRAINER_NORMAN_1 ===
-Name: NORMAN
+Name: JUDGE
 Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Spinda
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Teeter Dance
-- Psybeam
-- Facade
-- Encore
+Braviary @ Choice Band
+Ability: Defiant
+Adamant Nature
+Level: 42
+EVs: 252 Atk / 4 Def / 252 Spe
+- Brave Bird
+- Close Combat
+- U-turn
+- Rock Slide
 
-Vigoroth
-Level: 27
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Facade
-- Encore
-- Feint Attack
+Staraptor @ Choice Scarf
+Ability: Reckless
+Jolly Nature
+Level: 42
+EVs: 252 Atk / 4 Def / 252 Spe
+- Brave Bird
+- Close Combat
+- Double-Edge
+- U-turn
 
-Linoone
-Level: 29
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Slash
-- Belly Drum
-- Facade
-- Headbutt
+Aerodactyl @ Life Orb
+Ability: Rock Head
+Jolly Nature
+Level: 42
+EVs: 252 Atk / 4 Def / 252 Spe
+- Stone Edge
+- Dual Wingbeat
+- Earthquake
+- Aqua Tail
 
-Slaking @ Sitrus Berry
-Level: 31
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Counter
-- Yawn
-- Facade
-- Feint Attack
+Talonflame @ Heavy-Duty Boots
+Ability: Gale Wings
+Jolly Nature
+Level: 42
+EVs: 252 Atk / 4 Def / 252 Spe
+- Brave Bird
+- Flare Blitz
+- Swords Dance
+- U-turn
+
+Dodrio @ Choice Band
+Ability: Early Bird
+Jolly Nature
+Level: 42
+EVs: 252 Atk / 4 Def / 252 Spe
+- Brave Bird
+- Double-Edge
+- Drill Run
+- Knock Off
+
+Corviknight @ Leftovers
+Ability: Mirror Armor
+Impish Nature
+Level: 43
+EVs: 252 HP / 168 Def / 88 SpD
+- Brave Bird
+- Body Press
+- Roost
+- U-turn
 
 === TRAINER_WINONA_1 ===
-Name: WINONA
+Name: THE DEAN
 Class: Leader
 Pic: Leader Winona
-Gender: Female
-Music: Female
-Items: Hyper Potion / Hyper Potion
+Gender: Male
+Music: Male
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer / Risky
+AI: Smart Trainer
 
-Swablu
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Perish Song
-- Mirror Move
-- Safeguard
-- Aerial Ace
+Scizor @ Leftovers
+Ability: Technician
+Impish Nature
+Level: 48
+EVs: 248 HP / 8 Atk / 252 Def
+- Bullet Punch
+- Knock Off
+- Roost
+- Swords Dance
 
-Tropius
-Level: 29
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Sunny Day
-- Aerial Ace
-- Solar Beam
-- Synthesis
+Skarmory @ Leftovers
+Ability: Sturdy
+Impish Nature
+Level: 48
+EVs: 252 HP / 252 Def / 4 SpD
+- Spikes
+- Body Press
+- Roost
+- Defog
 
-Pelipper
-Level: 30
-IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Water Gun
-- Supersonic
-- Protect
-- Aerial Ace
+Ferrothorn @ Leftovers
+Ability: Iron Barbs
+Relaxed Nature
+Level: 48
+EVs: 252 HP / 252 Def / 4 SpD
+- Stealth Rock
+- Leech Seed
+- Gyro Ball
+- Power Whip
 
-Skarmory
-Level: 31
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Sand Attack
-- Fury Attack
-- Steel Wing
-- Aerial Ace
+Magnezone @ Assault Vest
+Ability: Magnet Pull
+Modest Nature
+Level: 48
+EVs: 252 HP / 252 SpA / 4 SpD
+- Flash Cannon
+- Thunderbolt
+- Volt Switch
+- Body Press
 
-Altaria @ Oran Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
+Klefki @ Leftovers
+Ability: Prankster
+Bold Nature
+Level: 48
+EVs: 252 HP / 252 Def / 4 SpD
+- Spikes
+- Thunder Wave
+- Foul Play
+- Light Screen
+
+Heatran @ Leftovers
+Ability: Flash Fire
+Calm Nature
+Level: 49
+EVs: 252 HP / 4 SpA / 252 SpD
+- Magma Storm
+- Earth Power
+- Taunt
+- Flash Cannon
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: TATE&LIZA
@@ -5211,54 +5259,74 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Flamethrower
 
 === TRAINER_JUAN_1 ===
-Name: JUAN
+Name: GIOVANNI
 Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Luvdisc
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Attract
-- Sweet Kiss
-- Flail
-
-Whiscash
-Level: 41
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rain Dance
-- Water Pulse
-- Amnesia
-- Earthquake
-
-Sealeo
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Encore
-- Body Slam
-- Aurora Beam
-- Water Pulse
-
-Crawdaunt
-Level: 43
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Water Pulse
-- Crabhammer
-- Taunt
-- Leer
-
-Kingdra @ Chesto Berry
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Water Pulse
-- Double Team
+Nidoking @ Life Orb
+Ability: Sheer Force
+Modest Nature
+Level: 60
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Earth Power
+- Sludge Wave
 - Ice Beam
-- Rest
+- Flamethrower
+
+Nidoqueen @ Black Sludge
+Ability: Sheer Force
+Bold Nature
+Level: 60
+EVs: 252 HP / 252 Def / 4 SpA
+- Earth Power
+- Sludge Wave
+- Ice Beam
+- Stealth Rock
+
+Rhydon @ Eviolite
+Ability: Lightning Rod
+Adamant Nature
+Level: 60
+EVs: 252 HP / 4 Atk / 252 Def
+- Earthquake
+- Stone Edge
+- Megahorn
+- Swords Dance
+
+Marowak @ Thick Club
+Ability: Rock Head
+Adamant Nature
+Level: 60
+EVs: 252 Atk / 252 Spe / 4 HP
+- Bonemerang
+- Stone Edge
+- Fire Punch
+- Double-Edge
+
+Dugtrio @ Focus Sash
+Ability: Arena Trap
+Jolly Nature
+Level: 60
+EVs: 252 Atk / 4 Def / 252 Spe
+- Earthquake
+- Stone Edge
+- Sucker Punch
+- Reversal
+
+Persian @ Silk Scarf
+Ability: Technician
+Jolly Nature
+Level: 61
+EVs: 252 Atk / 4 Def / 252 Spe
+- Fake Out
+- U-turn
+- Knock Off
+- Throat Chop
 
 === TRAINER_JERRY_1 ===
 Name: JERRY
