@@ -485,7 +485,7 @@ Mew's appearance → resolution. Hit the iconic story beats (re-flavored for our
      (mirrors the movie's invited trainers). Battle him here too, in full Napoleon-complex form.
 4. **★ Armored Mewtwo (two-phase boss):**
    - Phase 1: trainer battle vs **Armored Mewtwo** with the **mirror team** (clone of player's
-     party, +5 levels). Phase 2: armor shatters → **wild Mewtwo** → **catchable.**
+     party, +5 levels). Phase 2: Mewtwo voluntarily sheds his armor (deeming no clone worthy) to unleash his true full power → **wild Mewtwo** → **catchable.**
 5. **Mew appears** after the Mewtwo battle — **Justin catches it; it is NOT player-catchable.** Mew is Justin's ace for the rest of the game.
 6. **Arc ends → Shane WAKES BACK UP in apt 28C, Hudson Yards** (First-Movie-style dreamlike
    aftermath / memory haze — did it even happen?). This transitions into **Act II.**
@@ -745,7 +745,16 @@ The *First Movie* climax. Surf through the hurricane from Montauk → invited-tr
 
 **JUSTIN (island six, pre-Mew)** — Act-I team ~Lv 63: **Eevee · Kadabra · Tyranitar · Gyarados · Snorlax · Raticate (temp)**. After the arc, **Mew replaces Raticate** (see Justin's team arc).
 
-**ARMORED MEWTWO (two-phase boss)** — ~Lv 65. Phase 1: trainer battle, **mirror team = clone of the player's party +5 levels**. Phase 2: armor shatters → **wild Mewtwo** → Shane catches it. (Full spec in the Endgame Arc section.)
+**ARMORED MEWTWO (two-phase boss)** — ~Lv 65. Phase 1: trainer battle, **mirror team = clone of the player's party +5 levels**. Phase 2: Mewtwo voluntarily sheds his armor (deeming no clone worthy) to unleash his true full power → **wild Mewtwo** → Shane catches it. (Full spec in the Endgame Arc section.)
+
+#### GYM 9 — Grandma Linda (Paramus) — Ground "stomp" (OU) — ~Lv 68
+Real-life leader → themed team. The tough-as-nails Jersey matriarch (uncles Matt/Jason/Donut as muscle) — she paves you into the Paramus parking lot. Ace = **Ursaluna**. *(Kanto Grounds were largely spent by Giovanni & Brock, so this is the modern Ground-powerhouse gym.)*
+1. **Ursaluna** @ Flame Orb — *Guts* — Adamant — 248 HP / 252 Atk / 8 Spe — **Facade · Headlong Rush · Earthquake · Swords Dance** *(ACE — Guts + Flame Orb; the big angry bear)*
+2. **Garchomp** @ Loaded Dice — *Rough Skin* — Jolly — 252 Atk / 4 Def / 252 Spe — **Scale Shot · Earthquake · Stealth Rock · Stone Edge**
+3. **Mamoswine** @ Life Orb — *Thick Fat* — Adamant — 252 Atk / 4 Def / 252 Spe — **Earthquake · Icicle Crash · Ice Shard · Knock Off**
+4. **Hippowdon** @ Leftovers — *Sand Stream* — Impish — 252 HP / 252 Def / 4 SpD — **Earthquake · Slack Off · Stealth Rock · Whirlwind** *(sand wall)*
+5. **Great Tusk** @ Booster Energy — *Protosynthesis* — Jolly — 252 Atk / 4 Def / 252 Spe — **Headlong Rush · Close Combat · Rapid Spin · Knock Off** *(newer monster)*
+6. **Krookodile** @ Choice Band — *Intimidate* — Jolly — 252 Atk / 4 Def / 252 Spe — **Earthquake · Knock Off · Stone Edge · Close Combat** *(Ground/Dark enforcer — Jersey attitude)*
 
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
