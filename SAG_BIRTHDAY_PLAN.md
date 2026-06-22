@@ -602,7 +602,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 | 8 | Montauk Lighthouse (Giovanni) | **Ground** | Rocket |
 | 9 | Paramus (Grandma Linda) | **Ground** | Family |
 | 10 | UPenn frat "4K" (Shermfather) | **Poison** | Keg |
-| 11 | Emory Law (Madi) | **Fire** | Peach |
+| 11 | Emory Law (Brielle) | **Fire/Fairy** | Peach |
 | 12 | Hallandale "Hemispheres" (Roman) | **Water** | Tide |
 | 13 | IMG Academy (J.R. Murphy) | **Rock** | Prospect |
 | 14 | Killington (Prof. Oak) | **Ice** | Summit |
@@ -616,7 +616,7 @@ to PC's existing types under new skins unless we re-theme (your call per gym).
 **Champion**, and **rival Justin** — fields a **full 6-Pokémon team**, built to be **genuinely hard**.
 - **Two methods:** **Pokémon-canon characters** (Giovanni, Prof. Oak, Steven, Red, guest champs) → their
   **canon/signature** teams. **Real-life people** (Altorelli, Sokotch, Randolph, Judge, Jesse, Grandma
-  Linda, Shermfather, Madi, Roman, J.R. Murphy, Kenny & Ricky, Justin, Cali, Dad, Mom, Jared) → a
+  Linda, Shermfather, Brielle, Roman, J.R. Murphy, Kenny & Ricky, Justin, Cali, Dad, Mom, Jared) → a
   **themed competitive Smogon singles team** from a **tier matched to gym order**.
 - **Species flavor:** lean **Kanto-151** (Shane's favorites) + a **sprinkle of newer standouts** per team.
   Modern (Gen-9) mechanics/sets on a Gen-1-heavy roster. *(Kanto has no Dark-types → "Dark/villain" gyms = menacing Kanto mons + newer Dark sprinkles.)*
@@ -801,7 +801,7 @@ Real-life leader → themed team. Femme-fatale energy; **Madi** is her right-han
    whole town knows them; reached via **West Side Hwy → GW Bridge → Fort Lee → Paramus**;
    **Fort Lee** LOCATION has **Hiram's** hot dogs & **Dong Bang** Korean BBQ)*
 10. **UPenn / APES frat house "4K" (Philly)** — GYM 10 *(LOCKED; 3-story frat-house gym; leader **The Shermfather**; from Paramus south to Philly)*
-11. **Emory Law School (Atlanta)** — GYM 11 *(LOCKED; leader **Brielle** (Madi = right-hand), blonde ex-classmate, +**Brielle**;
+11. **Emory Law School (Atlanta)** — GYM 11 *(LOCKED; leader **Brielle** (femme fatale; **Madi** = right-hand);
     FLY from Philly; locations: Emory baseball field, Fox Bros BBQ)*
 12. **Hallandale Beach, FL — "The Hemispheres"** — GYM 12 *(LOCKED; BASKETBALL old-folks resort;
    leader **Roman** (old guy who runs the snack bar); FLY from Atlanta)*
@@ -1022,7 +1022,7 @@ Real-life leader → themed team. Femme-fatale energy; **Madi** is her right-han
     items, brisket gags).
 - **Theme:** grad-school / law-campus down south; law students + southern flavor as grunt trainers.
   Full roast (benders, "y'all," grad-school burnout).
-- **Leader (locked 2026-06-21): MADI** — a **blonde female ex-classmate** of Shane's. With **Brielle**
+- **Leader (CHANGED 2026-06-22): BRIELLE** (femme-fatale leader; **Madi** = right-hand) — a **blonde female ex-classmate** of Shane's — now the right-hand. With **Madi**
   (another girl) also present — co-leader / right-hand / fellow trainer at the gym. Full-roast
   ex-classmate banter.
 - **Type / Badge:** TBD. Confirm at type pass.
