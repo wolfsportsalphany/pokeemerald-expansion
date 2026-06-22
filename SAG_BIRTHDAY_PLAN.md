@@ -627,6 +627,15 @@ Real-life leader → themed team. The terrifying schoolteacher: sleep + Trick Ro
 5. **Mr. Mime** @ Light Clay — *Filter* — Bold — 252 HP / 252 Def / 4 SpD — **Reflect · Light Screen · Psychic · Dazzling Gleam** *(screens — detention by attrition)*
 6. **Hatterene** @ Life Orb — *Magic Bounce* — Quiet — 248 HP / 252 SpA / 8 SpD — **Psyshock · Dazzling Gleam · Mystical Fire · Trick Room** *(newer sprinkle — bounces your status; slow TR nuke)*
 
+#### GYM 3 — Uptown Randall (Randalls Island) — Fighting/Normal "baseball sluggers" (RU-caliber) — ~Lv 28
+Real-life leader → themed team. League-captain boss of Shane's youth ball (Uptown/CYO/Thunder/Gothams/Riverdale/Titans as the grunts). Ace = **Conkeldurr**.
+1. **Conkeldurr** @ Flame Orb — *Guts* — Adamant — 252 HP / 252 Atk / 4 Def — **Drain Punch · Mach Punch · Knock Off · Facade** *(ACE — swings concrete pillars like bats; Guts + Flame Orb cleanup hitter; newer sprinkle)*
+2. **Machamp** @ Choice Band — *No Guard* — Adamant — 252 Atk / 4 Def / 252 Spe — **Dynamic Punch · Knock Off · Stone Edge · Ice Punch** *(Kanto — power slugger; guaranteed DynPunch)*
+3. **Tauros** @ Life Orb — *Sheer Force* — Jolly — 252 Atk / 4 Def / 252 Spe — **Double-Edge · Earthquake · Zen Headbutt · Throat Chop** *(Kanto — the charging bull)*
+4. **Snorlax** @ Leftovers — *Thick Fat* — Adamant — 252 HP / 252 Atk / 4 Def — **Body Slam · High Horsepower · Crunch · Curse** *(Kanto — immovable cleanup hitter)*
+5. **Hitmonlee** @ Life Orb — *Reckless* — Jolly — 252 Atk / 4 Def / 252 Spe — **High Jump Kick · Close Combat · Stone Edge · Mach Punch** *(Kanto — the big-swing kicker)*
+6. **Kangaskhan** @ Silk Scarf — *Scrappy* — Adamant — 252 Atk / 4 Def / 252 Spe — **Double-Edge · Earthquake · Sucker Punch · Fake Out** *(Kanto — the seasoned vet)*
+
 #### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 1. **Nidoking** @ Life Orb — *Sheer Force* — Modest — 252 SpA / 4 SpD / 252 Spe — **Earth Power · Sludge Wave · Ice Beam · Flamethrower** *(ACE; Sheer Force cancels Life Orb recoil → nukes)*
