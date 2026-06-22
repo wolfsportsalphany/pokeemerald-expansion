@@ -420,6 +420,7 @@ resident NPCs, and a personal story beat. (Order = rough travel flow from the st
 3. **Gyms 9–16** — college & later-life arc (Philly/Atlanta/IMG/etc.).
 4. **After 16th badge → ELITE FOUR** — E4 = **Cali → Dad → Mom → Steven** (Hoenn Champion), then **CHAMPION: Jared** (Shane's brother). *(See "ELITE FOUR & CHAMPION" below.)*
 5. **POST-GAME (locked 2026-06-22):** **Red** is the hidden secret superboss atop the **Empire State Building**, with cross-region champions (Cynthia/Wallace/Steven, etc.) as the climb up to him. Red lives in the post-game — *not* a gym.
+> **Post-Champion → post-game (locked 2026-06-22):** beating **Champion Jared** rolls the **credits**, then Shane **wakes up in his Hudson Yards apt (28C)** and the **post-game** opens — Red atop the Empire State Building + more, which we design next.
 
 ## ★ RIVAL ARC — JUSTIN'S BATTLES (locked 2026-06-22; ~12 fights)
 Justin recurs across the whole game with an escalating, overcompensating Napoleon-complex arc. His
@@ -568,6 +569,7 @@ direction; water bodies are real; the southern college leg is a long journey sou
 ## ★ PLAYER-SIDE QOL & LEVELING (locked 2026-06-22) — features to implement
 So Shane can freely build & test teams against the brutal gauntlet:
 - **EV control (locked 2026-06-22):** start with **99× of every EV vitamin** (Protein, Iron, Calcium, Zinc, Carbos, HP Up) — max any spread instantly. And **every Pokémon Center has an EV-reset NPC**: talk to them, pick a Pokémon, and **all its EVs are wiped** so Shane can freely re-spread/optimize.
+- **No bag limit (locked 2026-06-22):** the player's bag has **no item cap** — unlimited capacity / max stack sizes per pocket, so the entire competitive stockpile fits.
 - **Starting loadout (from the first save):** **max money**; **99×** of every medicine/healing/status item
   (Potions→Max/Full Restore, Revives, Full Heals, Ethers/Elixirs…); **6×** of every competitive battle item,
   esp. consumables (**Focus Sash**, Sitrus/Lum/Weakness Policy berries, Air Balloon…) plus several of each
