@@ -676,6 +676,15 @@ Real-life leader → themed team. **Cali's incoming Brooklyn Law dean** — set 
 5. **Klefki** @ Leftovers — *Prankster* — Bold — 252 HP / 252 Def / 4 SpD — **Spikes · Thunder Wave · Foul Play · Light Screen** *(the dean's ring of keys — Prankster lockdown/bureaucracy)*
 6. **Heatran** @ Leftovers — *Flash Fire* — Calm — 252 HP / 4 SpA / 252 SpD — **Magma Storm · Earth Power · Taunt · Flash Cannon** *(bulky Steel/Fire breaker + trap)*
 
+#### GYM 7 — Jesse (Old Brookville) — Fairy "warm but deceptively tough" (OU) — ~Lv 47
+Real-life leader → themed team. The beloved old former nanny — sweet tone, but a genuinely brutal battler. Ace = **Clefable**.
+1. **Clefable** @ Leftovers — *Magic Guard* — Bold — 252 HP / 252 Def / 4 SpD — **Moonblast · Calm Mind · Soft-Boiled · Flamethrower** *(ACE — the unkillable motherly matriarch)*
+2. **Azumarill** @ Sitrus Berry — *Huge Power* — Adamant — 252 HP / 252 Atk / 4 Def — **Belly Drum · Play Rough · Aqua Jet · Knock Off** *(deceptively tough — cute bunny, Huge Power nuke)*
+3. **Florges** @ Leftovers — *Flower Veil* — Calm — 252 HP / 4 Def / 252 SpD — **Calm Mind · Moonblast · Synthesis · Protect** *(the gentle garden matriarch; CM wall)*
+4. **Primarina** @ Assault Vest — *Liquid Voice* — Modest — 252 HP / 252 SpA / 4 SpD — **Moonblast · Sparkling Aria · Psychic Noise · Flip Turn** *(warm 'singer'; special tank)*
+5. **Tinkaton** @ Leftovers — *Mold Breaker* — Jolly — 252 HP / 4 Atk / 252 Spe — **Gigaton Hammer · Play Rough · Knock Off · Stealth Rock** *(giant-hammer fairy — deceptively brutal)*
+6. **Wigglytuff** @ Leftovers — *Competitive* — Bold — 252 HP / 252 Def / 4 SpD — **Wish · Protect · Dazzling Gleam · Thunder Wave** *(Kanto — the huggable nanny: Wish-heals & protects the team)*
+
 #### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 1. **Nidoking** @ Life Orb — *Sheer Force* — Modest — 252 SpA / 4 SpD / 252 Spe — **Earth Power · Sludge Wave · Ice Beam · Flamethrower** *(ACE; Sheer Force cancels Life Orb recoil → nukes)*
