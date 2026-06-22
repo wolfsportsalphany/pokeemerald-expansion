@@ -775,6 +775,15 @@ Real-life leader → themed team. Femme-fatale energy; **Madi** is her right-han
 5. **Arcanine** @ Heavy-Duty Boots — *Intimidate* — Adamant — 252 Atk / 4 Def / 252 Spe — **Flare Blitz · Extreme Speed · Play Rough · Morning Sun** *(Kanto — fierce flame)*
 6. **Skeledirge** @ Leftovers — *Unaware* — Bold — 252 HP / 252 Def / 4 SpD — **Torch Song · Shadow Ball · Slack Off · Will-O-Wisp** *(the fiery diva singer)*
 
+#### GYM 12 — Roman (The Hemispheres, Hallandale FL) — Water "deceptive beast" (OU) — ~Lv 82
+Real-life leader → themed team. The unassuming snack-bar guy who turns out to be a monster. "Hot dog, or a beating?" Ace = **Palafin**.
+1. **Palafin** @ Choice Band — *Zero to Hero* — Jolly — 252 Atk / 4 Def / 252 Spe — **Jet Punch · Wave Crash · Close Combat · Flip Turn** *(ACE — harmless dolphin → monster mid-battle)*
+2. **Blastoise** @ White Herb — *Torrent* — Modest — 252 SpA / 4 SpD / 252 Spe — **Shell Smash · Hydro Pump · Ice Beam · Aura Sphere** *(Kanto — deceptive Shell Smash sweep)*
+3. **Cloyster** @ King's Rock — *Skill Link* — Jolly — 252 Atk / 4 Def / 252 Spe — **Shell Smash · Icicle Spear · Rock Blast · Hydro Pump** *(Kanto — the shell cracks into a beast)*
+4. **Toxapex** @ Black Sludge — *Regenerator* — Bold — 252 HP / 252 Def / 4 SpD — **Scald · Toxic · Recover · Haze** *(the patient, unkillable wall)*
+5. **Dondozo** @ Leftovers — *Unaware* — Impish — 248 HP / 252 Def / 8 SpD — **Wave Crash · Body Press · Curse · Rest** *(the big lazy beast)*
+6. **Tentacruel** @ Black Sludge — *Clear Body* — Timid — 252 HP / 4 SpA / 252 Spe — **Scald · Sludge Bomb · Rapid Spin · Toxic Spikes** *(Kanto — beachside hazard control)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
