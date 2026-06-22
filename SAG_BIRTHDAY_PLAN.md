@@ -708,6 +708,45 @@ Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 5. **Dugtrio** @ Focus Sash — *Arena Trap* — Jolly — 252 Atk / 4 Def / 252 Spe — **Earthquake · Stone Edge · Sucker Punch · Reversal** *(traps & revenge-kills — Giovanni mind-games)*
 6. **Persian** @ Silk Scarf — *Technician* — Jolly — 252 Atk / 4 Def / 252 Spe — **Fake Out · U-turn · Knock Off · Throat Chop** *(his signature cat; fast utility/pivot. Swap to Rhyperior for raw power over flavor.)*
 
+#### MEWTWO ISLAND — boss gauntlet (post-Gym 8) — full competitive, ~Lv 63
+The *First Movie* climax. Surf through the hurricane from Montauk → invited-trainer battles → Team Rocket → Armored Mewtwo. **Shane catches Mewtwo; Justin catches Mew.** Anime trainers = full competitive upgrades.
+
+**ASH** — iconic regional aces, maxed. Ace = **Pikachu**.
+1. **Pikachu** @ Light Ball — *Static* — Jolly — **Volt Tackle · Surf · Knock Off · Volt Switch** *(signature; Light Ball doubles its offenses)*
+2. **Charizard** @ Heavy-Duty Boots — *Solar Power* — Timid — **Fire Blast · Hurricane · Solar Beam · Roost**
+3. **Greninja** @ Choice Specs — *Protean* — Timid — **Hydro Pump · Ice Beam · Dark Pulse · U-turn**
+4. **Infernape** @ Life Orb — *Iron Fist* — Jolly — **Flare Blitz · Close Combat · Mach Punch · U-turn**
+5. **Sceptile** @ Life Orb — *Overgrow* — Timid — **Leaf Storm · Dragon Pulse · Focus Blast · Giga Drain**
+6. **Lucario** @ Life Orb — *Adaptability* — Jolly — **Close Combat · Bullet Punch · Extreme Speed · Swords Dance**
+
+**MISTY** — rain Water. Ace = **Starmie**.
+1. **Politoed** @ Damp Rock — *Drizzle* — Bold — **Scald · Encore · Ice Beam · Toxic** *(rain setter)*
+2. **Starmie** @ Life Orb — *Analytic* — Timid — **Hydro Pump · Ice Beam · Thunder · Rapid Spin** *(ace)*
+3. **Kingdra** @ Choice Specs — *Swift Swim* — Modest — **Hydro Pump · Draco Meteor · Surf · Flip Turn**
+4. **Barraskewda** @ Choice Band — *Swift Swim* — Adamant — **Liquidation · Flip Turn · Close Combat · Aqua Jet**
+5. **Quagsire** @ Leftovers — *Unaware* — Relaxed — **Scald · Recover · Earthquake · Toxic**
+6. **Slowbro** @ Leftovers — *Regenerator* — Bold — **Scald · Future Sight · Slack Off · Calm Mind**
+
+**BROCK** — sand Rock/Ground. Ace = **Steelix** (his Onix).
+1. **Gigalith** @ Smooth Rock — *Sand Stream* — Adamant — **Stone Edge · Earthquake · Heavy Slam · Stealth Rock** *(sand setter)*
+2. **Steelix** @ Leftovers — *Sturdy* — Impish — **Heavy Slam · Earthquake · Stealth Rock · Roar** *(his Onix; ace)*
+3. **Golem** @ Choice Band — *Sturdy* — Adamant — **Earthquake · Stone Edge · Explosion · Sucker Punch**
+4. **Rhyperior** @ Assault Vest — *Solid Rock* — Adamant — **Earthquake · Rock Wrecker · Megahorn · Ice Punch**
+5. **Excadrill** @ Life Orb — *Sand Rush* — Adamant — **Earthquake · Iron Head · Rock Slide · Rapid Spin**
+6. **Kabutops** @ Life Orb — *Weak Armor* — Adamant — **Stone Edge · Liquidation · Aqua Jet · Swords Dance**
+
+**TEAM ROCKET — Jessie & James** (comic but tuned; ~Lv 60). Ace = **Wobbuffet**. *(Arbok/Weezing intentionally echo Altorelli — J&J signatures.)*
+1. **Wobbuffet** @ Leftovers — *Shadow Tag* — Bold — **Counter · Mirror Coat · Encore · Destiny Bond** *(Jessie)*
+2. **Arbok** @ Black Glasses — *Intimidate* — Jolly — **Gunk Shot · Sucker Punch · Earthquake · Glare** *(Jessie)*
+3. **Seviper** @ Life Orb — *Infiltrator* — Modest — **Sludge Wave · Flamethrower · Giga Drain · Glare** *(Jessie)*
+4. **Weezing** @ Black Sludge — *Levitate* — Bold — **Sludge Bomb · Will-O-Wisp · Pain Split · Toxic Spikes** *(James)*
+5. **Victreebel** @ Life Orb — *Chlorophyll* — Modest — **Leaf Storm · Sludge Bomb · Weather Ball · Sleep Powder** *(James)*
+6. **Malamar** @ Leftovers — *Contrary* — Adamant — **Superpower · Knock Off · Psycho Cut · Rest** *(James's Inkay)*
+
+**JUSTIN (island six, pre-Mew)** — Act-I team ~Lv 63: **Eevee · Kadabra · Tyranitar · Gyarados · Snorlax · Raticate (temp)**. After the arc, **Mew replaces Raticate** (see Justin's team arc).
+
+**ARMORED MEWTWO (two-phase boss)** — ~Lv 65. Phase 1: trainer battle, **mirror team = clone of the player's party +5 levels**. Phase 2: armor shatters → **wild Mewtwo** → Shane catches it. (Full spec in the Endgame Arc section.)
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo Island:**
 0. **Hudson Yards** — START hub (not a gym)
