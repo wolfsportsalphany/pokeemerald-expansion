@@ -4867,122 +4867,214 @@ EVs: 252 Atk / 4 Def / 252 Spe
 - Low Kick
 
 === TRAINER_BRAWLY_1 ===
-Name: BRAWLY
+Name: SOKOTCH
 Class: Leader
 Pic: Leader Brawly
-Gender: Male
-Music: Male
-Items: Super Potion / Super Potion
+Gender: Female
+Music: Female
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Machop
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Karate Chop
-- Low Kick
-- Seismic Toss
-- Bulk Up
+Hypno @ Leftovers
+Ability: Insomnia
+Calm Nature
+Level: 24
+EVs: 252 HP / 4 SpA / 252 SpD
+- Hypnosis
+- Psychic
+- Future Sight
+- Thunder Wave
 
-Meditite
-Level: 16
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
-- Light Screen
+Slowking @ Leftovers
+Ability: Regenerator
+Sassy Nature
+Level: 24
+EVs: 252 HP / 4 Def / 252 SpD
+- Trick Room
+- Psychic
+- Scald
+- Slack Off
+
+Exeggutor @ Sitrus Berry
+Ability: Harvest
+Quiet Nature
+Level: 24
+EVs: 252 HP / 252 SpA / 4 SpD
+- Sleep Powder
+- Psychic
+- Giga Drain
+- Sludge Bomb
+
+Jynx @ Focus Sash
+Ability: Forewarn
+Modest Nature
+Level: 24
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Lovely Kiss
+- Psychic
+- Ice Beam
+- Nasty Plot
+
+Mr. Mime @ Light Clay
+Ability: Filter
+Bold Nature
+Level: 24
+EVs: 252 HP / 252 Def / 4 SpD
 - Reflect
-- Bulk Up
+- Light Screen
+- Psychic
+- Dazzling Gleam
 
-Makuhita @ Sitrus Berry
-Level: 19
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Arm Thrust
-- Vital Throw
-- Reversal
-- Bulk Up
+Hatterene @ Life Orb
+Ability: Magic Bounce
+Quiet Nature
+Level: 25
+EVs: 248 HP / 252 SpA / 8 SpD
+- Psyshock
+- Dazzling Gleam
+- Mystical Fire
+- Trick Room
 
 === TRAINER_WATTSON_1 ===
-Name: WATTSON
+Name: UPTOWN RANDALL
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Voltorb
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Rollout
-- Spark
-- Self Destruct
-- Shock Wave
+Conkeldurr @ Flame Orb
+Ability: Guts
+Adamant Nature
+Level: 30
+EVs: 248 HP / 252 Atk / 8 Def
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Facade
 
-Electrike
-Level: 20
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Shock Wave
-- Leer
-- Quick Attack
-- Howl
+Machamp @ Choice Band
+Ability: No Guard
+Adamant Nature
+Level: 30
+EVs: 252 Atk / 4 Def / 252 Spe
+- Dynamic Punch
+- Knock Off
+- Stone Edge
+- Ice Punch
 
-Magneton
-Level: 22
-IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
-- Supersonic
-- Shock Wave
-- Thunder Wave
-- Sonic Boom
+Tauros @ Life Orb
+Ability: Sheer Force
+Jolly Nature
+Level: 30
+EVs: 252 Atk / 4 Def / 252 Spe
+- Double-Edge
+- Earthquake
+- Zen Headbutt
+- Throat Chop
 
-Manectric @ Sitrus Berry
-Level: 24
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Quick Attack
-- Thunder Wave
-- Shock Wave
-- Howl
+Snorlax @ Leftovers
+Ability: Thick Fat
+Adamant Nature
+Level: 30
+EVs: 252 HP / 252 Atk / 4 Def
+- Body Slam
+- High Horsepower
+- Crunch
+- Curse
+
+Hitmonlee @ Life Orb
+Ability: Reckless
+Jolly Nature
+Level: 30
+EVs: 252 Atk / 4 Def / 252 Spe
+- High Jump Kick
+- Close Combat
+- Stone Edge
+- Mach Punch
+
+Kangaskhan @ Silk Scarf
+Ability: Scrappy
+Adamant Nature
+Level: 31
+EVs: 252 Atk / 4 Def / 252 Spe
+- Double-Edge
+- Earthquake
+- Sucker Punch
+- Fake Out
 
 === TRAINER_FLANNERY_1 ===
-Name: FLANNERY
+Name: RANDOLPH
 Class: Leader
 Pic: Leader Flannery
-Gender: Female
-Music: Female
-Items: Hyper Potion / Hyper Potion
+Gender: Male
+Music: Male
+Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Numel
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Take Down
-- Magnitude
-- Sunny Day
+Dragapult @ Choice Specs
+Ability: Infiltrator
+Timid Nature
+Level: 36
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Shadow Ball
+- Draco Meteor
+- Flamethrower
+- U-turn
 
-Slugma
-Level: 24
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
-- Smog
-- Light Screen
-- Sunny Day
+Haunter @ Life Orb
+Ability: Levitate
+Timid Nature
+Level: 36
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Shadow Ball
+- Sludge Wave
+- Nasty Plot
+- Dazzling Gleam
 
-Camerupt
-Level: 26
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+Mimikyu @ Life Orb
+Ability: Disguise
+Jolly Nature
+Level: 36
+EVs: 252 Atk / 4 Def / 252 Spe
+- Swords Dance
+- Play Rough
+- Shadow Sneak
+- Shadow Claw
 
-Torkoal @ White Herb
-Level: 29
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Sunny Day
-- Body Slam
-- Attract
+Chandelure @ Choice Scarf
+Ability: Flash Fire
+Timid Nature
+Level: 36
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Shadow Ball
+- Fire Blast
+- Energy Ball
+- Trick
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Timid Nature
+Level: 36
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Make It Rain
+- Shadow Ball
+- Power Gem
+- Focus Blast
+
+Aegislash @ Leftovers
+Ability: Stance Change
+Quiet Nature
+Level: 37
+EVs: 252 HP / 252 SpA / 4 Def
+- King's Shield
+- Shadow Ball
+- Flash Cannon
+- Shadow Sneak
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
