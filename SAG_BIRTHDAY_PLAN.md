@@ -811,6 +811,15 @@ Real-life leaders → themed team. The eccentric old twin doctors who own the ca
 5. **Lokix** @ Choice Band — *Tinted Lens* — Adamant — 252 Atk / 4 Def / 252 Spe — **First Impression · Lunge · Sucker Punch · U-turn** *(Bug/Dark assassin)*
 6. **Butterfree** @ Focus Sash — *Tinted Lens* — Timid — 252 SpA / 4 SpD / 252 Spe — **Quiver Dance · Bug Buzz · Sleep Powder · Air Slash** *(Kanto — disruption + sweep)*
 
+#### GYM 16 — Justin (Central Synagogue) — the rival's takeover, his FINAL team (mid-90s) — ~Lv 95
+The climactic rival battle: Justin's seized the synagogue as his gym (congregation forced to host him; Rabbi Angela objects). His fully-grown Shane-mirror squad + the lone Mew. Ace = **Mew**.
+1. **Mew** @ Life Orb — *Synchronize* — Timid — 252 SpA / 4 Def / 252 Spe — **Nasty Plot · Psychic · Aura Sphere · Flamethrower** *(ACE — his Mewtwo's-Island catch)*
+2. **Sylveon** @ Pixie Plate — *Pixilate* — Modest — 252 HP / 252 SpA / 4 SpD — **Hyper Voice · Mystical Fire · Psyshock · Calm Mind** *(his Eevee, all grown up)*
+3. **Tyranitar** @ Assault Vest — *Sand Stream* — Adamant — 252 HP / 252 Atk / 4 SpD — **Stone Edge · Crunch · Earthquake · Ice Punch** *(from his Pupitar)*
+4. **Alakazam** @ Life Orb — *Magic Guard* — Timid — 252 SpA / 4 SpD / 252 Spe — **Psychic · Shadow Ball · Focus Blast · Nasty Plot** *(from his Kadabra)*
+5. **Salamence** @ Lum Berry — *Moxie* — Adamant — 252 Atk / 4 Def / 252 Spe — **Dragon Dance · Dragon Claw · Earthquake · Roost** *(Act-II upgrade)*
+6. **Metagross** @ Life Orb — *Tough Claws* — Adamant — 252 Atk / 4 Def / 252 Spe — **Meteor Mash · Bullet Punch · Earthquake · Ice Punch** *(Act-II upgrade)*
+
 ### Proposed order / skeleton (DRAFT — reorder freely)
 **ACT I — NYC & suburbs (Gyms 1–8), then Mewtwo's Island:**
 0. **Hudson Yards** — START hub (not a gym)
