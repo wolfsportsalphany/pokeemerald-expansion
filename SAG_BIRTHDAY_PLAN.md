@@ -567,6 +567,7 @@ direction; water bodies are real; the southern college leg is a long journey sou
 
 ## ★ PLAYER-SIDE QOL & LEVELING (locked 2026-06-22) — features to implement
 So Shane can freely build & test teams against the brutal gauntlet:
+- **EV control (locked 2026-06-22):** start with **99× of every EV vitamin** (Protein, Iron, Calcium, Zinc, Carbos, HP Up) — max any spread instantly. And **every Pokémon Center has an EV-reset NPC**: talk to them, pick a Pokémon, and **all its EVs are wiped** so Shane can freely re-spread/optimize.
 - **Starting loadout (from the first save):** **max money**; **99×** of every medicine/healing/status item
   (Potions→Max/Full Restore, Revives, Full Heals, Ethers/Elixirs…); **6×** of every competitive battle item,
   esp. consumables (**Focus Sash**, Sitrus/Lum/Weakness Policy berries, Air Balloon…) plus several of each
