@@ -954,8 +954,9 @@ enum BattleTransition GetSpecialBattleTransition(enum BattleTransitionGroup id)
 
 void ChooseStarter(void)
 {
-    SetMainCallback2(CB2_ChooseStarter);
-    gMain.savedCallback = CB2_GiveStarter;
+    // SAG: no starter selection -- skip the bag/choice screen and hand over Shane's party directly
+    gSpecialVar_Result = 0;
+    SetMainCallback2(CB2_GiveStarter);
 }
 
 static void CB2_GiveStarter(void)
