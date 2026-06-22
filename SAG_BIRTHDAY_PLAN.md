@@ -667,6 +667,15 @@ Real-life leader → themed team. Pro baseball, "the big leagues" — everything
 5. **Dodrio** @ Choice Band — *Early Bird* — Jolly — 252 Atk / 4 Def / 252 Spe — **Brave Bird · Double-Edge · Drill Run · Knock Off** *(Kanto — three-headed base-runner; pure speed/power)*
 6. **Corviknight** @ Leftovers — *Mirror Armor* — Impish — 252 HP / 168 Def / 88 SpD — **Brave Bird · Body Press · Roost · U-turn** *(the bulky veteran pivot — keeps the lineup churning)*
 
+#### GYM 6 — The Dean (Brooklyn Law School, Williamsburg) — Steel "ironclad wall/stall" (UU/OU) — ~Lv 42
+Real-life leader → themed team. **Cali's incoming Brooklyn Law dean** — set at **orientation season (~mid-August)**; Cali is an incoming 1L, freed/reached after the win. The letter of the law: hazards, walls, lockdown. Ace = **Scizor**.
+1. **Scizor** @ Leftovers — *Technician* — Impish — 248 HP / 8 Atk / 252 Def — **Bullet Punch · Knock Off · Roost · Swords Dance** *(ACE — bulky win-con; priority + setup)*
+2. **Skarmory** @ Leftovers — *Sturdy* — Impish — 252 HP / 252 Def / 4 SpD — **Spikes · Body Press · Roost · Defog** *(hazard wall + control)*
+3. **Ferrothorn** @ Leftovers — *Iron Barbs* — Relaxed — 252 HP / 252 Def / 4 SpD — **Stealth Rock · Leech Seed · Gyro Ball · Power Whip** *(hazards + passive grind)*
+4. **Magnezone** @ Assault Vest — *Magnet Pull* — Modest — 252 HP / 252 SpA / 4 SpD — **Flash Cannon · Thunderbolt · Volt Switch · Body Press** *(Kanto-family rep; traps enemy Steel)*
+5. **Klefki** @ Leftovers — *Prankster* — Bold — 252 HP / 252 Def / 4 SpD — **Spikes · Thunder Wave · Foul Play · Light Screen** *(the dean's ring of keys — Prankster lockdown/bureaucracy)*
+6. **Heatran** @ Leftovers — *Flash Fire* — Calm — 252 HP / 4 SpA / 252 SpD — **Magma Storm · Earth Power · Taunt · Flash Cannon** *(bulky Steel/Fire breaker + trap)*
+
 #### GYM 8 — Giovanni (Montauk Lighthouse) — Ground / canon Gen-1 Rocket — ~Lv 53
 Ace = **Nidoking**. Historical-best Giovanni, built competitively.
 1. **Nidoking** @ Life Orb — *Sheer Force* — Modest — 252 SpA / 4 SpD / 252 Spe — **Earth Power · Sludge Wave · Ice Beam · Flamethrower** *(ACE; Sheer Force cancels Life Orb recoil → nukes)*
