@@ -75,3 +75,13 @@ Then read this file + `SAG_BIRTHDAY_PLAN.md`. gh + git are already authenticated
 5. Rival **Justin**'s evolving teams (TRAINER_MAY_*/BRENDAN_*).
 6. Dialogue/story scripts (intro, gym leaders, the roast).
 7. Populate NPCs: doormen, family, the Canon 6 gift mons.
+
+## UPDATE @ v0.14.0
+World = 3 connected maps: **Hudson Yards (Littleroot)** -> south -> **Times Square (Oldale)** -> south -> **Upper East Side (Dewford)**. Gym 1 Altorelli (RustboroGym) + a Pokemon Center wired in Times Square. Tools: tools/sag/{maptool,render,swatch}.py.
+
+### HARD LESSONS (Dewford cost ~6 builds)
+- **Do NOT clear/blank entangled Hoenn town slots.** Dewford is in Mr. Briney's boat questline; other maps (Route104) reference LOCALID_DEWFORD_BRINEY/BOAT + its texts, so clearing its object_events/scripts.inc = link errors. Oldale + Littleroot were self-contained (safe).
+- **Clone is shallow (--depth 1).** `HEAD~1`/old commits don't exist until `git fetch --unshallow origin`.
+- **To repair a broken reused slot:** restore its map.json+scripts.inc from a KNOWN-GOOD commit, verified locally with `grep -c walk_fastest_right` == 0 (ancient fork commits use renamed movement macros that the current assembler rejects). Working Dewford = commit c27930ea.
+- **GOING FORWARD: use FRESH REGISTERED MAP IDs** (new data/maps/<Name> + map_groups.json entry), NOT repurposed town slots — zero entanglement.
+- **Pre-verify locally before the ~20-min build:** grep bad macros, json valid, collision reachability (tools print collision ASCII), render PNG.
