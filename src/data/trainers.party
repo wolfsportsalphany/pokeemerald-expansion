@@ -4587,208 +4587,288 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 - Roar
 
 === TRAINER_SIDNEY ===
-Name: SIDNEY
+Name: CALI
 Class: Elite Four
 Pic: Elite Four Sidney
 Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer / Force Setup First Turn
+AI: Smart Trainer
 Mugshot: Purple
 
-Mightyena
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Roar
-- Double Edge
-- Sand Attack
-- Crunch
+Weavile @ Heavy-Duty Boots
+Ability: Pressure
+Jolly Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Triple Axel
+- Knock Off
+- Ice Shard
+- Low Kick
 
-Shiftry
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Torment
-- Double Team
-- Swagger
-- Extrasensory
-
-Cacturne
-Level: 46
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Leech Seed
-- Feint Attack
-- Needle Arm
-- Cotton Spore
-
-Crawdaunt
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Surf
+Mawile @ Life Orb
+Ability: Huge Power
+Adamant Nature
+Level: 100
+EVs: 252 HP / 252 Atk / 4 Def
+- Play Rough
+- Sucker Punch
 - Swords Dance
-- Strength
-- Facade
+- Iron Head
 
-Absol @ Sitrus Berry
-Level: 49
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Aerial Ace
-- Rock Slide
+Sneasler @ Heavy-Duty Boots
+Ability: Unburden
+Jolly Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Close Combat
+- Dire Claw
 - Swords Dance
-- Slash
+- U-turn
+
+Grafaiai @ Black Sludge
+Ability: Prankster
+Jolly Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Gunk Shot
+- Knock Off
+- Encore
+- Parting Shot
+
+Maushold @ Wide Lens
+Ability: Technician
+Jolly Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Population Bomb
+- Tidy Up
+- Bite
+- Encore
+
+Sableye @ Leftovers
+Ability: Prankster
+Bold Nature
+Level: 100
+EVs: 252 HP / 252 Def / 4 SpD
+- Will-O-Wisp
+- Foul Play
+- Recover
+- Knock Off
 
 === TRAINER_PHOEBE ===
-Name: PHOEBE
+Name: DAD
 Class: Elite Four
 Pic: Elite Four Phoebe
 Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 Mugshot: Green
 
-Dusclops
-Level: 48
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Punch
-- Confuse Ray
-- Curse
-- Protect
+Iron Valiant @ Booster Energy
+Ability: Quark Drive
+Naive Nature
+Level: 100
+EVs: 252 SpA / 4 Def / 252 Spe
+- Moonblast
+- Close Combat
+- Knock Off
+- Encore
 
-Banette
-Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Grudge
-- Will O Wisp
-- Feint Attack
+Iron Hands @ Assault Vest
+Ability: Quark Drive
+Adamant Nature
+Level: 100
+EVs: 252 HP / 252 Atk / 4 Def
+- Drain Punch
+- Fake Out
+- Thunder Punch
+- Close Combat
 
-Sableye
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Double Team
-- Night Shade
-- Feint Attack
-
-Banette
-Level: 49
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Psychic
-- Thunderbolt
-- Facade
-
-Dusclops @ Sitrus Berry
-Level: 51
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Ice Beam
-- Rock Slide
+Iron Treads @ Booster Energy
+Ability: Quark Drive
+Jolly Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
 - Earthquake
+- Iron Head
+- Rapid Spin
+- Stealth Rock
+
+Archaludon @ Assault Vest
+Ability: Stamina
+Modest Nature
+Level: 100
+EVs: 252 HP / 252 SpA / 4 SpD
+- Electro Shot
+- Draco Meteor
+- Flash Cannon
+- Body Press
+
+Revavroom @ Life Orb
+Ability: Filter
+Adamant Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Shift Gear
+- Gunk Shot
+- Iron Head
+- High Horsepower
+
+Rotom-Wash @ Leftovers
+Ability: Levitate
+Bold Nature
+Level: 100
+EVs: 248 HP / 252 SpA / 8 Spe
+- Hydro Pump
+- Volt Switch
+- Will-O-Wisp
+- Nasty Plot
 
 === TRAINER_GLACIA ===
-Name: GLACIA
+Name: MOM
 Class: Elite Four
 Pic: Elite Four Glacia
 Gender: Female
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 Mugshot: Pink
 
-Sealeo
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Encore
-- Body Slam
-- Hail
-- Ice Ball
-
-Glalie
-Level: 50
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Light Screen
-- Crunch
-- Icy Wind
+Milotic @ Flame Orb
+Ability: Marvel Scale
+Bold Nature
+Level: 100
+EVs: 252 HP / 252 Def / 4 SpD
+- Scald
+- Recover
 - Ice Beam
+- Haze
 
-Sealeo
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Attract
-- Double Edge
-- Hail
-- Blizzard
+Gardevoir @ Choice Specs
+Ability: Trace
+Timid Nature
+Level: 100
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Moonblast
+- Psyshock
+- Focus Blast
+- Trick
 
-Glalie
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Explosion
-- Hail
-- Ice Beam
+Roserade @ Black Sludge
+Ability: Natural Cure
+Timid Nature
+Level: 100
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Sludge Bomb
+- Giga Drain
+- Sleep Powder
+- Spikes
 
-Walrein @ Sitrus Berry
-Level: 53
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Surf
-- Body Slam
-- Ice Beam
-- Sheer Cold
+Togekiss @ Leftovers
+Ability: Serene Grace
+Timid Nature
+Level: 100
+EVs: 252 HP / 252 SpA / 4 Spe
+- Air Slash
+- Nasty Plot
+- Roost
+- Flamethrower
+
+Serperior @ Leftovers
+Ability: Contrary
+Timid Nature
+Level: 100
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Leaf Storm
+- Giga Drain
+- Glare
+- Substitute
+
+Espathra @ Leftovers
+Ability: Speed Boost
+Timid Nature
+Level: 100
+EVs: 252 SpA / 4 Def / 252 Spe
+- Lumina Crash
+- Calm Mind
+- Stored Power
+- Protect
 
 === TRAINER_DRAKE ===
-Name: DRAKE
+Name: STEVEN
 Class: Elite Four
 Pic: Elite Four Drake
 Gender: Male
 Music: Elite Four
 Items: Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 Mugshot: Blue
 
-Shelgon
-Level: 52
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Rock Tomb
-- Dragon Claw
-- Protect
-- Double Edge
-
-Altaria
-Level: 54
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Double Edge
-- Dragon Breath
-- Dragon Dance
-- Aerial Ace
-
-Kingdra
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Smokescreen
-- Dragon Dance
-- Surf
-- Body Slam
-
-Flygon
-Level: 53
-IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Flamethrower
-- Crunch
-- Dragon Breath
+Metagross @ Life Orb
+Ability: Clear Body
+Adamant Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Meteor Mash
 - Earthquake
+- Bullet Punch
+- Ice Punch
 
-Salamence @ Sitrus Berry
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Dragon Claw
-- Rock Slide
-- Crunch
+Aggron @ Assault Vest
+Ability: Rock Head
+Adamant Nature
+Level: 100
+EVs: 252 HP / 252 Atk / 4 Def
+- Heavy Slam
+- Head Smash
+- Earthquake
+- Ice Punch
+
+Skarmory @ Rocky Helmet
+Ability: Sturdy
+Impish Nature
+Level: 100
+EVs: 252 HP / 252 Def / 4 SpD
+- Body Press
+- Spikes
+- Roost
+- Iron Defense
+
+Excadrill @ Leftovers
+Ability: Mold Breaker
+Adamant Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Earthquake
+- Iron Head
+- Rapid Spin
+- Stealth Rock
+
+Cradily @ Leftovers
+Ability: Storm Drain
+Careful Nature
+Level: 100
+EVs: 252 HP / 4 Def / 252 SpD
+- Recover
+- Giga Drain
+- Stealth Rock
+- Stone Edge
+
+Armaldo @ Life Orb
+Ability: Swift Swim
+Adamant Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Stone Edge
+- X-Scissor
+- Earthquake
+- Aqua Tail
 
 === TRAINER_ROXANNE_1 ===
 Name: ALTORELLI
@@ -6443,65 +6523,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Electrike
 Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
-=== TRAINER_WALLACE ===
-Name: WALLACE
-Class: Champion
-Pic: Champion Wallace
-Gender: Male
-Music: Male
-Items: Full Restore / Full Restore / Full Restore / Full Restore
-Double Battle: No
-AI: Basic Trainer
-Mugshot: Yellow
-
-Wailord
-Level: 57
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rain Dance
-- Water Spout
-- Double Edge
-- Blizzard
-
-Tentacruel
-Level: 55
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Toxic
-- Hydro Pump
-- Sludge Bomb
-- Ice Beam
-
-Ludicolo
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Giga Drain
-- Surf
-- Leech Seed
-- Double Team
-
-Whiscash
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
-- Surf
-- Amnesia
-- Hyper Beam
-
-Gyarados
-Level: 56
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Dragon Dance
-- Earthquake
-- Hyper Beam
-- Surf
-
-Milotic @ Sitrus Berry
-Level: 58
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Recover
-- Surf
-- Ice Beam
-- Toxic
 
 === TRAINER_ANDREW ===
 Name: ANDREW
