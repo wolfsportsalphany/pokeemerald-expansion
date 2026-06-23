@@ -85,3 +85,12 @@ World = 3 connected maps: **Hudson Yards (Littleroot)** -> south -> **Times Squa
 - **To repair a broken reused slot:** restore its map.json+scripts.inc from a KNOWN-GOOD commit, verified locally with `grep -c walk_fastest_right` == 0 (ancient fork commits use renamed movement macros that the current assembler rejects). Working Dewford = commit c27930ea.
 - **GOING FORWARD: use FRESH REGISTERED MAP IDs** (new data/maps/<Name> + map_groups.json entry), NOT repurposed town slots — zero entanglement.
 - **Pre-verify locally before the ~20-min build:** grep bad macros, json valid, collision reachability (tools print collision ASCII), render PNG.
+
+## UPDATE @ v0.22 (autonomous loop)
+World = 5 connected maps S-ward: Hudson Yards(Littleroot) -> Times Square(Oldale) -> Upper East Side(Dewford) -> Randalls Island(Mauville) -> Riverdale(Lavaridge). Gyms 1-4 wired (Altorelli/Sokotch/Randall/Randolph) + PC in Times Square. v0.23 adds The Bronx(Petalburg)+Gym5 Judge.
+ALL 16 gym + E4 + Champion TEAMS done. Gyms 9-16 PARKED in rematch slots: ROXANNE_2=Linda BRAWLY_2=Sherm WATTSON_2=Brielle FLANNERY_2=Roman NORMAN_2=Murphy WINONA_2=Oak TATE_AND_LIZA_2=Kenny&Ricky(double) JUAN_2=Justin. Gym7 Jesse=TATE_AND_LIZA_1.
+### PATTERNS (critical)
+- RESILIENT BUILDS: short Monitors only. Dispatch with `gh workflow run` (NO `gh run watch` - long watch-Monitors die on loop wakeups). Each loop wakeup: poll `gh run view <id>`, download+commit+ship when success.
+- BIG .party batches: Python heredoc writes block files to C:/Users/jared/sag_render/*.txt (Windows Python CANNOT write /tmp), MSYS awk reads /c/Users/.../X.txt + writes /tmp/tp. Avoids bash quoting.
+- MAP EXTENSION: keep-everything reuse (do NOT clear NPCs, just clamp x/y<=25/19). Rustboro crop + force avenue cols 12-13 = PAV 0x3309. Connections up/down offset 0. Gym door from a NATURAL Rustboro door (doors at Rustboro (11,15),(12,15),(33,19),(30,28),(13,30),(27,34),(9,38),(26,46),(5,51)) - pick crop windows containing one, don't overwrite with avenue.
+- GYM WIRING: auto-detect entrance map via glob data/maps/<Town>_Gym*/ (entrance = single _Gym or _1F, NOT _B1F/_2F); dest_map = MAP_<that>. Repoint that gym map's exit warp (dest MAP_<TOWN>) -> the town door warp index. Multi-floor gyms (Lavaridge) use _GYM_1F.

@@ -15,14 +15,9 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE104",
-      "offset": -50,
-      "direction": "left"
-    },
-    {
-      "map": "MAP_ROUTE102",
-      "offset": 10,
-      "direction": "right"
+      "map": "MAP_LAVARIDGE_TOWN",
+      "offset": 0,
+      "direction": "up"
     }
   ],
   "object_events": [
@@ -57,7 +52,7 @@
       "local_id": "LOCALID_PETALBURG_BOY",
       "graphics_id": "OBJ_EVENT_GFX_BOY_1",
       "x": 8,
-      "y": 22,
+      "y": 19,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
       "movement_range_x": 0,
@@ -110,7 +105,7 @@
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
       "x": 3,
-      "y": 28,
+      "y": 19,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
       "movement_range_x": 0,
@@ -180,7 +175,7 @@
     },
     {
       "x": 20,
-      "y": 24,
+      "y": 19,
       "elevation": 0,
       "dest_map": "MAP_PETALBURG_CITY_HOUSE2",
       "dest_warp_id": "0"
@@ -190,6 +185,13 @@
       "y": 12,
       "elevation": 0,
       "dest_map": "MAP_PETALBURG_CITY_MART",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "elevation": 0,
+      "dest_map": "MAP_PETALBURG_CITY_GYM",
       "dest_warp_id": "0"
     }
   ],

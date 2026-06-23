@@ -18,6 +18,11 @@
       "map": "MAP_MAUVILLE_CITY",
       "offset": 0,
       "direction": "up"
+    },
+    {
+      "map": "MAP_PETALBURG_CITY",
+      "offset": 0,
+      "direction": "down"
     }
   ],
   "object_events": [
