@@ -15,14 +15,14 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE116",
-      "offset": -80,
+      "map": "MAP_LILYCOVE_CITY",
+      "offset": 0,
       "direction": "up"
     },
     {
-      "map": "MAP_ROUTE117",
+      "map": "MAP_FALLARBOR_TOWN",
       "offset": 0,
-      "direction": "right"
+      "direction": "down"
     }
   ],
   "object_events": [
@@ -77,6 +77,19 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "VerdanturfTown_EventScript_Camper",
+      "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_YOUNGSTER",
+      "x": 11,
+      "y": 12,
+      "elevation": 3,
+      "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NORMAL",
+      "trainer_sight_or_berry_tree_id": "1",
+      "script": "VerdanturfTown_EventScript_SAGSherm",
       "flag": "0"
     }
   ],

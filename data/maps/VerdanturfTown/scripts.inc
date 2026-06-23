@@ -123,3 +123,17 @@ VerdanturfTown_Text_RusturfTunnelSign:
 	.string "“The tunnel project has been\n"
 	.string "canceled.”$"
 
+
+VerdanturfTown_EventScript_SAGSherm::
+	trainerbattle_single TRAINER_BRAWLY_2, VerdanturfTown_Text_SAGShermIntro, VerdanturfTown_Text_SAGShermDefeat
+	msgbox VerdanturfTown_Text_SAGShermPost, MSGBOX_AUTOCLOSE
+	end
+
+VerdanturfTown_Text_SAGShermIntro:
+	.string "Yo! Welcome to the 4K, kid. Gym 10.$"
+
+VerdanturfTown_Text_SAGShermDefeat:
+	.string "Respect. You party hard.$"
+
+VerdanturfTown_Text_SAGShermPost:
+	.string "Gym 10 down. Keep moving.$"

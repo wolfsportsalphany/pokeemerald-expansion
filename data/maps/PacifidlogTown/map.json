@@ -15,21 +15,16 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE132",
+      "map": "MAP_FALLARBOR_TOWN",
       "offset": 0,
-      "direction": "left"
-    },
-    {
-      "map": "MAP_ROUTE131",
-      "offset": 0,
-      "direction": "right"
+      "direction": "up"
     }
   ],
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_GIRL_1",
       "x": 10,
-      "y": 23,
+      "y": 19,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
       "movement_range_x": 0,
@@ -64,6 +59,19 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "PacifidlogTown_EventScript_NinjaBoy",
       "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_YOUNGSTER",
+      "x": 11,
+      "y": 12,
+      "elevation": 3,
+      "movement_type": "MOVEMENT_TYPE_FACE_DOWN",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NORMAL",
+      "trainer_sight_or_berry_tree_id": "1",
+      "script": "PacifidlogTown_EventScript_SAGRoman",
+      "flag": "0"
     }
   ],
   "warp_events": [
@@ -83,14 +91,14 @@
     },
     {
       "x": 3,
-      "y": 22,
+      "y": 19,
       "elevation": 0,
       "dest_map": "MAP_PACIFIDLOG_TOWN_HOUSE2",
       "dest_warp_id": "0"
     },
     {
       "x": 12,
-      "y": 24,
+      "y": 19,
       "elevation": 0,
       "dest_map": "MAP_PACIFIDLOG_TOWN_HOUSE3",
       "dest_warp_id": "0"
@@ -104,7 +112,7 @@
     },
     {
       "x": 17,
-      "y": 21,
+      "y": 19,
       "elevation": 0,
       "dest_map": "MAP_PACIFIDLOG_TOWN_HOUSE5",
       "dest_warp_id": "0"

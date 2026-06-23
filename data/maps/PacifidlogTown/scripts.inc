@@ -52,3 +52,17 @@ PacifidlogTown_Text_TownSign:
 	.string "“Where the morning sun smiles upon\n"
 	.string "the waters.”$"
 
+
+PacifidlogTown_EventScript_SAGRoman::
+	trainerbattle_single TRAINER_FLANNERY_2, PacifidlogTown_Text_SAGRomanIntro, PacifidlogTown_Text_SAGRomanDefeat
+	msgbox PacifidlogTown_Text_SAGRomanPost, MSGBOX_AUTOCLOSE
+	end
+
+PacifidlogTown_Text_SAGRomanIntro:
+	.string "Hot dog... or a beating? Gym 12.$"
+
+PacifidlogTown_Text_SAGRomanDefeat:
+	.string "Heh. Good game, champ.$"
+
+PacifidlogTown_Text_SAGRomanPost:
+	.string "Gym 12 down. Keep moving.$"

@@ -93,3 +93,17 @@ FallarborTown_Text_MoveTutorSign:
 	.string "MOVE TUTOR'S HOUSE\n"
 	.string "“New moves taught to POKéMON.”$"
 
+
+FallarborTown_EventScript_SAGBrielle::
+	trainerbattle_single TRAINER_WATTSON_2, FallarborTown_Text_SAGBrielleIntro, FallarborTown_Text_SAGBrielleDefeat
+	msgbox FallarborTown_Text_SAGBriellePost, MSGBOX_AUTOCLOSE
+	end
+
+FallarborTown_Text_SAGBrielleIntro:
+	.string "Charmed. Gym 11. Pity I have to win.$"
+
+FallarborTown_Text_SAGBrielleDefeat:
+	.string "Hmph. You're no fun.$"
+
+FallarborTown_Text_SAGBriellePost:
+	.string "Gym 11 down. Keep moving.$"
