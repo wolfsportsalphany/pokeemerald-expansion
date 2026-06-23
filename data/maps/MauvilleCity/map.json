@@ -15,30 +15,15 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE111",
+      "map": "MAP_DEWFORD_TOWN",
       "offset": 0,
       "direction": "up"
-    },
-    {
-      "map": "MAP_ROUTE110",
-      "offset": 0,
-      "direction": "down"
-    },
-    {
-      "map": "MAP_ROUTE117",
-      "offset": 0,
-      "direction": "left"
-    },
-    {
-      "map": "MAP_ROUTE118",
-      "offset": 0,
-      "direction": "right"
     }
   ],
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_BOY_3",
-      "x": 29,
+      "x": 25,
       "y": 16,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_WANDER_LEFT_AND_RIGHT",
@@ -131,7 +116,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_WATTSON",
-      "x": 29,
+      "x": 25,
       "y": 9,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
@@ -144,7 +129,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
-      "x": 28,
+      "x": 25,
       "y": 19,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
@@ -199,7 +184,7 @@
       "dest_warp_id": "0"
     },
     {
-      "x": 35,
+      "x": 25,
       "y": 5,
       "elevation": 0,
       "dest_map": "MAP_MAUVILLE_CITY_BIKE_SHOP",
@@ -213,7 +198,7 @@
       "dest_warp_id": "0"
     },
     {
-      "x": 32,
+      "x": 25,
       "y": 14,
       "elevation": 0,
       "dest_map": "MAP_MAUVILLE_CITY_HOUSE1",
