@@ -107,3 +107,9 @@ FallarborTown_Text_SAGBrielleDefeat:
 
 FallarborTown_Text_SAGBriellePost:
 	.string "Gym 11 down. Keep moving.$"
+
+FallarborTown_EventScript_SAGLawStudent::
+	msgbox FallarborTown_Text_SAGLawStudent, MSGBOX_NPC
+	end
+FallarborTown_Text_SAGLawStudent:
+	.string "Emory Law, Atlanta.\nBrielle runs Gym 11.$"

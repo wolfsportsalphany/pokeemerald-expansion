@@ -1364,3 +1364,9 @@ SlateportCity_Text_SAGMurphyDefeat:
 
 SlateportCity_Text_SAGMurphyPost:
 	.string "Gym 13 cleared.$"
+
+SlateportCity_EventScript_SAGBallplayer::
+	msgbox SlateportCity_Text_SAGBallplayer, MSGBOX_NPC
+	end
+SlateportCity_Text_SAGBallplayer:
+	.string "IMG Academy.\nJ.R. Murphy, Gym 13.$"

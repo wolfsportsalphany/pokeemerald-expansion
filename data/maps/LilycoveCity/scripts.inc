@@ -769,3 +769,9 @@ LilycoveCity_Text_SAGLindaDefeat:
 
 LilycoveCity_Text_SAGLindaPost:
 	.string "Now go on, get outta here.$"
+
+LilycoveCity_EventScript_SAGUncle::
+	msgbox LilycoveCity_Text_SAGUncle, MSGBOX_NPC
+	end
+LilycoveCity_Text_SAGUncle:
+	.string "Linda's nephews run\nthis town. Respect.$"
