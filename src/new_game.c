@@ -1,4 +1,5 @@
 #include "global.h"
+#include "script_pokemon_util.h"
 #include "clock.h"
 #include "new_game.h"
 #include "random.h"
@@ -138,7 +139,7 @@ static void WarpToTruck(void)
     if (IS_FRLG)
         SetWarpDestination(MAP_GROUP(MAP_PALLET_TOWN_PLAYERS_HOUSE_2F), MAP_NUM(MAP_PALLET_TOWN_PLAYERS_HOUSE_2F), WARP_ID_NONE, 6, 6);
     else
-        SetWarpDestination(MAP_GROUP(MAP_INSIDE_OF_TRUCK), MAP_NUM(MAP_INSIDE_OF_TRUCK), WARP_ID_NONE, -1, -1);
+        SetWarpDestination(MAP_GROUP(MAP_LITTLEROOT_TOWN), MAP_NUM(MAP_LITTLEROOT_TOWN), WARP_ID_NONE, 13, 14); // SAG: spawn in Hudson Yards
     WarpIntoMap();
 }
 
@@ -178,6 +179,12 @@ static void SAG_GiveStartingLoadout(void)
     // Every TM + HM (TMs reusable via I_REUSABLE_TMS), so any move is teachable from the start
     for (i = ITEM_TM01; i <= ITEM_HM08; i++)
         AddBagItem((enum Item)i, 1);
+
+    // SAG: Shane's starting party + enable the POKeMON menu (Birch starter scene is skipped)
+    ScriptGiveMon(SPECIES_EEVEE, 16, ITEM_NONE);
+    ScriptGiveMon(SPECIES_GASTLY, 16, ITEM_NONE);
+    ScriptGiveMon(SPECIES_MANKEY, 16, ITEM_NONE);
+    FlagSet(FLAG_SYS_POKEMON_GET);
 }
 
 void NewGameInitData(void)
