@@ -18,6 +18,11 @@
       "map": "MAP_FORTREE_CITY",
       "offset": 0,
       "direction": "up"
+    },
+    {
+      "map": "MAP_SOOTOPOLIS_CITY",
+      "offset": 0,
+      "direction": "down"
     }
   ],
   "object_events": [
