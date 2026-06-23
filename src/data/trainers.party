@@ -14480,46 +14480,74 @@ Level: 15
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_ROXANNE_2 ===
-Name: ROXANNE
+Name: LINDA
 Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer
 
-Golem
-Level: 32
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Rollout
-- Magnitude
-- Explosion
-
-Kabuto @ Sitrus Berry
-Level: 35
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Ursaluna @ Flame Orb
+Ability: Guts
+Adamant Nature
+Level: 68
+EVs: 248 HP / 252 Atk / 8 Spe
+- Facade
+- Headlong Rush
+- Earthquake
 - Swords Dance
-- Ice Beam
-- Surf
-- Rock Slide
 
-Onix
-Level: 35
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
+Garchomp @ Loaded Dice
+Ability: Rough Skin
+Jolly Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Scale Shot
+- Earthquake
+- Stealth Rock
+- Stone Edge
 
-Nosepass @ Sitrus Berry
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Team
-- Explosion
-- Protect
-- Rock Slide
+Mamoswine @ Life Orb
+Ability: Thick Fat
+Adamant Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Earthquake
+- Icicle Crash
+- Ice Shard
+- Knock Off
+
+Hippowdon @ Leftovers
+Ability: Sand Stream
+Impish Nature
+Level: 68
+EVs: 252 HP / 252 Def / 4 SpD
+- Earthquake
+- Slack Off
+- Stealth Rock
+- Whirlwind
+
+Great Tusk @ Booster Energy
+Ability: Protosynthesis
+Jolly Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Headlong Rush
+- Close Combat
+- Rapid Spin
+- Knock Off
+
+Krookodile @ Choice Band
+Ability: Intimidate
+Jolly Nature
+Level: 69
+EVs: 252 Atk / 4 Def / 252 Spe
+- Earthquake
+- Knock Off
+- Stone Edge
+- Close Combat
 
 === TRAINER_ROXANNE_3 ===
 Name: ROXANNE
@@ -14680,46 +14708,74 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Rock Slide
 
 === TRAINER_BRAWLY_2 ===
-Name: BRAWLY
+Name: SHERM
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer
 
-Machamp @ Sitrus Berry
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Karate Chop
-- Rock Slide
-- Focus Punch
-- Bulk Up
+Toxtricity @ Throat Spray
+Ability: Punk Rock
+Modest Nature
+Level: 73
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Boomburst
+- Overdrive
+- Sludge Wave
+- Volt Switch
 
-Meditite
-Level: 33
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Light Screen
-- Reflect
-- Focus Punch
+Salazzle @ Choice Scarf
+Ability: Corrosion
+Timid Nature
+Level: 73
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Sludge Wave
+- Fire Blast
+- Nasty Plot
+- Toxic
 
-Hitmontop
-Level: 35
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Pursuit
-- Counter
-- Protect
-- Triple Kick
+Dragalge @ Choice Specs
+Ability: Adaptability
+Modest Nature
+Level: 73
+EVs: 252 SpA / 4 Def / 252 Spe
+- Draco Meteor
+- Sludge Bomb
+- Flip Turn
+- Focus Blast
 
-Hariyama @ Sitrus Berry
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
-- Focus Punch
-- Belly Drum
-- Earthquake
+Crobat @ Life Orb
+Ability: Infiltrator
+Jolly Nature
+Level: 73
+EVs: 252 Atk / 4 Def / 252 Spe
+- Brave Bird
+- Cross Poison
+- U-turn
+- Roost
+
+Muk-Alola @ Assault Vest
+Ability: Poison Touch
+Adamant Nature
+Level: 73
+EVs: 240 HP / 252 Atk / 16 Spe
+- Gunk Shot
+- Knock Off
+- Poison Jab
+- Drain Punch
+
+Venusaur @ Life Orb
+Ability: Chlorophyll
+Modest Nature
+Level: 74
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Sludge Bomb
+- Giga Drain
+- Sleep Powder
+- Earth Power
 
 === TRAINER_BRAWLY_3 ===
 Name: BRAWLY
@@ -14872,46 +14928,74 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_WATTSON_2 ===
-Name: WATTSON
+Name: BRIELLE
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer
 
-Mareep
-Level: 36
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Protect
-- Thunder Wave
-- Light Screen
+Volcarona @ Heavy-Duty Boots
+Ability: Flame Body
+Timid Nature
+Level: 78
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Quiver Dance
+- Fiery Dance
+- Bug Buzz
+- Giga Drain
 
-Electrode
-Level: 36
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rollout
-- Thunder
-- Explosion
-- Rain Dance
+Enamorus @ Choice Specs
+Ability: Contrary
+Modest Nature
+Level: 78
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Moonblast
+- Earth Power
+- Mystical Fire
+- Sludge Bomb
 
-Magneton @ Sitrus Berry
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Supersonic
-- Protect
-- Thunder
-- Rain Dance
+Flutter Mane @ Choice Specs
+Ability: Protosynthesis
+Timid Nature
+Level: 78
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Moonblast
+- Shadow Ball
+- Mystical Fire
+- Power Gem
 
-Manectric @ Sitrus Berry
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bite
-- Thunder Wave
-- Thunder
-- Protect
+Ninetales @ Heat Rock
+Ability: Drought
+Timid Nature
+Level: 78
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Fire Blast
+- Solar Beam
+- Nasty Plot
+- Dazzling Gleam
+
+Arcanine @ Heavy-Duty Boots
+Ability: Intimidate
+Adamant Nature
+Level: 78
+EVs: 252 Atk / 4 Def / 252 Spe
+- Flare Blitz
+- Extreme Speed
+- Play Rough
+- Morning Sun
+
+Skeledirge @ Leftovers
+Ability: Unaware
+Bold Nature
+Level: 79
+EVs: 252 HP / 252 Def / 4 SpD
+- Torch Song
+- Shadow Ball
+- Slack Off
+- Will-O-Wisp
 
 === TRAINER_WATTSON_3 ===
 Name: WATTSON
@@ -15072,46 +15156,74 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Protect
 
 === TRAINER_FLANNERY_2 ===
-Name: FLANNERY
+Name: ROMAN
 Class: Leader
 Pic: Leader Flannery
-Gender: Female
-Music: Female
+Gender: Male
+Music: Male
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer
 
-Magcargo @ White Herb
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Attract
-- Light Screen
-- Rock Slide
+Palafin @ Choice Band
+Ability: Zero to Hero
+Jolly Nature
+Level: 82
+EVs: 252 Atk / 4 Def / 252 Spe
+- Jet Punch
+- Wave Crash
+- Close Combat
+- Flip Turn
 
-Ponyta
-Level: 36
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Flamethrower
-- Attract
-- Solar Beam
-- Bounce
+Blastoise @ White Herb
+Ability: Torrent
+Modest Nature
+Level: 82
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Shell Smash
+- Hydro Pump
+- Ice Beam
+- Aura Sphere
 
-Camerupt @ White Herb
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Earthquake
-- Attract
+Cloyster @ King's Rock
+Ability: Skill Link
+Jolly Nature
+Level: 82
+EVs: 252 Atk / 4 Def / 252 Spe
+- Shell Smash
+- Icicle Spear
+- Rock Blast
+- Hydro Pump
 
-Torkoal @ White Herb
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Overheat
-- Sunny Day
-- Explosion
-- Attract
+Toxapex @ Black Sludge
+Ability: Regenerator
+Bold Nature
+Level: 82
+EVs: 252 HP / 252 Def / 4 SpD
+- Scald
+- Toxic
+- Recover
+- Haze
+
+Dondozo @ Leftovers
+Ability: Unaware
+Impish Nature
+Level: 82
+EVs: 248 HP / 252 Def / 8 SpD
+- Wave Crash
+- Body Press
+- Curse
+- Rest
+
+Tentacruel @ Black Sludge
+Ability: Clear Body
+Timid Nature
+Level: 83
+EVs: 252 HP / 4 SpA / 252 Spe
+- Scald
+- Sludge Bomb
+- Rapid Spin
+- Toxic Spikes
 
 === TRAINER_FLANNERY_3 ===
 Name: FLANNERY
