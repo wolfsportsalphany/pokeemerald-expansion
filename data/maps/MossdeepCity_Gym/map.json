@@ -490,14 +490,14 @@
       "y": 35,
       "elevation": 3,
       "dest_map": "MAP_MOSSDEEP_CITY",
-      "dest_warp_id": "1"
+      "dest_warp_id": "10"
     },
     {
       "x": 7,
       "y": 35,
       "elevation": 3,
       "dest_map": "MAP_MOSSDEEP_CITY",
-      "dest_warp_id": "1"
+      "dest_warp_id": "10"
     },
     {
       "x": 3,
