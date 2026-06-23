@@ -94,3 +94,14 @@ ALL 16 gym + E4 + Champion TEAMS done. Gyms 9-16 PARKED in rematch slots: ROXANN
 - BIG .party batches: Python heredoc writes block files to C:/Users/jared/sag_render/*.txt (Windows Python CANNOT write /tmp), MSYS awk reads /c/Users/.../X.txt + writes /tmp/tp. Avoids bash quoting.
 - MAP EXTENSION: keep-everything reuse (do NOT clear NPCs, just clamp x/y<=25/19). Rustboro crop + force avenue cols 12-13 = PAV 0x3309. Connections up/down offset 0. Gym door from a NATURAL Rustboro door (doors at Rustboro (11,15),(12,15),(33,19),(30,28),(13,30),(27,34),(9,38),(26,46),(5,51)) - pick crop windows containing one, don't overwrite with avenue.
 - GYM WIRING: auto-detect entrance map via glob data/maps/<Town>_Gym*/ (entrance = single _Gym or _1F, NOT _B1F/_2F); dest_map = MAP_<that>. Repoint that gym map's exit warp (dest MAP_<TOWN>) -> the town door warp index. Multi-floor gyms (Lavaridge) use _GYM_1F.
+
+## MILESTONE @ v0.29 — ALL 16 GYMS + FULL ARC PLAYABLE
+World = ~16 connected maps S-ward (Hudson Yards ... Montauk [Act I, gyms 1-8 in real interiors w/ badges] -> Paramus -> Verdanturf(Philly) -> Fallarbor(Atlanta) -> Pacifidlog(Hallandale) -> Slateport(IMG) -> Route119(Killington) -> Route120(Camp Pontiac) -> EverGrande(Central Synag/Gym16 Justin) -> League).
+- Gyms 1-8: reused Hoenn gym INTERIORS (grant FLAG_BADGE01-08 -> opens E4 gate). Gyms 9-16: OVERWORLD TRAINERS (object_event trainer_type NORMAL + trainerbattle_single/_double, parked rematch-slot teams). Gym 15 = trainerbattle_double.
+- Core loop COMPLETE: 16 gyms -> E4 (Sidney/Phoebe/Glacia/Drake = Cali/Dad/Mom/Steven) -> Champion (Wallace=Jared). All teams done.
+### REMAINING (harder / needs human or playtest):
+- Mewtwo's Island arc (post-Gym-8 story sequence: maps + Ash/Misty/Brock/Team Rocket bosses + catch Mewtwo / Justin catches Mew).
+- Story scripting, NPCs, the roast dialogue, intro cutscene, ending/credits + wake in apt 28C.
+- Custom sprites (all leaders use placeholder gfx; Act-II overworld leaders = OBJ_EVENT_GFX_YOUNGSTER) - needs an artist/Porymap.
+- Wild encounters (city maps have none; player levels via the 99 Rare Candies in starting loadout).
+- Badge count for E4 is the 8 Hoenn badges (gyms 1-8); gyms 9-16 are extra (no 9-16 badge flags).
