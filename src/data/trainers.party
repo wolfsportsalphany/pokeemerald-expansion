@@ -6524,6 +6524,77 @@ Electrike
 Level: 13
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+=== TRAINER_WALLACE ===
+Name: JARED
+Class: Champion
+Pic: Champion Wallace
+Gender: Male
+Music: Male
+Items: Full Restore / Full Restore / Full Restore / Full Restore
+Double Battle: No
+AI: Smart Trainer
+Mugshot: Yellow
+
+Kyogre @ Mystic Water
+Ability: Drizzle
+Modest Nature
+Level: 100
+EVs: 4 HP / 252 SpA / 252 Spe
+- Water Spout
+- Origin Pulse
+- Ice Beam
+- Thunder
+
+Dialga @ Life Orb
+Ability: Pressure
+Modest Nature
+Level: 100
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Draco Meteor
+- Flash Cannon
+- Earth Power
+- Thunder
+
+Zapdos @ Heavy-Duty Boots
+Ability: Static
+Timid Nature
+Level: 100
+EVs: 252 SpA / 4 Def / 252 Spe
+- Thunderbolt
+- Hurricane
+- Heat Wave
+- Roost
+
+Cresselia @ Leftovers
+Ability: Levitate
+Bold Nature
+Level: 100
+EVs: 252 HP / 252 Def / 4 SpD
+- Moonblast
+- Moonlight
+- Calm Mind
+- Ice Beam
+
+Marshadow @ Life Orb
+Ability: Technician
+Jolly Nature
+Level: 100
+EVs: 252 Atk / 4 Def / 252 Spe
+- Spectral Thief
+- Close Combat
+- Shadow Sneak
+- Bulk Up
+
+Porygon2 @ Eviolite
+Ability: Download
+Bold Nature
+Level: 100
+EVs: 252 HP / 252 Def / 4 SpD
+- Tri Attack
+- Ice Beam
+- Recover
+- Thunder Wave
+
 === TRAINER_ANDREW ===
 Name: ANDREW
 Class: Fisherman
