@@ -754,3 +754,18 @@ LilycoveCity_Text_HoneymoonVowToSeeRarePokemon:
 	.string "POKéMON as soon as we arrived.\p"
 	.string "I mean, we are totally happy!$"
 
+
+LilycoveCity_EventScript_SAGLinda::
+	trainerbattle_single TRAINER_ROXANNE_2, LilycoveCity_Text_SAGLindaIntro, LilycoveCity_Text_SAGLindaDefeat
+	msgbox LilycoveCity_Text_SAGLindaPost, MSGBOX_AUTOCLOSE
+	end
+
+LilycoveCity_Text_SAGLindaIntro:
+	.string "Paramus is MY town, sweetheart.\n"
+	.string "Gym 9. Let's see what you got.$"
+
+LilycoveCity_Text_SAGLindaDefeat:
+	.string "Tch! You got moxie, kid.$"
+
+LilycoveCity_Text_SAGLindaPost:
+	.string "Now go on, get outta here.$"
