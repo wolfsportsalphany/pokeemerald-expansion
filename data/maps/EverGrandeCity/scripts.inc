@@ -42,10 +42,10 @@ EverGrandeCity_EventScript_SAGJustin::
 	end
 
 EverGrandeCity_Text_SAGJustinIntro:
-	.string "You found me. Gym 16. This ends here, Shane.$"
+	.string "Shane. Of course it's you.\pI took this synagogue. I caught Mew.\nI did all of it first.\pYou had sixteen badges? I had mine\nat twelve. Beat me, take the League.\pBut you won't, little Gaer.$"
 
 EverGrandeCity_Text_SAGJustinDefeat:
-	.string "...This isn't over. The League awaits.$"
+	.string "...Heh. You finally did it.\pGo on. Your brother's waiting up top.\nTell Jared his kid bro grew up.$"
 
 EverGrandeCity_Text_SAGJustinPost:
 	.string "Gym 16 cleared.$"
