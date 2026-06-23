@@ -427,3 +427,20 @@ Route120_Text_RouteSignFortree:
 Route120_Text_RouteSign121:
 	.string "{RIGHT_ARROW} ROUTE 121\n"
 	.string "{LEFT_ARROW} ROUTE 120$"
+
+Route120_EventScript_SAGKennyRicky::
+	trainerbattle_double TRAINER_TATE_AND_LIZA_2, Route120_Text_SAGKennyRickyIntro, Route120_Text_SAGKennyRickyDefeat, Route120_Text_SAGKennyRickyNotEnough
+	msgbox Route120_Text_SAGKennyRickyPost, MSGBOX_AUTOCLOSE
+	end
+
+Route120_Text_SAGKennyRickyIntro:
+	.string "We're the camp twins! Gym 15, double battle!$"
+
+Route120_Text_SAGKennyRickyDefeat:
+	.string "Ha! You beat us both!$"
+Route120_Text_SAGKennyRickyNotEnough:
+	.string "Bring two, kid!$"
+
+
+Route120_Text_SAGKennyRickyPost:
+	.string "Gym 15 cleared.$"

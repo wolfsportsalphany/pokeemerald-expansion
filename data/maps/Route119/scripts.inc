@@ -608,3 +608,17 @@ Route119_Text_TrainerTipsDecoration:
 	.string "Pick your favorite items and create\n"
 	.string "your very own SECRET BASE exactly the\l"
 	.string "way you want.$"
+
+Route119_EventScript_SAGOak::
+	trainerbattle_single TRAINER_WINONA_2, Route119_Text_SAGOakIntro, Route119_Text_SAGOakDefeat
+	msgbox Route119_Text_SAGOakPost, MSGBOX_AUTOCLOSE
+	end
+
+Route119_Text_SAGOakIntro:
+	.string "Ah, a challenger! Gym 14, atop the mountain.$"
+
+Route119_Text_SAGOakDefeat:
+	.string "Marvelous specimens you have!$"
+
+Route119_Text_SAGOakPost:
+	.string "Gym 14 cleared.$"

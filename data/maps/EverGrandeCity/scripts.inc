@@ -35,3 +35,17 @@ EverGrandeCity_Text_CitySign:
 	.string "“The paradise of flowers, the sea,\n"
 	.string "and POKéMON.”$"
 
+
+EverGrandeCity_EventScript_SAGJustin::
+	trainerbattle_single TRAINER_JUAN_2, EverGrandeCity_Text_SAGJustinIntro, EverGrandeCity_Text_SAGJustinDefeat
+	msgbox EverGrandeCity_Text_SAGJustinPost, MSGBOX_AUTOCLOSE
+	end
+
+EverGrandeCity_Text_SAGJustinIntro:
+	.string "You found me. Gym 16. This ends here, Shane.$"
+
+EverGrandeCity_Text_SAGJustinDefeat:
+	.string "...This isn't over. The League awaits.$"
+
+EverGrandeCity_Text_SAGJustinPost:
+	.string "Gym 16 cleared.$"

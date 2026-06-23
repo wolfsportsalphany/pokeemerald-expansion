@@ -1350,3 +1350,17 @@ SlateportCity_Text_TakingBattleTentChallenge:
 	.string "After all, a tough TRAINER is\n"
 	.string "the perfect fit for the BATTLE TENT!\p"
 	.string "Give it your best effort!$"
+
+SlateportCity_EventScript_SAGMurphy::
+	trainerbattle_single TRAINER_NORMAN_2, SlateportCity_Text_SAGMurphyIntro, SlateportCity_Text_SAGMurphyDefeat
+	msgbox SlateportCity_Text_SAGMurphyPost, MSGBOX_AUTOCLOSE
+	end
+
+SlateportCity_Text_SAGMurphyIntro:
+	.string "Old IMG teammate, huh? Gym 13. Let's go.$"
+
+SlateportCity_Text_SAGMurphyDefeat:
+	.string "Still got the arm. Respect.$"
+
+SlateportCity_Text_SAGMurphyPost:
+	.string "Gym 13 cleared.$"
