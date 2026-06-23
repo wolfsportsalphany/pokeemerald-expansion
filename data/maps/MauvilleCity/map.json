@@ -18,6 +18,11 @@
       "map": "MAP_DEWFORD_TOWN",
       "offset": 0,
       "direction": "up"
+    },
+    {
+      "map": "MAP_LAVARIDGE_TOWN",
+      "offset": 0,
+      "direction": "down"
     }
   ],
   "object_events": [
