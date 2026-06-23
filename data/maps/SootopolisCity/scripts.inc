@@ -1698,3 +1698,11 @@ SootopolisCity_Text_DazzledByMentor:
 	.string "WALLACE: I'm sure that you will be\n"
 	.string "dazzled by my mentor's breathtakingly\l"
 	.string "elegant battle style.$"
+
+SootopolisCity_EventScript_SAGMontauk::
+	msgbox SootopolisCity_Text_SAGMontauk, MSGBOX_NPC
+	end
+SootopolisCity_Text_SAGMontauk:
+	.string "Montauk Lighthouse, end of the line.
+That 'businessman' Giovanni? Rocket boss.
+Gym 8. Watch yourself, kid.$"

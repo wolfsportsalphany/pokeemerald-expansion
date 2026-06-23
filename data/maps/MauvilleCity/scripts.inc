@@ -662,3 +662,11 @@ MauvilleCity_Text_ExplainTV:
 
 MauvilleCity_Text_BeenCheckingOutTV:
 	.string "Hi, have you been checking out TVs?$"
+
+MauvilleCity_EventScript_SAGBall::
+	msgbox MauvilleCity_Text_SAGBall, MSGBOX_NPC
+	end
+MauvilleCity_Text_SAGBall:
+	.string "Randalls Island. Ballfields for days.
+Uptown Randall runs Gym 3 -
+sluggers, every one.$"
