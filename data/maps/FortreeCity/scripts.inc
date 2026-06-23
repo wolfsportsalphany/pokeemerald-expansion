@@ -154,3 +154,11 @@ FortreeCity_Text_GymSign:
 	.string "“The bird user taking flight into\n"
 	.string "the world.”$"
 
+
+FortreeCity_EventScript_SAGLaw::
+	msgbox FortreeCity_Text_SAGLaw, MSGBOX_NPC
+	end
+FortreeCity_Text_SAGLaw:
+	.string "Brooklyn Law. The Dean, Gym 6.
+Steel walls, total lockdown.
+Bring patience.$"
