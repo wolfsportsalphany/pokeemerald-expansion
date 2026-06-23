@@ -137,3 +137,9 @@ VerdanturfTown_Text_SAGShermDefeat:
 
 VerdanturfTown_Text_SAGShermPost:
 	.string "Gym 10 down. Keep moving.$"
+
+VerdanturfTown_EventScript_SAGFrat::
+	msgbox VerdanturfTown_Text_SAGFrat, MSGBOX_NPC
+	end
+VerdanturfTown_Text_SAGFrat:
+	.string "UPenn 4K frat house.\nShermfather, Gym 10.$"

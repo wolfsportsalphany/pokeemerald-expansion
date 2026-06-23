@@ -49,3 +49,9 @@ EverGrandeCity_Text_SAGJustinDefeat:
 
 EverGrandeCity_Text_SAGJustinPost:
 	.string "Gym 16 cleared.$"
+
+EverGrandeCity_EventScript_SAGRabbi::
+	msgbox EverGrandeCity_Text_SAGRabbi, MSGBOX_NPC
+	end
+EverGrandeCity_Text_SAGRabbi:
+	.string "Justin seized our gym!\nRabbi Angela objects.$"

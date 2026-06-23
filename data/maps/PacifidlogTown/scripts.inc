@@ -66,3 +66,9 @@ PacifidlogTown_Text_SAGRomanDefeat:
 
 PacifidlogTown_Text_SAGRomanPost:
 	.string "Gym 12 down. Keep moving.$"
+
+PacifidlogTown_EventScript_SAGRetiree::
+	msgbox PacifidlogTown_Text_SAGRetiree, MSGBOX_NPC
+	end
+PacifidlogTown_Text_SAGRetiree:
+	.string "The Hemispheres, FL.\nRoman, Gym 12.$"

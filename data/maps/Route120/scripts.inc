@@ -444,3 +444,9 @@ Route120_Text_SAGKennyRickyNotEnough:
 
 Route120_Text_SAGKennyRickyPost:
 	.string "Gym 15 cleared.$"
+
+Route120_EventScript_SAGCamper::
+	msgbox Route120_Text_SAGCamper, MSGBOX_NPC
+	end
+Route120_Text_SAGCamper:
+	.string "Camp Pontiac.\nKenny & Ricky, Gym 15.$"

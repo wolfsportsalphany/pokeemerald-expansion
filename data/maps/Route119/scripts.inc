@@ -622,3 +622,9 @@ Route119_Text_SAGOakDefeat:
 
 Route119_Text_SAGOakPost:
 	.string "Gym 14 cleared.$"
+
+Route119_EventScript_SAGSkier::
+	msgbox Route119_Text_SAGSkier, MSGBOX_NPC
+	end
+Route119_Text_SAGSkier:
+	.string "Killington summit.\nProf. Oak, Gym 14.$"
