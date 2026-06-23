@@ -1704,3 +1704,30 @@ SootopolisCity_EventScript_SAGMontauk::
 	end
 SootopolisCity_Text_SAGMontauk:
 	.string "Montauk Lighthouse.\nGym 8: Giovanni, Rocket boss.$"
+
+SootopolisCity_EventScript_SAGMewtwo::
+	lock
+	faceplayer
+	goto_if_set FLAG_UNUSED_0x020, SootopolisCity_EventScript_SAGMewtwoDone
+	msgbox SootopolisCity_Text_SAGMewtwoGive, MSGBOX_DEFAULT
+	givemon SPECIES_MEWTWO, 70
+	setflag FLAG_UNUSED_0x020
+	msgbox SootopolisCity_Text_SAGMewtwoGot, MSGBOX_DEFAULT
+	release
+	end
+
+SootopolisCity_EventScript_SAGMewtwoDone::
+	lock
+	faceplayer
+	msgbox SootopolisCity_Text_SAGMewtwoDone2, MSGBOX_DEFAULT
+	release
+	end
+
+SootopolisCity_Text_SAGMewtwoGive:
+	.string "You... you actually faced it.\pMewtwo. Out on the island.\pAnd it chose to go with YOU.\pTake it, kid. It is yours now.$"
+
+SootopolisCity_Text_SAGMewtwoGot:
+	.string "Shane received MEWTWO!\pThe strongest there is.\nUse it well.$"
+
+SootopolisCity_Text_SAGMewtwoDone2:
+	.string "Mewtwo chose you for a reason.\nGo show your brother.$"
