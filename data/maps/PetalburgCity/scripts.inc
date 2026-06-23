@@ -763,6 +763,4 @@ PetalburgCity_EventScript_SAGYanks::
 	msgbox PetalburgCity_Text_SAGYanks, MSGBOX_NPC
 	end
 PetalburgCity_Text_SAGYanks:
-	.string "Yankee Stadium! Aaron Judge,
-Gym 5. Everything he's got
-swings for the fences.$"
+	.string "Yankee Stadium!\nGym 5: Aaron Judge.$"

@@ -794,6 +794,4 @@ DewfordTown_EventScript_SAGSchool::
 	msgbox DewfordTown_Text_SAGSchool, MSGBOX_NPC
 	end
 DewfordTown_Text_SAGSchool:
-	.string "The Town School. K-12.
-Ms. Sokotch teaches Psychic types...
-and fear. Gym 2.$"
+	.string "The Town School.\nGym 2: Ms. Sokotch.$"

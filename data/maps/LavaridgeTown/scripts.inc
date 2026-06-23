@@ -404,11 +404,8 @@ LavaridgeTown_Text_HerbShopSign:
 	.string "POKéMON HERB SHOP\n"
 	.string "“Bitter taste--better cure!”$"
 
-
 LavaridgeTown_EventScript_SAGPrep::
 	msgbox LavaridgeTown_Text_SAGPrep, MSGBOX_NPC
 	end
 LavaridgeTown_Text_SAGPrep:
-	.string "Riverdale Country School.
-Headmaster Randolph, Gym 4.
-Frightfully good with Ghosts.$"
+	.string "Riverdale prep school.\nGym 4: Randolph.$"
