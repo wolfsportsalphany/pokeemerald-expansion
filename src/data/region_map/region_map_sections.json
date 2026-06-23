@@ -34,7 +34,7 @@
     },
     {
       "id": "MAPSEC_FALLARBOR_TOWN",
-      "name": "FORT LEE",
+      "name": "ATLANTA",
       "x": 3,
       "y": 0,
       "width": 1,
@@ -42,7 +42,7 @@
     },
     {
       "id": "MAPSEC_VERDANTURF_TOWN",
-      "name": "CENTRAL PARK",
+      "name": "PHILLY",
       "x": 4,
       "y": 6,
       "width": 1,
@@ -50,7 +50,7 @@
     },
     {
       "id": "MAPSEC_PACIFIDLOG_TOWN",
-      "name": "CONEY ISLAND",
+      "name": "HALLANDALE",
       "x": 17,
       "y": 10,
       "width": 1,
@@ -66,7 +66,7 @@
     },
     {
       "id": "MAPSEC_SLATEPORT_CITY",
-      "name": "CHELSEA PIERS",
+      "name": "IMG ACADEMY",
       "x": 8,
       "y": 10,
       "width": 1,
@@ -122,7 +122,7 @@
     },
     {
       "id": "MAPSEC_EVER_GRANDE_CITY",
-      "name": "THE LEAGUE",
+      "name": "CENTRAL SYNAG",
       "x": 27,
       "y": 8,
       "width": 1,
@@ -274,7 +274,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_119",
-      "name": "ROUTE 119",
+      "name": "KILLINGTON",
       "x": 11,
       "y": 0,
       "width": 1,
@@ -282,7 +282,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_120",
-      "name": "ROUTE 120",
+      "name": "CAMP PONTIAC",
       "x": 13,
       "y": 0,
       "width": 1,
