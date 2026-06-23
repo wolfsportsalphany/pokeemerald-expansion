@@ -18,6 +18,11 @@
       "map": "MAP_FALLARBOR_TOWN",
       "offset": 0,
       "direction": "up"
+    },
+    {
+      "map": "MAP_SLATEPORT_CITY",
+      "offset": 0,
+      "direction": "down"
     }
   ],
   "object_events": [
