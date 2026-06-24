@@ -183,13 +183,13 @@ LavaridgeTown_Gym_1F_EventScript_GymStatue::
 LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "LAVARIDGE's GYM LEADER FLANNERY\n"
-	.string "uses FIRE-type POKéMON.\p"
-	.string "Her passion for POKéMON burns stronger\n"
-	.string "and hotter than a volcano.\p"
-	.string "Don't get too close to her--you'll burn!\n"
-	.string "Hose her down with water and then\l"
-	.string "go for it!$"
+	.string "Headmaster RANDOLPH keeps this GYM,\n"
+	.string "and his POKéMON are all GHOST.\p"
+	.string "The manor's full of pitfalls, so mind\n"
+	.string "your step on the way to him.\p"
+	.string "GHOST and DARK moves are the only\n"
+	.string "things that scare a ghost.\p"
+	.string "Keep your nerve and go for it!$"
 
 LavaridgeTown_Gym_1F_Text_GymGuidePostVictory:
 	.string "Yow! That was a scorching-hot battle!$"
