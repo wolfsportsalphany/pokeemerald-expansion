@@ -22,3 +22,30 @@ LittlerootTown_Text_SAGDoorman:
 	.string "Welcome to Hudson Yards.\p"
 	.string "Head south for Times Square when\n"
 	.string "you're ready. Whole city's waiting.$"
+
+LittlerootTown_EventScript_SAGLapras::
+	lock
+	faceplayer
+	goto_if_set FLAG_UNUSED_0x022, LittlerootTown_EventScript_SAGLaprasDoneScr
+	msgbox LittlerootTown_Text_SAGLaprasGive, MSGBOX_DEFAULT
+	givemon SPECIES_LAPRAS, 30
+	setflag FLAG_UNUSED_0x022
+	msgbox LittlerootTown_Text_SAGLaprasGot, MSGBOX_DEFAULT
+	release
+	end
+
+LittlerootTown_EventScript_SAGLaprasDoneScr::
+	lock
+	faceplayer
+	msgbox LittlerootTown_Text_SAGLaprasDone, MSGBOX_DEFAULT
+	release
+	end
+
+LittlerootTown_Text_SAGLaprasGive:
+	.string "Found this LAPRAS off the\nWest Side, down in the Hudson.\nIt took a likin' to you.\nGo on, take it.$"
+
+LittlerootTown_Text_SAGLaprasGot:
+	.string "Shane received LAPRAS!$"
+
+LittlerootTown_Text_SAGLaprasDone:
+	.string "Mind the currents out there.$"

@@ -1731,3 +1731,30 @@ SootopolisCity_Text_SAGMewtwoGot:
 
 SootopolisCity_Text_SAGMewtwoDone2:
 	.string "Mewtwo chose you for a reason.\nGo show your brother.$"
+
+SootopolisCity_EventScript_SAGDragonite::
+	lock
+	faceplayer
+	goto_if_set FLAG_UNUSED_0x021, SootopolisCity_EventScript_SAGDragoniteDoneScr
+	msgbox SootopolisCity_Text_SAGDragoniteGive, MSGBOX_DEFAULT
+	givemon SPECIES_DRAGONITE, 62
+	setflag FLAG_UNUSED_0x021
+	msgbox SootopolisCity_Text_SAGDragoniteGot, MSGBOX_DEFAULT
+	release
+	end
+
+SootopolisCity_EventScript_SAGDragoniteDoneScr::
+	lock
+	faceplayer
+	msgbox SootopolisCity_Text_SAGDragoniteDone, MSGBOX_DEFAULT
+	release
+	end
+
+SootopolisCity_Text_SAGDragoniteGive:
+	.string "Special delivery!\nA courier DRAGONITE,\nflown all the way to Montauk.\nIt's yours, kid.$"
+
+SootopolisCity_Text_SAGDragoniteGot:
+	.string "Shane received DRAGONITE!$"
+
+SootopolisCity_Text_SAGDragoniteDone:
+	.string "That Dragonite never misses\na delivery.$"
