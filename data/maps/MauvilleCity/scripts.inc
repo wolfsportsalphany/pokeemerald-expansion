@@ -631,8 +631,8 @@ MauvilleCity_Text_PokemonCanJumpYouOnBike:
 	.string "wild POKéMON could jump you.$"
 
 MauvilleCity_Text_CitySign:
-	.string "MAUVILLE CITY\n"
-	.string "“The bright and shiny city of fun!”$"
+	.string "RANDALLS ISLAND\n"
+	.string "“All ballfields, bridges, and water.”$"
 
 MauvilleCity_Text_GymSign:
 	.string "POKéMON GYM\n"

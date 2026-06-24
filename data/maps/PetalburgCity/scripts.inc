@@ -736,8 +736,8 @@ PetalburgCity_Text_GymSign:
 	.string "“The FLYING type's heavy hitter.”$"
 
 PetalburgCity_Text_CitySign:
-	.string "PETALBURG CITY\n"
-	.string "“Where people mingle with nature.”$"
+	.string "THE BRONX\n"
+	.string "“Home of the big leagues.”$"
 
 PetalburgCity_Text_WallyHouseSign:
 	.string "WALLY'S HOUSE$"
