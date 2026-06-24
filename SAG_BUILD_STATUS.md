@@ -138,6 +138,15 @@ all shipped (ROMs in versions/ + the VBA folder). Charmap rule reconfirmed: only
   own father", STONE BADGE, wrong type themes).
 - **v0.49** - all 8 gym **statues** + certified-trainers rolls: Hoenn city/leader names
   -> SAG leader + persona subtitle (e.g. "ALTORELLI'S GYM / Sidley Austin, Attorneys.").
+- **v0.50** - the 8 gym **entrance signs** (in the Hoenn gym-town slots): LEADER: BRAWLY ->
+  SOKOTCH etc. + SAG-type flavor. NOTE: slot != guaranteed-walked (e.g. Gym1's RustboroGym
+  door was wired into Times Square/Oldale per the v0.14 note), so these are correct-if-seen
+  and harmless if not. Needs a playtest to confirm which town signs are physically reached.
+- **v0.51** - the 8 town-name signs -> NYC neighborhoods, matched to each slot's renamed
+  region-map section so the sign == the map-name popup (RUSTBORO->MIDTOWN, DEWFORD->UPPER
+  EAST SIDE, MAUVILLE->RANDALLS ISLAND, LAVARIDGE->RIVERDALE, PETALBURG->THE BRONX,
+  FORTREE->WILLIAMSBURG, MOSSDEEP->OLD BROOKVILLE, SOOTOPOLIS->MONTAUK) + NYC taglines.
+  Curly-quote tip: don't retype the “ ” -- match the ASCII *inside* them and they're preserved.
 
 ### SAG gym leaders + types (canonical, used across the dialogue):
 Gym1 ALTORELLI/Dark, Gym2 SOKOTCH/Psychic, Gym3 RANDALL/Fighting, Gym4 RANDOLPH/Ghost,
