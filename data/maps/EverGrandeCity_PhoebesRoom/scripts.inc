@@ -65,11 +65,9 @@ EverGrandeCity_PhoebesRoom_Text_Defeat:
 	.string "...That's my boy.\nProud of you, son.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "There's a definite bond between you\n"
-	.string "and your POKéMON, too.\p"
-	.string "I didn't recognize it, so it's only\n"
-	.string "natural that I lost.\p"
-	.string "Yup, I'd like to see how far your bond\n"
-	.string "will carry you.\p"
-	.string "Go ahead, move on to the next room.$"
+	.string "Look at you. All grown up and\n"
+	.string "knocking your old man flat.\p"
+	.string "I couldn't be prouder, son.\p"
+	.string "Your mother's in the next room.\n"
+	.string "…Go easy on her. Or don't.$"
 

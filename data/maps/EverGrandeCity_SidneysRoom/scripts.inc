@@ -71,9 +71,9 @@ EverGrandeCity_SidneysRoom_Text_Defeat:
 	.string "Ugh, fine, you win.\nTell Mom I said hi.$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
-	.string "Well, listen to what this loser has\n"
-	.string "to say.\p"
-	.string "You've got what it takes to go far.\n"
-	.string "Now, go on to the next room and enjoy\l"
-	.string "your next battle!$"
+	.string "Okay, okay. You actually got me.\p"
+	.string "Don't let it go to your head, bro.\p"
+	.string "Dad's up next, and he's been waiting\n"
+	.string "for this way longer than I have.\l"
+	.string "Go on.$"
 
