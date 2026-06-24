@@ -119,3 +119,38 @@ each leader's established persona. v0.35 had only done their intro+defeat lines.
   avoid em-dash (—) — not in the charmap.
 - Likely NEXT roast targets: the 8 gym TRAINERS' Intro/Defeat/PostBattle (still vanilla
   in most gyms), Act-II overworld gym leaders 9-16, E4/Champion post-battle lines.
+
+## DIALOGUE/LORE PASS @ v0.44 - v0.49 (PRs #95-#100)
+Big autonomous roast + lore-consistency sweep of the **critical path**. All text-only,
+all shipped (ROMs in versions/ + the VBA folder). Charmap rule reconfirmed: only `é` and
+`…` are safe non-ASCII; **use `--` not the em-dash** (— is NOT in the charmap and fails the build).
+- **v0.44** - E4 + Champion POST-BATTLE speeches (Cali/Dad/Mom/Steven/Jared voices); the
+  speeches keep each room's "next room" progression cue.
+- **v0.45** - Champion victory **cutscene** MALE-path (the only path forced-male SHANE hits):
+  rival MAY->Justin, `{RIVAL}`->JUSTIN, Prof. Birch->mentor, Wallace->Jared. Fixed the
+  vanilla "advice before you challenge the CHAMPION" lines that fired *after* the win.
+- **v0.46** - all 8 Act-I gym **guides** (advice NPC): SAG leader + correct SAG type +
+  roast hint, preserving each reused interior's real puzzle (dark gym / switch doors /
+  pitfalls / SPEED+ACCURACY rooms / rotating doors / double battle / icy floor).
+- **v0.47** - endgame: E4 badge-gate reception + **Hall of Fame** closing (Jared walks
+  Shane in; birthday payoff). HoF cutscene + GameClear flow untouched.
+- **v0.48** - the 8 gym-guide **post-victory** re-talk lines (dropped JUAN/HOENN, "your
+  own father", STONE BADGE, wrong type themes).
+- **v0.49** - all 8 gym **statues** + certified-trainers rolls: Hoenn city/leader names
+  -> SAG leader + persona subtitle (e.g. "ALTORELLI'S GYM / Sidley Austin, Attorneys.").
+
+### SAG gym leaders + types (canonical, used across the dialogue):
+Gym1 ALTORELLI/Dark, Gym2 SOKOTCH/Psychic, Gym3 RANDALL/Fighting, Gym4 RANDOLPH/Ghost,
+Gym5 JUDGE/Flying, Gym6 THE DEAN/Steel, Gym7 GRANDMA(Jesse)/Fairy(double), Gym8 GIOVANNI/Ground.
+E4 = Sidney/Cali, Phoebe/Dad, Glacia/Mom, Drake/Steven; Champion Wallace = Jared (brother);
+rival = Justin ("little Gaer"); player = SHANE GAER (forced male).
+
+### Critical-path dialogue is now ~COMPLETE. What still genuinely moves the needle:
+- **Gym rank-and-file trainers** (~55 across the 8 gyms) still vanilla and still name-drop
+  ROXANNE/ROCK etc. -- low value-per-word, big batch; do per-gym if at all.
+- **Town/route/gym SIGNS** in SAG-traversed map slots may still read Hoenn names (needs a
+  per-map check of which slots are actually walked vs just gym-interior hosts).
+- **Badge names** on the trainer card are still Hoenn (STONE/KNUCKLE/...) -- likely a
+  strings/graphics change, higher risk; verify before attempting.
+- Bigger axes that need a human/playtest: custom sprites, wild encounters in city maps,
+  a real post-credits "wake in the apartment" scene.
