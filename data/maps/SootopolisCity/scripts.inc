@@ -1385,9 +1385,9 @@ SootopolisCity_Text_GymSign:
 	.string "Team Rocket, NYC.”$"
 
 SootopolisCity_Text_CitySign:
-	.string "SOOTOPOLIS CITY\p"
-	.string "“The mystical city where history\n"
-	.string "slumbers.”$"
+	.string "MONTAUK\p"
+	.string "“The end of the island, where\n"
+	.string "Mewtwo waits.”$"
 
 SootopolisCity_Text_DoorIsClosed:
 	.string "The door is closed.$"

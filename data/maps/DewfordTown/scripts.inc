@@ -633,8 +633,8 @@ DewfordTown_Text_TinyIslandCommunity:
 	.string "everyone picks up on it right away.$"
 
 DewfordTown_Text_TownSign:
-	.string "DEWFORD TOWN\n"
-	.string "“A tiny island in the blue sea.”$"
+	.string "UPPER EAST SIDE\n"
+	.string "“Old money, older grudges.”$"
 
 DewfordTown_Text_GymSign:
 	.string "POKéMON GYM\n"

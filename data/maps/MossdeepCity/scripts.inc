@@ -396,8 +396,8 @@ MossdeepCity_Text_GymSign:
 	.string "“FAIRY types, two at a time.”$"
 
 MossdeepCity_Text_CitySign:
-	.string "MOSSDEEP CITY\n"
-	.string "“Our slogan: Cherish POKéMON!”$"
+	.string "OLD BROOKVILLE\n"
+	.string "“Where Grandma keeps the lights on.”$"
 
 MossdeepCity_Text_SpaceCenterSign:
 	.string "MOSSDEEP SPACE CENTER\n"

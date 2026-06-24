@@ -391,9 +391,9 @@ LavaridgeTown_Text_HotSpringsClaims:
 	.string "money…$"
 
 LavaridgeTown_Text_TownSign:
-	.string "LAVARIDGE TOWN\p"
-	.string "“POKéMON CENTER HOT SPRINGS\n"
-	.string "An excellent place for relaxing!”$"
+	.string "RIVERDALE\p"
+	.string "“The quiet end of the Bronx, where\n"
+	.string "the Headmaster holds court.”$"
 
 LavaridgeTown_Text_GymSign:
 	.string "POKéMON GYM\n"

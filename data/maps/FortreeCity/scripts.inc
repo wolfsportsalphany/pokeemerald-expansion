@@ -144,9 +144,9 @@ FortreeCity_Text_UsedDevonScopePokemonFled:
 	.string "The startled POKéMON fled!$"
 
 FortreeCity_Text_CitySign:
-	.string "FORTREE CITY\n"
-	.string "“The treetop city that frolics with\l"
-	.string "nature.”$"
+	.string "WILLIAMSBURG\n"
+	.string "“Rooftops, lofts, and rooftop\l"
+	.string "bars.”$"
 
 FortreeCity_Text_GymSign:
 	.string "POKéMON GYM\n"
