@@ -269,11 +269,12 @@ FortreeCity_Gym_Text_WinonaPostBattle:
 	.string "this house has a very long memory.$"
 
 FortreeCity_Gym_Text_GymStatue:
-	.string "FORTREE CITY POKéMON GYM$"
+	.string "THE DEAN'S GYM\n"
+	.string "Order in the court.$"
 
 FortreeCity_Gym_Text_GymStatueCertified:
-	.string "FORTREE CITY POKéMON GYM\p"
-	.string "WINONA'S CERTIFIED TRAINERS:\n"
+	.string "THE DEAN'S GYM\p"
+	.string "THE DEAN'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
