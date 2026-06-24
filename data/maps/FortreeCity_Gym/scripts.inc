@@ -148,7 +148,8 @@ FortreeCity_Gym_Text_GymGuideAdvice:
 
 FortreeCity_Gym_Text_GymGuidePostVictory:
 	.string "You did it!\n"
-	.string "You've achieved liftoff!$"
+	.string "You got THE DEAN to rule in your\l"
+	.string "favor -- case closed!$"
 
 FortreeCity_Gym_Text_JaredIntro:
 	.string "Behold the elegant battle style of\n"

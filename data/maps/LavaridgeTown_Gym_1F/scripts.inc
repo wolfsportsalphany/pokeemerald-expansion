@@ -192,7 +192,9 @@ LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
 	.string "Keep your nerve and go for it!$"
 
 LavaridgeTown_Gym_1F_Text_GymGuidePostVictory:
-	.string "Yow! That was a scorching-hot battle!$"
+	.string "Yow! You walked out of RANDOLPH's\n"
+	.string "manor in one piece -- and beat him\l"
+	.string "on the way out!$"
 
 LavaridgeTown_Gym_1F_Text_ColeIntro:
 	.string "Owowowowow!\n"

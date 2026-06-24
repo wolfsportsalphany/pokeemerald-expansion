@@ -383,7 +383,8 @@ MossdeepCity_Gym_Text_GymGuideAdvice:
 	.string "POKéMON. Go for it!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
-	.string "Wow, you're astounding!\n"
+	.string "Wow, you out-battled GRANDMA and\n"
+	.string "her two-on-one tricks!\p"
 	.string "You're one great TRAINER!$"
 
 MossdeepCity_Gym_Text_PrestonIntro:

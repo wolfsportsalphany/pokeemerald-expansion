@@ -189,11 +189,11 @@ SootopolisCity_Gym_1F_Text_GymGuideAdvice:
 	.string "go for it yourself!$"
 
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
-	.string "Yow! You've beaten even JUAN, who\n"
-	.string "was supposedly the best in all HOENN!\p"
-	.string "Okay! Check out your TRAINER CARD.\p"
-	.string "If you've gotten all the BADGES, you're\n"
-	.string "set for the POKéMON LEAGUE challenge!$"
+	.string "Yow! You beat GIOVANNI himself--\n"
+	.string "the boss of the whole operation!\p"
+	.string "That's all eight City BADGES on\n"
+	.string "your card now.\p"
+	.string "You're set for what comes next, kid!$"
 
 SootopolisCity_Gym_1F_Text_JuanIntro:
 	.string "So. You reached Montauk.\pTeam Rocket's boss does not\nlose to children.$"

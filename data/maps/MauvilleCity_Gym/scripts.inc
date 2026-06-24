@@ -269,8 +269,9 @@ MauvilleCity_Gym_Text_GymGuideAdvice:
 	.string "Hey, go for it!$"
 
 MauvilleCity_Gym_Text_GymGuidePostVictory:
-	.string "Whoa, you're electrifying!\n"
-	.string "You've powered the door open!$"
+	.string "Whoa, you flattened RANDALL!\p"
+	.string "All his switches, all his muscle, and\n"
+	.string "you still cracked the door open!$"
 
 MauvilleCity_Gym_Text_KirkIntro:
 	.string "My electric soul, it'll shatter your\n"

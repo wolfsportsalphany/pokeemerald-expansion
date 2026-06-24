@@ -296,8 +296,9 @@ DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Hey, okay, go for it!$"
 
 DewfordTown_Gym_Text_GymGuidePostVictory:
-	.string "Whoah! It's turned too bright in here!\p"
-	.string "Your future is bright, too!$"
+	.string "Whoah! The lights are all the way up!\p"
+	.string "SOKOTCH got schooled, and your\n"
+	.string "future's looking bright, kid!$"
 
 DewfordTown_Gym_Text_TakaoIntro:
 	.string "Might is right!\n"
