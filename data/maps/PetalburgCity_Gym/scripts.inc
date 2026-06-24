@@ -1328,8 +1328,8 @@ PetalburgCity_Gym_Text_GymGuideAdvice:
 	.string "Pick your pitch, then go for it!$"
 
 PetalburgCity_Gym_Text_GymGuidePostVictory:
-	.string "{PLAYER}! Whoa! You've overcome even\n"
-	.string "your own father!\p"
+	.string "{PLAYER}! Whoa!\n"
+	.string "You knocked JUDGE out of the park!\p"
 	.string "Like, whoa!\n"
 	.string "What a stunning turn of events!$"
 
