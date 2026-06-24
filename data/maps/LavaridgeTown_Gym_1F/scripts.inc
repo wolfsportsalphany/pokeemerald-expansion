@@ -339,11 +339,12 @@ LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "they hold grudges.$"
 
 LavaridgeTown_Gym_1F_Text_GymStatue:
-	.string "LAVARIDGE TOWN POKéMON GYM$"
+	.string "RANDOLPH'S GYM\n"
+	.string "The manor on the hill.$"
 
 LavaridgeTown_Gym_1F_Text_GymStatueCertified:
-	.string "LAVARIDGE TOWN POKéMON GYM\p"
-	.string "FLANNERY'S CERTIFIED TRAINERS:\n"
+	.string "RANDOLPH'S GYM\p"
+	.string "RANDOLPH'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:

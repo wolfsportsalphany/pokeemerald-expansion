@@ -200,11 +200,12 @@ RustboroCity_Gym_Text_RoxannePostBattle:
 	.string "Don't get comfortable.$"
 
 RustboroCity_Gym_Text_GymStatue:
-	.string "RUSTBORO CITY POKéMON GYM$"
+	.string "ALTORELLI'S GYM\n"
+	.string "Sidley Austin, Attorneys.$"
 
 RustboroCity_Gym_Text_GymStatueCertified:
-	.string "RUSTBORO CITY POKéMON GYM\p"
-	.string "ROXANNE'S CERTIFIED TRAINERS:\n"
+	.string "ALTORELLI'S GYM\p"
+	.string "ALTORELLI'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall:

@@ -414,11 +414,12 @@ DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "on a curve.$"
 
 DewfordTown_Gym_Text_GymStatue:
-	.string "DEWFORD TOWN POKéMON GYM$"
+	.string "SOKOTCH'S GYM\n"
+	.string "Class is always in session.$"
 
 DewfordTown_Gym_Text_GymStatueCertified:
-	.string "DEWFORD TOWN POKéMON GYM\p"
-	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
+	.string "SOKOTCH'S GYM\p"
+	.string "SOKOTCH'S CERTIFIED TRAINERS:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch:
