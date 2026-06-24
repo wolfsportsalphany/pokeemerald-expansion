@@ -331,9 +331,10 @@ LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
 	.string "in the POKéNAV.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
-	.string "Your power reminds me of someone…\p"
-	.string "Oh! I know! You battle like NORMAN,\n"
-	.string "the GYM LEADER of PETALBURG.$"
+	.string "Frightfully well played indeed.\p"
+	.string "The manor will remember your name.\n"
+	.string "Do mind the ghosts on your way out…\l"
+	.string "they hold grudges.$"
 
 LavaridgeTown_Gym_1F_Text_GymStatue:
 	.string "LAVARIDGE TOWN POKéMON GYM$"

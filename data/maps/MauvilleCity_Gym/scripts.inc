@@ -361,8 +361,10 @@ MauvilleCity_Gym_Text_RegisteredWattson:
 	.string "in the POKéNAV.$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
-	.string "I swell with optimism, seeing a promising\n"
-	.string "young TRAINER like you!$"
+	.string "One ring doesn't make a dynasty,\n"
+	.string "rook.\p"
+	.string "Round the bases all you want.\n"
+	.string "Uptown is still uptown.$"
 
 MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
 	.string "Wahahahah!\n"

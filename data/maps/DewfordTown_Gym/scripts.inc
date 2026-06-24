@@ -409,9 +409,11 @@ DewfordTown_Gym_Text_RegisteredBrawly:
 	.string "in the POKéNAV.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
-	.string "I can see your talent becoming a giant\n"
-	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.string "Class dismissed. You passed,\n"
+	.string "this time.\p"
+	.string "But I've got colleagues all down\n"
+	.string "the line, and they don't grade\l"
+	.string "on a curve.$"
 
 DewfordTown_Gym_Text_GymStatue:
 	.string "DEWFORD TOWN POKéMON GYM$"
