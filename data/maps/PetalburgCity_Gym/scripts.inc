@@ -1297,10 +1297,12 @@ PetalburgCity_Gym_Text_LetMeBorrowPlayer:
 PetalburgCity_Gym_Text_DadGoingToKeepTraining:
 	.string "DAD: {PLAYER}, you should go visit\n"
 	.string "your mother every so often.\p"
-	.string "I'm going to stay here and redouble\n"
-	.string "my training.\p"
-	.string "It would bother me as a TRAINER to\n"
-	.string "not avenge my loss to you, {PLAYER}!$"
+	.string "I'm staying right here, taking\n"
+	.string "my cuts in the cage.\p"
+	.string "The season's long, {PLAYER}. I've\n"
+	.string "watched plenty of rookies fold\l"
+	.string "come September.\p"
+	.string "I'll be waiting on the rematch.$"
 
 PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough:
 	.string "DAD: {PLAYER}, how are things going?\p"
