@@ -409,3 +409,15 @@ LavaridgeTown_EventScript_SAGPrep::
 	end
 LavaridgeTown_Text_SAGPrep:
 	.string "Riverdale prep school.\nGym 4: Randolph.$"
+
+LavaridgeTown_EventScript_SAGQuiet::
+	msgbox LavaridgeTown_Text_SAGQuiet, MSGBOX_NPC
+	end
+LavaridgeTown_Text_SAGQuiet:
+	.string "Riverdale's so quiet you'd\nforget it's the Bronx.$"
+
+LavaridgeTown_EventScript_SAGWarn::
+	msgbox LavaridgeTown_Text_SAGWarn, MSGBOX_NPC
+	end
+LavaridgeTown_Text_SAGWarn:
+	.string "Mind the headmaster.\nHe sees everything.$"

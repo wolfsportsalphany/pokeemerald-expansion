@@ -795,3 +795,15 @@ DewfordTown_EventScript_SAGSchool::
 	end
 DewfordTown_Text_SAGSchool:
 	.string "The Town School.\nGym 2: Ms. Sokotch.$"
+
+DewfordTown_EventScript_SAGDoorman::
+	msgbox DewfordTown_Text_SAGDoorman, MSGBOX_NPC
+	end
+DewfordTown_Text_SAGDoorman:
+	.string "The doorman knows\neveryone's business up here.$"
+
+DewfordTown_EventScript_SAGNanny::
+	msgbox DewfordTown_Text_SAGNanny, MSGBOX_NPC
+	end
+DewfordTown_Text_SAGNanny:
+	.string "Private school pickup.\nNannies everywhere.$"

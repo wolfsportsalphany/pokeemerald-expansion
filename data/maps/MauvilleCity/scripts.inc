@@ -668,3 +668,15 @@ MauvilleCity_EventScript_SAGBall::
 	end
 MauvilleCity_Text_SAGBall:
 	.string "Randalls Island.\nGym 3: Uptown Randall.$"
+
+MauvilleCity_EventScript_SAGDiamond::
+	msgbox MauvilleCity_Text_SAGDiamond, MSGBOX_NPC
+	end
+MauvilleCity_Text_SAGDiamond:
+	.string "Forty ballfields and\nstill no open diamond.$"
+
+MauvilleCity_EventScript_SAGBbq::
+	msgbox MauvilleCity_Text_SAGBbq, MSGBOX_NPC
+	end
+MauvilleCity_Text_SAGBbq:
+	.string "Smell that BBQ? That's\na Randalls Island summer.$"

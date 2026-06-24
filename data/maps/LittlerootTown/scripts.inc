@@ -49,3 +49,15 @@ LittlerootTown_Text_SAGLaprasGot:
 
 LittlerootTown_Text_SAGLaprasDone:
 	.string "Mind the currents out there.$"
+
+LittlerootTown_EventScript_SAGDogs::
+	msgbox LittlerootTown_Text_SAGDogs, MSGBOX_NPC
+	end
+LittlerootTown_Text_SAGDogs:
+	.string "Five-dollar dirty water\ndogs! Best in Hudson Yards.$"
+
+LittlerootTown_EventScript_SAGHardhat::
+	msgbox LittlerootTown_Text_SAGHardhat, MSGBOX_NPC
+	end
+LittlerootTown_Text_SAGHardhat:
+	.string "They built this whole\nneighborhood in a week.$"

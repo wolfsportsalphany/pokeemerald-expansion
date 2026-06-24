@@ -764,3 +764,15 @@ PetalburgCity_EventScript_SAGYanks::
 	end
 PetalburgCity_Text_SAGYanks:
 	.string "Yankee Stadium!\nGym 5: Aaron Judge.$"
+
+PetalburgCity_EventScript_SAGPeanuts::
+	msgbox PetalburgCity_Text_SAGPeanuts, MSGBOX_NPC
+	end
+PetalburgCity_Text_SAGPeanuts:
+	.string "Peanuts! Cold drinks!\nLet's go Yankees!$"
+
+PetalburgCity_EventScript_SAGBronx::
+	msgbox PetalburgCity_Text_SAGBronx, MSGBOX_NPC
+	end
+PetalburgCity_Text_SAGBronx:
+	.string "The Bronx raised the\ntoughest trainers alive.$"

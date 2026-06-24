@@ -23,3 +23,15 @@ OldaleTown_Text_SAGGymInfo:
 	.string "Altorelli runs it. Dark types,\p"
 	.string "Russian goons, the whole deal.\n"
 	.string "Good luck, kid.$"
+
+OldaleTown_EventScript_SAGElmo::
+	msgbox OldaleTown_Text_SAGElmo, MSGBOX_NPC
+	end
+OldaleTown_Text_SAGElmo:
+	.string "Costumed Elmo wants\ntwenty bucks for a photo.$"
+
+OldaleTown_EventScript_SAGTkts::
+	msgbox OldaleTown_Text_SAGTkts, MSGBOX_NPC
+	end
+OldaleTown_Text_SAGTkts:
+	.string "TKTS booth: half-price\nshows, two-hour line.$"
