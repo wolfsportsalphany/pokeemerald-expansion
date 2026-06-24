@@ -37,7 +37,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LavaridgeTown_EventScript_ExpertF",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_EXPERT_M",
@@ -50,7 +50,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LavaridgeTown_EventScript_ExpertM",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_OLD_MAN",
@@ -63,7 +63,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LavaridgeTown_EventScript_OldMan",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_TWIN",
@@ -76,7 +76,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LavaridgeTown_EventScript_Twin",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_HOT_SPRINGS_OLD_WOMAN",
@@ -89,7 +89,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LavaridgeTown_EventScript_HotSpringsOldWoman1",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_HOT_SPRINGS_OLD_WOMAN",
@@ -102,7 +102,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LavaridgeTown_EventScript_HotSpringsOldWoman2",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_LAVARIDGE_RIVAL_ON_BIKE",
@@ -116,7 +116,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "0x0",
-      "flag": "FLAG_HIDE_LAVARIDGE_TOWN_RIVAL_ON_BIKE"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_LAVARIDGE_RIVAL",
@@ -130,7 +130,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "0x0",
-      "flag": "FLAG_HIDE_LAVARIDGE_TOWN_RIVAL"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_EXPERT_F",
@@ -143,7 +143,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LavaridgeTown_EventScript_EggWoman",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BOY_1",

@@ -187,6 +187,8 @@ static void SAG_GiveStartingLoadout(void)
     FlagSet(FLAG_SYS_POKEMON_GET);
 }
 
+static const u8 sSagPlayerName[] = _("SHANE");
+
 void NewGameInitData(void)
 {
 #if IS_FRLG
@@ -233,6 +235,9 @@ void NewGameInitData(void)
     ClearBag();
     NewGameInitPCItems();
     SAG_GiveStartingLoadout();
+    gSaveBlock2Ptr->playerGender = MALE;
+    StringCopy(gSaveBlock2Ptr->playerName, sSagPlayerName);
+    FlagSet(FLAG_UNUSED_0x023);
     ClearPokeblocks();
     ClearDecorationInventories();
     InitEasyChatPhrases();

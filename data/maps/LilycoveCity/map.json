@@ -37,7 +37,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Sailor2",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_GIRL_1",
@@ -50,7 +50,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Girl",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAN_1",
@@ -63,7 +63,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Man3",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_RICH_BOY",
@@ -76,7 +76,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_RichBoy",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAN_2",
@@ -89,7 +89,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Man2",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_2",
@@ -102,7 +102,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Woman2",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_EXPERT_M",
@@ -115,7 +115,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_ExpertM1",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_EXPERT_F",
@@ -128,7 +128,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_ExpertF",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_EXPERT_M",
@@ -141,7 +141,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_ExpertM2",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_AQUA_MEMBER_M",
@@ -154,7 +154,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_WailmerTrainerGrunt",
-      "flag": "FLAG_HIDE_LILYCOVE_CITY_AQUA_GRUNTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
@@ -167,7 +167,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "ITEM_MAX_REPEL",
       "script": "Common_EventScript_FindItem",
-      "flag": "FLAG_ITEM_LILYCOVE_CITY_MAX_REPEL"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_AQUA_MEMBER_M",
@@ -180,7 +180,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_AquaGrunt4",
-      "flag": "FLAG_HIDE_LILYCOVE_CITY_AQUA_GRUNTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_AQUA_MEMBER_M",
@@ -193,7 +193,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_AquaGrunt1",
-      "flag": "FLAG_HIDE_LILYCOVE_CITY_AQUA_GRUNTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_AQUA_MEMBER_M",
@@ -206,7 +206,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_AquaGrunt2",
-      "flag": "FLAG_HIDE_LILYCOVE_CITY_AQUA_GRUNTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_AQUA_MEMBER_M",
@@ -219,7 +219,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_AquaGrunt3",
-      "flag": "FLAG_HIDE_LILYCOVE_CITY_AQUA_GRUNTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_GENTLEMAN",
@@ -232,7 +232,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_BerryGentleman",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_VAR_0",
@@ -245,7 +245,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Rival",
-      "flag": "FLAG_HIDE_LILYCOVE_CITY_RIVAL"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_SCHOOL_KID_M",
@@ -258,7 +258,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_SchoolKidM",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_LILYCOVE_WOMAN_1",
@@ -272,7 +272,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Woman1",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_LILYCOVE_MAN_1",
@@ -286,7 +286,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Man1",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_SAILOR",
@@ -299,7 +299,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_Sailor1",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_FAT_MAN",
@@ -312,7 +312,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "LilycoveCity_EventScript_FatMan",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_YOUNGSTER",

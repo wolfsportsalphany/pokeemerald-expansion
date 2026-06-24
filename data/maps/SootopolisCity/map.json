@@ -38,7 +38,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_CaveOfOriginExpert",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_WOMAN_2",
@@ -52,7 +52,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Woman2",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_RESIDENTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_KIRI",
@@ -66,7 +66,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Kiri",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_NINJA_BOY",
@@ -80,7 +80,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_NinjaBoy",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_BOY_1",
@@ -94,7 +94,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Boy1",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MAN_1",
@@ -107,7 +107,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Man",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_MAN_1"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_STEVEN",
@@ -121,7 +121,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Steven",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_STEVEN"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_WOMAN_1",
@@ -135,7 +135,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Woman1",
-      "flag": "0"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_GROUDON",
@@ -149,7 +149,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "0x0",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_GROUDON"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_KYOGRE",
@@ -163,7 +163,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "0x0",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_KYOGRE"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_RAYQUAZA",
@@ -177,7 +177,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "0x0",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_RAYQUAZA"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_MANIAC",
@@ -191,7 +191,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Maniac",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_RESIDENTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_GIRL",
@@ -205,7 +205,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Girl",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_RESIDENTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_BLACK_BELT",
@@ -219,7 +219,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_BlackBelt",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_RESIDENTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_BOY_2",
@@ -233,7 +233,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Boy2",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_RESIDENTS"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_MAXIE",
@@ -247,7 +247,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Maxie",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_MAXIE"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_ARCHIE",
@@ -261,7 +261,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Archie",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_ARCHIE"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "local_id": "LOCALID_SOOTOPOLIS_WALLACE",
@@ -275,7 +275,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SootopolisCity_EventScript_Wallace",
-      "flag": "FLAG_HIDE_SOOTOPOLIS_CITY_WALLACE"
+      "flag": "FLAG_UNUSED_0x023"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_FISHERMAN",
