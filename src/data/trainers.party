@@ -14550,54 +14550,74 @@ EVs: 252 Atk / 4 Def / 252 Spe
 - Close Combat
 
 === TRAINER_ROXANNE_3 ===
-Name: ROXANNE
+Name: ASH
 Class: Leader
 Pic: Leader Roxanne
-Gender: Female
-Music: Female
+Gender: Male
+Music: Male
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer
 
-Omanyte
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Ice Beam
-- Rock Slide
+Pikachu @ Light Ball
+Ability: Static
+Jolly Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Volt Tackle
 - Surf
+- Knock Off
+- Volt Switch
 
-Golem
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Rollout
-- Magnitude
-- Explosion
+Charizard @ Heavy-Duty Boots
+Ability: Solar Power
+Timid Nature
+Level: 68
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Fire Blast
+- Hurricane
+- Solar Beam
+- Roost
 
-Kabutops @ Sitrus Berry
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+Greninja @ Choice Specs
+Ability: Protean
+Timid Nature
+Level: 68
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Hydro Pump
+- Ice Beam
+- Dark Pulse
+- U-turn
+
+Infernape @ Life Orb
+Ability: Iron Fist
+Jolly Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Flare Blitz
+- Close Combat
+- Mach Punch
+- U-turn
+
+Sceptile @ Life Orb
+Ability: Overgrow
+Timid Nature
+Level: 68
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Leaf Storm
+- Dragon Pulse
+- Focus Blast
+- Giga Drain
+
+Lucario @ Life Orb
+Ability: Adaptability
+Jolly Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Close Combat
+- Bullet Punch
+- Extreme Speed
 - Swords Dance
-- Ice Beam
-- Surf
-- Rock Slide
-
-Onix
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
-
-Nosepass @ Sitrus Berry
-Level: 42
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Team
-- Explosion
-- Protect
-- Rock Slide
 
 === TRAINER_ROXANNE_4 ===
 Name: ROXANNE
@@ -14778,46 +14798,74 @@ EVs: 252 SpA / 4 SpD / 252 Spe
 - Earth Power
 
 === TRAINER_BRAWLY_3 ===
-Name: BRAWLY
+Name: MISTY
 Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer
 
-Machamp @ Sitrus Berry
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Karate Chop
-- Rock Slide
-- Focus Punch
-- Bulk Up
+Politoed @ Damp Rock
+Ability: Drizzle
+Bold Nature
+Level: 68
+EVs: 252 HP / 252 Def / 4 SpD
+- Scald
+- Encore
+- Ice Beam
+- Toxic
 
-Medicham
-Level: 38
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Psychic
-- Light Screen
-- Reflect
-- Focus Punch
+Starmie @ Life Orb
+Ability: Analytic
+Timid Nature
+Level: 68
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Hydro Pump
+- Ice Beam
+- Thunder
+- Rapid Spin
 
-Hitmontop
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Pursuit
-- Counter
-- Protect
-- Triple Kick
+Kingdra @ Choice Specs
+Ability: Swift Swim
+Modest Nature
+Level: 68
+EVs: 252 SpA / 4 SpD / 252 Spe
+- Hydro Pump
+- Draco Meteor
+- Surf
+- Flip Turn
 
-Hariyama @ Sitrus Berry
-Level: 42
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fake Out
-- Focus Punch
-- Belly Drum
+Barraskewda @ Choice Band
+Ability: Swift Swim
+Adamant Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Liquidation
+- Flip Turn
+- Close Combat
+- Aqua Jet
+
+Quagsire @ Leftovers
+Ability: Unaware
+Relaxed Nature
+Level: 68
+EVs: 252 HP / 252 Def / 4 SpD
+- Scald
+- Recover
 - Earthquake
+- Toxic
+
+Slowbro @ Leftovers
+Ability: Regenerator
+Bold Nature
+Level: 68
+EVs: 252 HP / 252 Def / 4 SpD
+- Scald
+- Future Sight
+- Slack Off
+- Calm Mind
 
 === TRAINER_BRAWLY_4 ===
 Name: BRAWLY
@@ -14998,54 +15046,74 @@ EVs: 252 HP / 252 Def / 4 SpD
 - Will-O-Wisp
 
 === TRAINER_WATTSON_3 ===
-Name: WATTSON
+Name: BROCK
 Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
 Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer
 
-Pikachu
-Level: 39
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Slam
-- Rain Dance
-- Shock Wave
+Gigalith @ Smooth Rock
+Ability: Sand Stream
+Adamant Nature
+Level: 68
+EVs: 252 HP / 252 Atk / 4 Def
+- Stone Edge
+- Earthquake
+- Heavy Slam
+- Stealth Rock
 
-Flaaffy
-Level: 41
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Thunder
-- Protect
-- Thunder Wave
-- Light Screen
+Steelix @ Leftovers
+Ability: Sturdy
+Impish Nature
+Level: 68
+EVs: 252 HP / 252 Def / 4 SpD
+- Heavy Slam
+- Earthquake
+- Stealth Rock
+- Roar
 
-Electrode
-Level: 41
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Rollout
-- Thunder
+Golem @ Choice Band
+Ability: Sturdy
+Adamant Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Earthquake
+- Stone Edge
 - Explosion
-- Rain Dance
+- Sucker Punch
 
-Magneton @ Sitrus Berry
-Level: 43
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Supersonic
-- Protect
-- Thunder
-- Rain Dance
+Rhyperior @ Assault Vest
+Ability: Solid Rock
+Adamant Nature
+Level: 68
+EVs: 252 HP / 252 Atk / 4 SpD
+- Earthquake
+- Rock Wrecker
+- Megahorn
+- Ice Punch
 
-Manectric @ Sitrus Berry
-Level: 45
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Bite
-- Thunder Wave
-- Thunder
-- Protect
+Excadrill @ Life Orb
+Ability: Sand Rush
+Adamant Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Earthquake
+- Iron Head
+- Rock Slide
+- Rapid Spin
+
+Kabutops @ Life Orb
+Ability: Weak Armor
+Adamant Nature
+Level: 68
+EVs: 252 Atk / 4 Def / 252 Spe
+- Stone Edge
+- Liquidation
+- Aqua Jet
+- Swords Dance
 
 === TRAINER_WATTSON_4 ===
 Name: WATTSON
