@@ -731,9 +731,9 @@ PetalburgCity_Text_FullPartyExplanation:
 	.string "BOX over a PC connection.$"
 
 PetalburgCity_Text_GymSign:
-	.string "PETALBURG CITY POKéMON GYM\n"
-	.string "LEADER: NORMAN\l"
-	.string "“A man in pursuit of power!”$"
+	.string "POKéMON GYM\n"
+	.string "LEADER: JUDGE\l"
+	.string "“The FLYING type's heavy hitter.”$"
 
 PetalburgCity_Text_CitySign:
 	.string "PETALBURG CITY\n"

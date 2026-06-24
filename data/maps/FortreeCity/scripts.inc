@@ -149,10 +149,10 @@ FortreeCity_Text_CitySign:
 	.string "nature.”$"
 
 FortreeCity_Text_GymSign:
-	.string "FORTREE CITY POKéMON GYM\n"
-	.string "LEADER: WINONA\p"
-	.string "“The bird user taking flight into\n"
-	.string "the world.”$"
+	.string "POKéMON GYM\n"
+	.string "LEADER: THE DEAN\p"
+	.string "“STEEL type, and strictly\n"
+	.string "by the book.”$"
 
 FortreeCity_EventScript_SAGLaw::
 	msgbox FortreeCity_Text_SAGLaw, MSGBOX_NPC
