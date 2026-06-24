@@ -105,3 +105,17 @@ World = ~16 connected maps S-ward (Hudson Yards ... Montauk [Act I, gyms 1-8 in 
 - Custom sprites (all leaders use placeholder gfx; Act-II overworld leaders = OBJ_EVENT_GFX_YOUNGSTER) - needs an artist/Porymap.
 - Wild encounters (city maps have none; player levels via the 99 Rare Candies in starting loadout).
 - Badge count for E4 is the 8 Hoenn badges (gyms 1-8); gyms 9-16 are extra (no 9-16 badge flags).
+
+## UPDATE @ v0.43 — Act-I gym leader POST-BATTLE roast (PR #94)
+Reskinned all 8 Act-I gym leaders' post-victory re-talk lines (the line shown when you
+talk to a beaten leader again) from vanilla filler into the SAG roast voice, matching
+each leader's established persona. v0.35 had only done their intro+defeat lines.
+- Edited `<Leader>PostBattle` text in each gym's `scripts.inc`: Roxanne(Altorelli),
+  Brawly(Sokotch), Wattson(uptown), Flannery(Randolph), Winona(The Dean),
+  Tate&Liza(Grandma), Juan(Giovanni). Norman's is `PetalburgCity_Gym_Text_DadGoingToKeepTraining`
+  (not a *PostBattle symbol — he routes through an EventScript). Juan's preserves the
+  "go to the League" wayfinding, reworded to point through Mewtwo's island first.
+- Text-only, zero logic changes. Charmap note: only é and … (U+2026) are non-ASCII-safe;
+  avoid em-dash (—) — not in the charmap.
+- Likely NEXT roast targets: the 8 gym TRAINERS' Intro/Defeat/PostBattle (still vanilla
+  in most gyms), Act-II overworld gym leaders 9-16, E4/Champion post-battle lines.
