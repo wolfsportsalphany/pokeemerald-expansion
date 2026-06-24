@@ -1758,3 +1758,45 @@ SootopolisCity_Text_SAGDragoniteGot:
 
 SootopolisCity_Text_SAGDragoniteDone:
 	.string "That Dragonite never misses\na delivery.$"
+
+SootopolisCity_EventScript_SAGASH::
+	trainerbattle_single TRAINER_ROXANNE_3, SootopolisCity_Text_SAGASHIntro, SootopolisCity_Text_SAGASHDefeat
+	msgbox SootopolisCity_Text_SAGASHPost, MSGBOX_AUTOCLOSE
+	end
+
+SootopolisCity_Text_SAGASHIntro:
+	.string "ASH of the island!\nLet's battle!$"
+
+SootopolisCity_Text_SAGASHDefeat:
+	.string "Whoa! You're strong!$"
+
+SootopolisCity_Text_SAGASHPost:
+	.string "Mewtwo's waiting for you.$"
+
+SootopolisCity_EventScript_SAGMISTY::
+	trainerbattle_single TRAINER_BRAWLY_3, SootopolisCity_Text_SAGMISTYIntro, SootopolisCity_Text_SAGMISTYDefeat
+	msgbox SootopolisCity_Text_SAGMISTYPost, MSGBOX_AUTOCLOSE
+	end
+
+SootopolisCity_Text_SAGMISTYIntro:
+	.string "MISTY of the island!\nLet's battle!$"
+
+SootopolisCity_Text_SAGMISTYDefeat:
+	.string "Whoa! You're strong!$"
+
+SootopolisCity_Text_SAGMISTYPost:
+	.string "Mewtwo's waiting for you.$"
+
+SootopolisCity_EventScript_SAGBROCK::
+	trainerbattle_single TRAINER_WATTSON_3, SootopolisCity_Text_SAGBROCKIntro, SootopolisCity_Text_SAGBROCKDefeat
+	msgbox SootopolisCity_Text_SAGBROCKPost, MSGBOX_AUTOCLOSE
+	end
+
+SootopolisCity_Text_SAGBROCKIntro:
+	.string "BROCK of the island!\nLet's battle!$"
+
+SootopolisCity_Text_SAGBROCKDefeat:
+	.string "Whoa! You're strong!$"
+
+SootopolisCity_Text_SAGBROCKPost:
+	.string "Mewtwo's waiting for you.$"
