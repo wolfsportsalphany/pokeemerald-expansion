@@ -137,12 +137,13 @@ FortreeCity_Gym_EventScript_GymStatue::
 FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "FORTREE GYM LEADER WINONA is\n"
-	.string "a master of FLYING-type POKéMON.\p"
-	.string "She's waiting at the back of this GYM,\n"
+	.string "THE DEAN presides over this GYM with\n"
+	.string "STEEL-type POKéMON. Cold, and\l"
+	.string "strictly by the book.\p"
+	.string "She's at the back of this GYM,\n"
 	.string "behind the rotating doors.\p"
-	.string "She's waiting for new challengers\n"
-	.string "who are trying to take wing!\p"
+	.string "FIRE, FIGHTING, or GROUND moves are\n"
+	.string "the precedent she can't overrule.\p"
 	.string "Okay, go for it!$"
 
 FortreeCity_Gym_Text_GymGuidePostVictory:

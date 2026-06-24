@@ -259,12 +259,13 @@ MauvilleCity_Gym_EventScript_GymStatue::
 MauvilleCity_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "WATTSON, the LEADER of MAUVILLE\n"
-	.string "GYM, uses ELECTRIC-type POKéMON.\p"
-	.string "If you challenge him with WATER-type\n"
-	.string "POKéMON, he'll zap them! Bzzt!\p"
-	.string "And, he's put in switch-controlled\n"
-	.string "doors all over his GYM! Eccentric!\p"
+	.string "RANDALL holds this GYM down with\n"
+	.string "FIGHTING-type POKéMON. All muscle,\l"
+	.string "no manners.\p"
+	.string "FLYING, PSYCHIC, or FAIRY moves will\n"
+	.string "take the swing right out of him.\p"
+	.string "And watch out--he's wired the place\n"
+	.string "with switch-controlled doors!\p"
 	.string "Hey, go for it!$"
 
 MauvilleCity_Gym_Text_GymGuidePostVictory:

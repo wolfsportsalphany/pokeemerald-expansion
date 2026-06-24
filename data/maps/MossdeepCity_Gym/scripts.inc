@@ -372,15 +372,14 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 MossdeepCity_Gym_Text_GymGuideAdvice:
 	.string "Yo, how's it going, CHAMPION-bound\n"
 	.string "{PLAYER}?\p"
-	.string "The GYM LEADERS here use\n"
-	.string "PSYCHIC-type POKéMON.\p"
-	.string "If you go up against them with\n"
-	.string "FIGHTING- or POISON-type POKéMON,\l"
-	.string "they'll inflict horrible damage!\p"
-	.string "Plus, they'll come at you with\n"
-	.string "outstanding combination attacks.\p"
-	.string "If you want to win, you'll need to show\n"
-	.string "them how tight you are with your\l"
+	.string "Don't let the sweet act fool you.\n"
+	.string "GRANDMA runs this GYM on FAIRY-type\l"
+	.string "POKéMON, and she fights two at once.\p"
+	.string "POISON or STEEL moves are how you\n"
+	.string "tell Grandma no.\p"
+	.string "Bring a partner and watch for her\n"
+	.string "combination attacks.\p"
+	.string "Show her how tight you are with your\n"
 	.string "POKéMON. Go for it!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
