@@ -159,3 +159,15 @@ FortreeCity_EventScript_SAGLaw::
 	end
 FortreeCity_Text_SAGLaw:
 	.string "Brooklyn Law.\nGym 6: The Dean.$"
+
+FortreeCity_EventScript_SAGBarista::
+	msgbox FortreeCity_Text_SAGBarista, MSGBOX_NPC
+	end
+FortreeCity_Text_SAGBarista:
+	.string "Oat-milk cortado, nine bucks.\nWorth it, honestly.$"
+
+FortreeCity_EventScript_SAGMural::
+	msgbox FortreeCity_Text_SAGMural, MSGBOX_NPC
+	end
+FortreeCity_Text_SAGMural:
+	.string "Every wall in Williamsburg\nis somebody's mural.$"

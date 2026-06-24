@@ -426,3 +426,15 @@ MossdeepCity_Text_SootopolisNewGymLeader:
 	.string "People tell me the new LEADER once\n"
 	.string "mentored WALLACE.$"
 
+
+MossdeepCity_EventScript_SAGBlock::
+	msgbox MossdeepCity_Text_SAGBlock, MSGBOX_NPC
+	end
+MossdeepCity_Text_SAGBlock:
+	.string "Grandma runs this block.\nBe polite or be sorry.$"
+
+MossdeepCity_EventScript_SAGFeed::
+	msgbox MossdeepCity_Text_SAGFeed, MSGBOX_NPC
+	end
+MossdeepCity_Text_SAGFeed:
+	.string "She'll feed you, then\nsweep your whole team.$"
