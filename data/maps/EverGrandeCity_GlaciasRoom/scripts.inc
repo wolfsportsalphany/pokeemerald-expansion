@@ -65,7 +65,9 @@ EverGrandeCity_GlaciasRoom_Text_Defeat:
 	.string "My baby.\n...Okay. Go get your brother.$"
 
 EverGrandeCity_GlaciasRoom_Text_PostBattleSpeech:
-	.string "Advance to the next room.\p"
-	.string "And there, confirm the truly fearsome\n"
-	.string "side of the POKéMON LEAGUE.$"
+	.string "My baby beat me. I'm allowed to\n"
+	.string "cry a little, aren't I?\p"
+	.string "Steven's in the next room, then\n"
+	.string "your brother at the very top.\p"
+	.string "Make this family proud, sweetheart.$"
 
