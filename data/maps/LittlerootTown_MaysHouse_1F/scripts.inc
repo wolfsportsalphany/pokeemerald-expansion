@@ -24,7 +24,7 @@ LittlerootTown_MaysHouse_1F_EventScript_ToFloor28::
 
 LittlerootTown_MaysHouse_1F_EventScript_ToFloor11::
 	closemessage
-	warp MAP_OLDALE_TOWN_HOUSE2, 5, 5
+	warp MAP_OLDALE_TOWN_HOUSE2, 5, 6
 	waitstate
 	end
 
