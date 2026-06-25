@@ -1,15 +1,47 @@
 LittlerootTown_BrendansHouse_2F_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, LittlerootTown_BrendansHouse_2F_OnTransition
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, LittlerootTown_BrendansHouse_2F_OnWarp
+	map_script MAP_SCRIPT_ON_FRAME_TABLE, LittlerootTown_BrendansHouse_2F_OnFrame
 	.byte 0
 
 LittlerootTown_BrendansHouse_2F_OnTransition:
+	call LittlerootTown_BrendansHouse_2F_EventScript_CheckSAGBirthday
 	call_if_lt VAR_LITTLEROOT_RIVAL_STATE, 2, LittlerootTown_BrendansHouse_2F_EventScript_CheckSetReadyToMeetBrendan
 	call_if_ge VAR_LITTLEROOT_RIVAL_STATE, 3, LittlerootTown_BrendansHouse_2F_EventScript_CheckShouldUpdateBrendanPos
 	call_if_eq VAR_LITTLEROOT_INTRO_STATE, 4, PlayersHouse_2F_EventScript_BlockStairsUntilClockIsSet
 	call SecretBase_EventScript_SetDecorationFlags
 	setvar VAR_SECRET_BASE_INITIALIZED, 0
 	end
+
+LittlerootTown_BrendansHouse_2F_OnFrame:
+	map_script_2 VAR_TEMP_1, 1, LittlerootTown_BrendansHouse_2F_EventScript_SAGBirthday
+	.2byte 0
+
+LittlerootTown_BrendansHouse_2F_EventScript_CheckSAGBirthday::
+	goto_if_unset FLAG_SYS_GAME_CLEAR, LittlerootTown_BrendansHouse_2F_EventScript_Ret
+	goto_if_set FLAG_UNUSED_0x024, LittlerootTown_BrendansHouse_2F_EventScript_Ret
+	setvar VAR_TEMP_1, 1
+	return
+
+LittlerootTown_BrendansHouse_2F_EventScript_SAGBirthday::
+	lockall
+	delay 30
+	msgbox LittlerootTown_BrendansHouse_2F_Text_SAGBirthday, MSGBOX_DEFAULT
+	setflag FLAG_UNUSED_0x024
+	setvar VAR_TEMP_1, 0
+	releaseall
+	end
+
+LittlerootTown_BrendansHouse_2F_Text_SAGBirthday:
+	.string "{PLAYER} woke up.\p"
+	.string "Sixteen badges. The Elite Four.\n"
+	.string "Even Jared, knocked off the top.\p"
+	.string "It started with one Eevee and a\n"
+	.string "dare from your big brother.\p"
+	.string "Now the whole city knows the name\n"
+	.string "{PLAYER} GAER.\p"
+	.string "Happy birthday, Shane.\n"
+	.string "Love, Jared.$"
 
 LittlerootTown_BrendansHouse_2F_EventScript_CheckShouldUpdateBrendanPos::
 	goto_if_set FLAG_MET_RIVAL_LILYCOVE, LittlerootTown_BrendansHouse_2F_EventScript_TryUpdateBrendanPos
