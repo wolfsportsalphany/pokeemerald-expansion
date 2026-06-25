@@ -180,11 +180,13 @@ static void SAG_GiveStartingLoadout(void)
     for (i = ITEM_TM01; i <= ITEM_HM08; i++)
         AddBagItem((enum Item)i, 1);
 
-    // SAG: Shane's starting party + enable the POKeMON menu (Birch starter scene is skipped)
-    ScriptGiveMon(SPECIES_EEVEE, 16, ITEM_NONE);
+    // SAG: Shane's starting party. EEVEE is NOT given here -- Jared gifts it on Floor 11.
     ScriptGiveMon(SPECIES_GASTLY, 16, ITEM_NONE);
     ScriptGiveMon(SPECIES_MANKEY, 16, ITEM_NONE);
     FlagSet(FLAG_SYS_POKEMON_GET);
+    // SAG: Shane starts with a working POKeDEX
+    FlagSet(FLAG_SYS_POKEDEX_GET);
+    FlagSet(FLAG_SYS_NATIONAL_DEX);
 }
 
 static const u8 sSagPlayerName[] = _("SHANE");
