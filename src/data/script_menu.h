@@ -1127,6 +1127,16 @@ static const struct MenuAction MultichoiceList_Exit[] =
     {gText_Exit},
 };
 
+static const u8 sText_SagFloor28[] = _("Floor 28");
+static const u8 sText_SagFloor11[] = _("Floor 11");
+static const u8 sText_SagLobby[] = _("Lobby");
+static const struct MenuAction MultichoiceList_SagFloors[] =
+{
+    {sText_SagFloor28},
+    {sText_SagFloor11},
+    {sText_SagLobby},
+};
+
 struct MultichoiceListStruct
 {
     const struct MenuAction *list;
@@ -1136,6 +1146,7 @@ struct MultichoiceListStruct
 static const struct MultichoiceListStruct sMultichoiceLists[] =
 {
     [MULTI_BRINEY_ON_DEWFORD]          = MULTICHOICE(MultichoiceList_BrineyOnDewford),
+    [MULTI_SAG_FLOORS]                 = MULTICHOICE(MultichoiceList_SagFloors),
     [MULTI_PC]                         = MULTICHOICE(MultichoiceList_Exit),
     [MULTI_ENTERINFO]                  = MULTICHOICE(MultichoiceList_EnterInfo),
     [MULTI_CONTEST_INFO]               = MULTICHOICE(MultichoiceList_ContestInfo),
