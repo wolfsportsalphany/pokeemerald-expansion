@@ -17,13 +17,13 @@ OldaleTown_House1_EventScript_Elevator::
 
 OldaleTown_House1_EventScript_ToFloor11::
 	closemessage
-	warp MAP_OLDALE_TOWN_HOUSE2, 5, 5
+	warp MAP_OLDALE_TOWN_HOUSE2, 5, 6
 	waitstate
 	end
 
 OldaleTown_House1_EventScript_ToLobby::
 	closemessage
-	warp MAP_LITTLEROOT_TOWN_MAYS_HOUSE_1F, 5, 6
+	warp MAP_LITTLEROOT_TOWN_MAYS_HOUSE_1F, 7, 5
 	waitstate
 	end
 
