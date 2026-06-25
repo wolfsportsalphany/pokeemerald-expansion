@@ -215,3 +215,23 @@ Altorelli's gym = MAP_RUSTBORO_CITY_GYM, entered from OldaleTown (Times Square) 
 exterior map for the lawfirm block -- none exists orphaned-and-empty (only full FRLG towns),
 so this needs a freshly authored small exterior (hardest headless task). Recommend doing it
 AFTER the v0.59 building coordinates are playtest-confirmed (same render-guess method).
+
+## HARD LESSON @ v0.61->v0.62 (map-reuse entanglement, round 2)
+Reusing MaysHouse_1F as the apartment LOBBY: blanking its scripts.inc broke the build.
+**A map's scripts.inc can DEFINE shared symbols of OTHER prefixes.** MaysHouse_1F/scripts.inc
+defines `RivalsHouse_1F_*` and `PlayersHouse_1F_*` scripts/texts that `BrendansHouse_1F`
+references -> blanking it = `undefined reference` link errors.
+- BEFORE blanking/clearing a reused map's scripts.inc, grep what it DEFINES across ALL
+  prefixes (not just `<ThisMap>_`), and check external refs to each. Safer: KEEP the file,
+  set its `MapScripts:: .byte 0` to neutralize map_scripts, and APPEND your new scripts.
+- Orphan-check (0 warp dest-refs) is necessary but NOT sufficient -- also check symbol refs.
+
+## APARTMENT BUILDING (v0.61/v0.62) -- structure for future edits
+- Hudson Yards door (4,11) -> LOBBY (reused MaysHouse_1F). Lobby warps: 0/1 = (1,8)/(2,8) door
+  -> Hudson; 2 = (2,2) stairs -> Floor 28.
+- Floor 28 = OldaleTown_House1 (Shane, SPAWN at 5,6). Floor 11 = OldaleTown_House2 (Jared, now
+  OBJ_EVENT_GFX_RED). Each floor + the lobby has an Elevator NPC using the custom
+  `MULTI_SAG_FLOORS` multichoice (Floor 28 / Floor 11 / Lobby) -- defined in
+  include/constants/script_menu.h + src/data/script_menu.h.
+- Apartment doors -> Lobby (dest 2). Mart (reused OldaleTown_Mart) entered from Hudson (15,5)/(16,5).
+- ALL these interior coordinates are render-guesses; PLAYTEST and tweak.
