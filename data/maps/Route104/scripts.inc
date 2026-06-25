@@ -1085,7 +1085,7 @@ Route104_Text_MayWeShouldRegister:
 	.string "can get in contact anytime.$"
 
 Route104_Text_RegisteredMay:
-	.string "{PLAYER} registered MAY\n"
+	.string "{PLAYER} registered JUSTIN\n"
 	.string "in the POKéNAV.$"
 
 Route104_Text_MayHowsYourPokedex:
@@ -1131,7 +1131,7 @@ Route104_Text_BrendanWeShouldRegister:
 	.string "POKéNAVS so we can keep in touch.$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} registered BRENDAN\n"
+	.string "{PLAYER} registered JUSTIN\n"
 	.string "in the POKéNAV.$"
 
 Route104_Text_BrendanHowsYourPokedex:
