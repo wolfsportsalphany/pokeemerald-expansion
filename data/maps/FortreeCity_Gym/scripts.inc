@@ -152,8 +152,8 @@ FortreeCity_Gym_Text_GymGuidePostVictory:
 	.string "favor -- case closed!$"
 
 FortreeCity_Gym_Text_JaredIntro:
-	.string "Behold the elegant battle style of\n"
-	.string "BIRD POKéMON!$"
+	.string "Behold the airtight battle style\n"
+	.string "of STEEL POKéMON!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
 	.string "You…\n"
@@ -166,9 +166,9 @@ FortreeCity_Gym_Text_JaredPostBattle:
 	.string "our LEADER?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-	.string "The lovers of BIRD POKéMON aspire\n"
-	.string "to join this GYM.\p"
-	.string "As a member of the FORTREE GYM,\n"
+	.string "Devotees of STEEL POKéMON aspire\n"
+	.string "to clerk at this GYM.\p"
+	.string "As one of THE DEAN's own,\n"
 	.string "I'm not allowed to lose!$"
 
 FortreeCity_Gym_Text_EdwardoDefeat:
@@ -182,35 +182,35 @@ FortreeCity_Gym_Text_EdwardoPostBattle:
 	.string "myself even stronger.$"
 
 FortreeCity_Gym_Text_FlintIntro:
-	.string "There's no need for WINONA, our GYM\n"
-	.string "LEADER, to deal with you!\p"
+	.string "There's no need for THE DEAN to\n"
+	.string "deal with you!\p"
 	.string "I'm plenty good enough for you!$"
 
 FortreeCity_Gym_Text_FlintDefeat:
-	.string "WINONA, I…\n"
+	.string "THE DEAN, I…\n"
 	.string "I lost!$"
 
 FortreeCity_Gym_Text_FlintPostBattle:
-	.string "WINONA is cute and she's strong.\n"
-	.string "She's the ultimate LEADER!\p"
-	.string "Blush…$"
+	.string "THE DEAN is sharp and she's\n"
+	.string "strong. The ultimate LEADER!\p"
+	.string "Ahem…$"
 
 FortreeCity_Gym_Text_AshleyIntro:
-	.string "WINONA taught me personally!\n"
+	.string "THE DEAN taught me personally!\n"
 	.string "You can't beat me easily!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
 	.string "I was beaten…$"
 
 FortreeCity_Gym_Text_AshleyPostBattle:
-	.string "Thanks to WINONA, the people of\n"
-	.string "FORTREE can live without fear.$"
+	.string "Thanks to THE DEAN, this whole\n"
+	.string "borough runs by the book.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-	.string "When WINONA takes to battle, her face\n"
-	.string "shines with beautiful determination…\p"
+	.string "When THE DEAN takes the bench, she\n"
+	.string "is all cold, sharp focus…\p"
 	.string "I'm not letting you witness that\n"
-	.string "lovely sight!$"
+	.string "in action!$"
 
 FortreeCity_Gym_Text_HumbertoDefeat:
 	.string "Urk!\n"
@@ -218,12 +218,12 @@ FortreeCity_Gym_Text_HumbertoDefeat:
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
 	.string "You'd better watch it!\n"
-	.string "Don't get distracted staring at WINONA\l"
+	.string "Don't get distracted gawking at THE DEAN\l"
 	.string "or you'll go crashing down in a heap!$"
 
 FortreeCity_Gym_Text_DariusIntro:
-	.string "You'd better know that there are all\n"
-	.string "sorts of FLYING-type POKéMON.\p"
+	.string "You'd better know there are all\n"
+	.string "sorts of STEEL-type POKéMON.\p"
 	.string "You do know that, right?$"
 
 FortreeCity_Gym_Text_DariusDefeat:
@@ -232,7 +232,7 @@ FortreeCity_Gym_Text_DariusDefeat:
 FortreeCity_Gym_Text_DariusPostBattle:
 	.string "Sure, you beat me all right.\n"
 	.string "But you'd better watch it! Our LEADER\l"
-	.string "WINONA's POKéMON are all business.$"
+	.string "THE DEAN's POKéMON are all business.$"
 
 FortreeCity_Gym_Text_WinonaIntro:
 	.string "The letter of the law, enforced.\pYou will not pass.\nObjection overruled.$"

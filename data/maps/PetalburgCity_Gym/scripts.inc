@@ -1409,17 +1409,17 @@ PetalburgCity_Gym_Text_BerkeDefeat:
 	.string "You're the real deal.$"
 
 PetalburgCity_Gym_Text_BerkePostBattle:
-	.string "Your father really is strong.\n"
-	.string "He's a TRAINER worth my respect.\p"
-	.string "And, I sense the same glow coming\n"
-	.string "from you as your father.\p"
-	.string "I hope that you'll stage a terrific\n"
-	.string "battle with your father!$"
+	.string "JUDGE really is the real deal.\n"
+	.string "A TRAINER worth my respect.\p"
+	.string "And I sense that same fire\n"
+	.string "coming off you.\p"
+	.string "I hope you give the LEADER\n"
+	.string "a terrific battle!$"
 
 PetalburgCity_Gym_Text_BerkePostBadge:
-	.string "Since your dad became the LEADER,\n"
-	.string "the TRAINERS of PETALBURG CITY have\l"
-	.string "become a lot tougher.$"
+	.string "Since JUDGE took over this GYM,\n"
+	.string "we TRAINERS have all had to\l"
+	.string "step up our game.$"
 
 PetalburgCity_Gym_Text_MaryIntro:
 	.string "Giggle…\n"
@@ -1475,9 +1475,9 @@ PetalburgCity_Gym_Text_JodyDefeat:
 
 PetalburgCity_Gym_Text_JodyPostBattle:
 	.string "The way you use your POKéMON…\n"
-	.string "It's like your father's style.\p"
-	.string "Go on through! The GYM LEADER, your\n"
-	.string "father, is waiting!$"
+	.string "It's got real polish.\p"
+	.string "Go on through! JUDGE, the GYM\n"
+	.string "LEADER, is waiting!$"
 
 PetalburgCity_Gym_Text_JodyPostBadge:
 	.string "Sure, it's fine to make your POKéMON\n"
