@@ -240,7 +240,7 @@ SootopolisCity_Gym_1F_Text_JuanPostBattle:
 
 SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
 	.string "There remains but one BADGE to\n"
-	.string "obtain in HOENN.\p"
+	.string "obtain in NEW YORK.\p"
 	.string "If you wish to challenge the POKéMON\n"
 	.string "LEAGUE, you must obtain the last\l"
 	.string "BADGE from the GYM in WILLIAMSBURG.$"
