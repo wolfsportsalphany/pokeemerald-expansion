@@ -4,18 +4,33 @@ OldaleTown_House2_MapScripts::
 OldaleTown_House2_EventScript_Elevator::
 	lock
 	faceplayer
-	msgbox OldaleTown_House2_Text_Elevator, MSGBOX_YESNO
-	goto_if_eq VAR_RESULT, NO, OldaleTown_House2_EventScript_ElevatorStay
-	closemessage
-	warp MAP_OLDALE_TOWN_HOUSE1, 4, 7
-	waitstate
-	end
-
-OldaleTown_House2_EventScript_ElevatorStay::
+	message OldaleTown_House2_Text_WhichFloor
+	waitmessage
+	multichoice 0, 0, MULTI_SAG_FLOORS, FALSE
+	switch VAR_RESULT
+	case 0, OldaleTown_House2_EventScript_ToFloor28
+	case 1, OldaleTown_House2_EventScript_Stay
+	case 2, OldaleTown_House2_EventScript_ToLobby
+	case MULTI_B_PRESSED, OldaleTown_House2_EventScript_Stay
 	release
 	end
 
-OldaleTown_House2_Text_Elevator:
-	.string "Floor, Mr. Gaer?\p"
-	.string "Take the elevator up to your place\n"
-	.string "on Floor 28?$"
+OldaleTown_House2_EventScript_ToFloor28::
+	closemessage
+	warp MAP_OLDALE_TOWN_HOUSE1, 5, 6
+	waitstate
+	end
+
+OldaleTown_House2_EventScript_ToLobby::
+	closemessage
+	warp MAP_LITTLEROOT_TOWN_MAYS_HOUSE_1F, 5, 6
+	waitstate
+	end
+
+OldaleTown_House2_EventScript_Stay::
+	closemessage
+	release
+	end
+
+OldaleTown_House2_Text_WhichFloor:
+	.string "Which floor, Mr. Gaer?$"
