@@ -1,3 +1,7 @@
+> **CANONICAL SOURCE OF TRUTH: `SAG_BIRTHDAY_PLAN.md`** (the full 1,300-line bible: world,
+> geography, all 16 gyms + leaders, the Mewtwo's Island arc, the full cast & personas, the rival
+> arc, the Elite Four). READ IT FIRST. This file is a thin geo/art supplement, not the cast list.
+
 # SAG — Design Spec (geo-accurate NYC world + name representations)
 
 Living design doc. Captures research-backed decisions so the game can be cleaned up
