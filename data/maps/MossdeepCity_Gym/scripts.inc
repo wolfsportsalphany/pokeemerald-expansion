@@ -595,12 +595,12 @@ MossdeepCity_Gym_Text_TateAndLizaPostBattle:
 	.string "run off… and call more often!$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: Oops, you have only one…\n"
-	.string "LIZA: POKéMON that can battle.\p"
-	.string "TATE: We can't battle that way!\p"
-	.string "LIZA: If you want to challenge us,\n"
+	.string "JESSE: Hehehe… Were you surprised?\p"
+	.string "JESSE: That there are two GYM LEADERS?\p"
+	.string "JESSE: Oops, you have only one…\n"
+	.string "JESSE: POKéMON that can battle.\p"
+	.string "JESSE: We can't battle that way!\p"
+	.string "JESSE: If you want to challenge us,\n"
 	.string "bring some more POKéMON.$"
 
 MossdeepCity_Gym_Text_GymStatue:
@@ -628,13 +628,13 @@ MossdeepCity_Gym_Text_TateAndLizaPostRematch:
 	.string "you're all skin and bones!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons:
-	.string "TATE: You're back again…\n"
-	.string "LIZA: You're back again…\p"
-	.string "TATE: To give us a rematch.\n"
-	.string "LIZA: To give us a rematch.\p"
-	.string "TATE: But…\n"
-	.string "LIZA: For our match…\p"
-	.string "TATE: You brought just one POKéMON!\n"
-	.string "LIZA: You brought just one POKéMON!\p"
-	.string "TATE: We need you to bring at least…\n"
-	.string "LIZA: Two POKéMON when you come back.$"
+	.string "JESSE: You're back again…\n"
+	.string "JESSE: You're back again…\p"
+	.string "JESSE: To give us a rematch.\n"
+	.string "JESSE: To give us a rematch.\p"
+	.string "JESSE: But…\n"
+	.string "JESSE: For our match…\p"
+	.string "JESSE: You brought just one POKéMON!\n"
+	.string "JESSE: You brought just one POKéMON!\p"
+	.string "JESSE: We need you to bring at least…\n"
+	.string "JESSE: Two POKéMON when you come back.$"
