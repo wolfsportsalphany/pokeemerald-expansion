@@ -557,11 +557,11 @@ MossdeepCity_Gym_Text_TateAndLizaDefeat:
 	.string "Hee hee. Knew you had it in you.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
-	.string "{PLAYER} received the MIND BADGE\n"
+	.string "{PLAYER} received the FAMILY BADGE\n"
 	.string "from GRANDMA.$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
-	.string "GRANDMA: The MIND BADGE bumps your\n"
+	.string "GRANDMA: The FAMILY BADGE bumps your\n"
 	.string "POKéMON's SP. ATK and SP. DEF.\p"
 	.string "It also lets you use the HM move\n"
 	.string "DIVE outside of battle.\p"
