@@ -384,11 +384,11 @@ DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "Detention, all of you!\p...Fine. You pass.$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
+	.string "{PLAYER} received the SCHOLAR BADGE\n"
 	.string "from SOKOTCH.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
-	.string "The KNUCKLE BADGE makes all POKéMON\n"
+	.string "The SCHOLAR BADGE makes all POKéMON\n"
 	.string "up to Level 30, even those you get in\l"
 	.string "trades, obey without question.\p"
 	.string "And, you'll be able to use the HM move\n"

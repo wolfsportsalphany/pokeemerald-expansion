@@ -241,11 +241,11 @@ FortreeCity_Gym_Text_WinonaDefeat:
 	.string "...Motion granted. Barely.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "{PLAYER} received the FEATHER BADGE\n"
+	.string "{PLAYER} received the VERDICT BADGE\n"
 	.string "from THE DEAN.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "With the FEATHER BADGE, all POKéMON up\n"
+	.string "With the VERDICT BADGE, all POKéMON up\n"
 	.string "to LV 70, even those received through\l"
 	.string "trades, will obey your every command.\p"
 	.string "You will also be able to use\n"

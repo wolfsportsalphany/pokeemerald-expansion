@@ -1259,7 +1259,7 @@ PetalburgCity_Gym_Text_NormanDefeat:
 	.string "...Tape-measure shot, kid.$"
 
 PetalburgCity_Gym_Text_ReceivedBalanceBadge:
-	.string "{PLAYER} received the BALANCE BADGE\n"
+	.string "{PLAYER} received the SLUGGER BADGE\n"
 	.string "from JUDGE!$"
 
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
