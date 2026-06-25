@@ -283,3 +283,19 @@ Master cast/world is now fully SAG-themed in all visible dialogue:
 3. Theme the minor NPCs (Stern/Briney/Birch/Gabby/Ty) or leave them?
 ### ART-BLOCKED (needs a pixel artist)
 - Jesse's Black old-woman sprite/battle pic; the NYC-shaped region-map image; custom leader sprites.
+
+## SESSION (cont.) v0.74 -> v0.76 + QA
+- v0.74: Hudson Mart customers NYC voice + last "SLATEPORT CITY" string -> IMG ACADEMY.
+- v0.75: **elevator-arrival bug fix** -- Fl11 arrival (5,5) was ON the dining table,
+  Lobby arrival (5,6) on the rug; moved to open floor. (Caught via render QA.)
+- v0.76: **region name HOENN -> NEW YORK** (39 dialogue + 4 Pokedex labels).
+- QA VERIFIED enterable (collision/door-behavior 0x69/0x60): Hudson Mart door (15,5),
+  Sidley Austin Gym 1 (1,11), apartment lobby/Fl28/Fl11. Gym GUIDES already name the
+  right SAG leader + type (Altorelli=Dark, Judge=Flying, etc.).
+
+### REMAINING stock refs that need a Jared call (context-dependent / not in the bible cast)
+- **KANTO** (15) -- NPCs "I came from KANTO" + link-trade UI. Map to a SAG place or leave?
+- **Hoenn landmarks**: SAFARI ZONE(32), MT. CHIMNEY(19), VICTORY ROAD(11), EVER GRANDE(4),
+  + legendary-arc places (Sky Pillar/Meteor Falls/Seafloor Cavern) that are vestigial
+  (replaced by Mewtwo's Island). Need SAG names (Safari->Central Park? Ever Grande->the
+  League? etc.) or leave the vestigial ones.
