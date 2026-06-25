@@ -558,26 +558,24 @@ MossdeepCity_Gym_Text_TateAndLizaDefeat:
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
 	.string "{PLAYER} received the MIND BADGE\n"
-	.string "from TATE and LIZA.$"
+	.string "from GRANDMA.$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
-	.string "TATE: The MIND BADGE enhances the\n"
-	.string "SP. ATK and SP. DEF of POKéMON.\p"
-	.string "LIZA: It also lets you use the HM move\n"
+	.string "GRANDMA: The MIND BADGE bumps your\n"
+	.string "POKéMON's SP. ATK and SP. DEF.\p"
+	.string "It also lets you use the HM move\n"
 	.string "DIVE outside of battle.\p"
-	.string "TATE: You should also take this, too.$"
+	.string "Here, sweetie, take this too.$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "TATE: That TM04 contains…\n"
-	.string "LIZA: CALM MIND!\p"
-	.string "TATE: It raises SP. ATK and…\n"
-	.string "LIZA: It raises SP. DEF!\p"
-	.string "TATE: It's a move that's perfect…\n"
-	.string "LIZA: For PSYCHIC POKéMON!\p"
-	.string "… … … … … …$"
+	.string "GRANDMA: That TM04 there?\p"
+	.string "It's CALM MIND. Raises SP. ATK\n"
+	.string "and SP. DEF both.\p"
+	.string "Perfect for my kind of POKéMON.\n"
+	.string "Now off you go, sweetie.$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
-	.string "Registered GYM LEADERS TATE & LIZA\n"
+	.string "Registered GYM LEADER GRANDMA\n"
 	.string "in the POKéNAV.$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
