@@ -4,7 +4,7 @@
   "layout": "LAYOUT_MART",
   "music": "MUS_POKE_MART",
   "region": "REGION_HOENN",
-  "region_map_section": "MAPSEC_OLDALE_TOWN",
+  "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
   "map_type": "MAP_TYPE_INDOOR",
@@ -61,15 +61,15 @@
       "x": 3,
       "y": 7,
       "elevation": 0,
-      "dest_map": "MAP_OLDALE_TOWN",
-      "dest_warp_id": "3"
+      "dest_map": "MAP_LITTLEROOT_TOWN",
+      "dest_warp_id": "1"
     },
     {
       "x": 4,
       "y": 7,
       "elevation": 0,
-      "dest_map": "MAP_OLDALE_TOWN",
-      "dest_warp_id": "3"
+      "dest_map": "MAP_LITTLEROOT_TOWN",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],
