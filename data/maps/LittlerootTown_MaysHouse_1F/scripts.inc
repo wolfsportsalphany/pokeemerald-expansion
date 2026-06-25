@@ -53,20 +53,24 @@ LittlerootTown_MaysHouse_1F_Text_WhichFloor:
 	.string "Which floor, Mr. Gaer?$"
 
 LittlerootTown_MaysHouse_1F_Text_Doorman1:
-	.string "JON: Evening, Mr. Gaer.\n"
+	.string "JON: Forty years on this\n"
+	.string "door. Seen it all, kid.\p"
 	.string "Your brother's up on 11.$"
 
 LittlerootTown_MaysHouse_1F_Text_Doorman2:
-	.string "TROI: Welcome home. Elevator's\n"
-	.string "right there -- 28 is your floor.$"
+	.string "TROI: Mr. Gaer! How's the\n"
+	.string "family? You eating enough?\p"
+	.string "Go on, 28's all yours.$"
 
 LittlerootTown_MaysHouse_1F_Text_Doorman3:
-	.string "ROBERT: Lobby's quiet tonight,\n"
-	.string "Mr. Gaer. Go win some gyms.$"
+	.string "ROBERT: Evening, sir.\n"
+	.string "Per building policy: your\l"
+	.string "brother resides on 11.$"
 
 LittlerootTown_MaysHouse_1F_Text_Doorman4:
-	.string "JOSE: Anything you need, sir,\n"
-	.string "you just holler. Name's JOSE.$"
+	.string "JOSE: Yo, Mr. G. Word of\n"
+	.string "advice -- never take the\l"
+	.string "stairs to 28. Trust me.$"
 @ --- vanilla intro scripts below are kept (define shared RivalsHouse/PlayersHouse symbols) ---
 
 LittlerootTown_MaysHouse_1F_OnLoad:
