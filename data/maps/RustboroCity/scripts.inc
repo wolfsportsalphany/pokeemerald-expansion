@@ -1031,9 +1031,9 @@ RustboroCity_Text_HaveYouChallengedGym:
 	.string "realize what is required of them.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's RUSTBORO's GYM BADGE!\p"
+	.string "Hey, that's MIDTOWN's GYM BADGE!\p"
 	.string "Out of all the POKéMON GYM BADGES,\n"
-	.string "RUSTBORO's is the coolest, I'd say.$"
+	.string "MIDTOWN's is the coolest, I'd say.$"
 
 RustboroCity_Text_YoureNewAroundHere:
 	.string "Oh? Who might you be?\n"
@@ -1058,7 +1058,7 @@ RustboroCity_Text_MrBrineyLovesPeeko:
 	.string "The old sailor MR. BRINEY lives in\n"
 	.string "a cottage by the sea.\p"
 	.string "He said he was going shopping in\n"
-	.string "SLATEPORT for his pet, PEEKO.\p"
+	.string "IMG ACADEMY for his pet, PEEKO.\p"
 	.string "That old sea dog, he must really love\n"
 	.string "that PEEKO.$"
 
@@ -1098,7 +1098,7 @@ RustboroCity_Text_WaitDontTakeMyGoods:
 RustboroCity_Text_HelpMeIWasRobbed:
 	.string "Oh, it's you!\p"
 	.string "You're that fantastic TRAINER who\n"
-	.string "helped me in PETALBURG WOODS!\p"
+	.string "helped me in THE RAMBLE!\p"
 	.string "Help me! I was robbed by TEAM ROCKET!\n"
 	.string "I have to get the DEVON GOODS back!\p"
 	.string "If I don't…\n"
@@ -1139,7 +1139,7 @@ RustboroCity_Text_RegisteredMay:
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
 	.string "JUSTIN: Oh, by the way, I passed\n"
-	.string "MR. BRINEY in PETALBURG WOODS.\p"
+	.string "MR. BRINEY in THE RAMBLE.\p"
 	.string "I guess he's on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "How's your POKéDEX coming along,\n"
@@ -1186,7 +1186,7 @@ RustboroCity_Text_RegisteredBrendan:
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "JUSTIN: By the way, {PLAYER}, I walked\n"
-	.string "by MR. BRINEY in PETALBURG WOODS.\p"
+	.string "by MR. BRINEY in THE RAMBLE.\p"
 	.string "I bet he was on his way home to his\n"
 	.string "cottage by the sea.\p"
 	.string "{PLAYER}, how's your POKéDEX?\n"

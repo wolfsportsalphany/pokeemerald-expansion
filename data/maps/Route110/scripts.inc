@@ -743,7 +743,7 @@ Route110_Text_WeCantTalkAboutAquaActivities:
 	.string "We can't talk about them yet.$"
 
 Route110_Text_KickUpARuckus:
-	.string "I want to get going to SLATEPORT and\n"
+	.string "I want to get going to IMG ACADEMY and\n"
 	.string "kick up a ruckus!$"
 
 Route110_Text_MyFirstJobInAqua:
@@ -849,7 +849,7 @@ Route110_Text_BikeTechniques:
 
 Route110_Text_WhichShouldIChoose:
 	.string "Which should I choose?\p"
-	.string "Make a beeline for MAUVILLE on\n"
+	.string "Make a beeline for RANDALLS ISL. on\n"
 	.string "CYCLING ROAD, or take the low road\l"
 	.string "and look for POKéMON?$"
 
@@ -891,8 +891,8 @@ Route110_Text_ChallengeReactionWorst:
 
 Route110_Text_RatedForNumberOfCollisions:
 	.string "This is CYCLING ROAD.\p"
-	.string "If you were to ride from MAUVILLE to\n"
-	.string "SLATEPORT on a MACH BIKE, you would\l"
+	.string "If you were to ride from RANDALLS ISL. to\n"
+	.string "IMG ACADEMY on a MACH BIKE, you would\l"
 	.string "be rated for the number of collisions\l"
 	.string "and your total time.$"
 
@@ -910,7 +910,7 @@ Route110_Text_AcroBikesDoNotQualify:
 
 Route110_Text_SlateportCitySign:
 	.string "ROUTE 110\n"
-	.string "{DOWN_ARROW} SLATEPORT CITY$"
+	.string "{DOWN_ARROW} IMG ACADEMY$"
 
 Route110_Text_CyclingRoadSign:
 	.string "SEASIDE CYCLING ROAD$"
@@ -931,7 +931,7 @@ Route110_Text_SeasideParkingSign:
 
 Route110_Text_MauvilleCitySign:
 	.string "ROUTE 110\n"
-	.string "{UP_ARROW} MAUVILLE CITY$"
+	.string "{UP_ARROW} RANDALLS ISL.$"
 
 Route110_Text_TrainerTipsPrlzSleep:
 	.string "TRAINER TIPS\p"

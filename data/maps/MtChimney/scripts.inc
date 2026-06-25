@@ -686,7 +686,7 @@ MtChimney_Text_ArchieThankYou:
 	.string "GIOVANNI: {PLAYER}!\n"
 	.string "Thank you!\p"
 	.string "With your help, we thwarted TEAM\n"
-	.string "MAGMA's destructive plan!\p"
+	.string "ROCKET's destructive plan!\p"
 	.string "But… You…\n"
 	.string "Whose side are you on?\p"
 	.string "Ah, it doesn't matter.\p"
@@ -751,7 +751,7 @@ MtChimney_Text_MachineMakesNoResponse:
 
 MtChimney_Text_RouteSign:
 	.string "{DOWN_ARROW} JAGGED PATH\n"
-	.string "LAVARIDGE TOWN AHEAD$"
+	.string "RIVERDALE AHEAD$"
 
 MtChimney_Text_ShelbyIntro:
 	.string "I've been to the hot springs and\n"
@@ -833,7 +833,7 @@ MtChimney_Text_SawyerDefeat:
 	.string "Oh, you're a real firebrand, too!$"
 
 MtChimney_Text_SawyerPostBattle:
-	.string "I think I need a dip in LAVARIDGE\n"
+	.string "I think I need a dip in RIVERDALE\n"
 	.string "HOT SPRING with the locals!$"
 
 MtChimney_Text_SawyerRegister:

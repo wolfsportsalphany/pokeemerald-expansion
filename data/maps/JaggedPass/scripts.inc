@@ -218,7 +218,7 @@ JaggedPass_Text_EthanRematchDefeat:
 
 JaggedPass_Text_EthanPostRematch:
 	.string "I should get an ACRO BIKE from RYDEL\n"
-	.string "in MAUVILLE CITY…$"
+	.string "in RANDALLS ISL.…$"
 
 JaggedPass_Text_GruntIntro:
 	.string "Wah!\n"
@@ -239,7 +239,7 @@ JaggedPass_Text_GoWhereverYouWant:
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
 	.string "Oh! This boulder is shaking in response\n"
-	.string "to the MAGMA EMBLEM!$"
+	.string "to the ROCKET EMBLEM!$"
 
 JaggedPass_Text_JulioIntro:
 	.string "Aiyeeh! It's awfully scary to shoot\n"

@@ -212,7 +212,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"
 	.string "ALTORELLI: Oh, hello, {PLAYER}?\n"
-	.string "This is ALTORELLI of RUSTBORO CITY.\p"
+	.string "This is ALTORELLI of MIDTOWN.\p"
 	.string "I heard from SOKOTCH that you're\n"
 	.string "moving up through the ranks of\l"
 	.string "TRAINERS at an incredible clip.\p"
