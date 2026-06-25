@@ -1,20 +1,21 @@
 OldaleTown_House2_MapScripts::
 	.byte 0
 
-OldaleTown_House2_EventScript_Woman::
-	msgbox OldaleTown_House2_Text_PokemonLevelUp, MSGBOX_NPC
+OldaleTown_House2_EventScript_Elevator::
+	lock
+	faceplayer
+	msgbox OldaleTown_House2_Text_Elevator, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, OldaleTown_House2_EventScript_ElevatorStay
+	closemessage
+	warp MAP_OLDALE_TOWN_HOUSE1, 4, 7
+	waitstate
 	end
 
-OldaleTown_House2_EventScript_Man::
-	msgbox OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon, MSGBOX_NPC
+OldaleTown_House2_EventScript_ElevatorStay::
+	release
 	end
 
-OldaleTown_House2_Text_PokemonLevelUp:
-	.string "When POKéMON battle, they eventually\n"
-	.string "level up and become stronger.$"
-
-OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon:
-	.string "If the POKéMON with you become\n"
-	.string "stronger, you'll be able to go farther\l"
-	.string "away from here.$"
-
+OldaleTown_House2_Text_Elevator:
+	.string "Floor, Mr. Gaer?\p"
+	.string "Take the elevator up to your place\n"
+	.string "on Floor 28?$"

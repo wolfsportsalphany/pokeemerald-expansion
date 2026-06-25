@@ -139,7 +139,7 @@ static void WarpToTruck(void)
     if (IS_FRLG)
         SetWarpDestination(MAP_GROUP(MAP_PALLET_TOWN_PLAYERS_HOUSE_2F), MAP_NUM(MAP_PALLET_TOWN_PLAYERS_HOUSE_2F), WARP_ID_NONE, 6, 6);
     else
-        SetWarpDestination(MAP_GROUP(MAP_LITTLEROOT_TOWN), MAP_NUM(MAP_LITTLEROOT_TOWN), WARP_ID_NONE, 13, 14); // SAG: spawn in Hudson Yards
+        SetWarpDestination(MAP_GROUP(MAP_OLDALE_TOWN_HOUSE1), MAP_NUM(MAP_OLDALE_TOWN_HOUSE1), WARP_ID_NONE, 5, 6); // SAG: spawn in Shane's apartment, Floor 28
     WarpIntoMap();
 }
 
