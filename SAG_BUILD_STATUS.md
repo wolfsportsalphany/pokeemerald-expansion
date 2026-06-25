@@ -299,3 +299,14 @@ Master cast/world is now fully SAG-themed in all visible dialogue:
   + legendary-arc places (Sky Pillar/Meteor Falls/Seafloor Cavern) that are vestigial
   (replaced by Mewtwo's Island). Need SAG names (Safari->Central Park? Ever Grande->the
   League? etc.) or leave the vestigial ones.
+
+## v0.77 + location-flavor findings
+- v0.77: **UES (Dewford) island-flavor fixed** -- NPCs no longer call the Upper East Side
+  "a small island" you "cross the sea" to; re-themed to brownstones/Park/museums/"uptown".
+  (Early-game town, highest-value; map is generic so text-only fix worked.)
+- **Location-flavor mismatches in LATER towns need a Jared call** (deep -- tied to map/features,
+  not just text): Sootopolis=**MONTAUK** still describes "the crater of a volcano" (the map IS
+  a crater); Lavaridge=**RIVERDALE** is built around "hot springs/volcano" (+ the sand-bath
+  feature); Mossdeep=**OLD BROOKVILLE** has the Space Center; Mauville=**RANDALLS ISLAND** has
+  a Game Corner/Bike Shop. Fixing these right needs decisions on what each SAG place has instead
+  (and some are art/map work). Flagged, not guessed.
