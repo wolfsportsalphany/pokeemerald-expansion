@@ -253,3 +253,33 @@ references -> blanking it = `undefined reference` link errors.
 - STILL OPEN: other towns' decorative/locked buildings (enterable-or-remove sweep);
   deeper interior NPC theming; region-map base art (NYC shape) is art-blocked.
 - All SAG critical-path TOWN exteriors already have SAG NPCs (done pre-v0.61).
+
+## SESSION v0.67 -> v0.73 (comprehensive theming sweep) -- autonomous loop
+Master cast/world is now fully SAG-themed in all visible dialogue:
+- **Gym leaders** (v0.67/0.70): rematch+mention text -> ALTORELLI/SOKOTCH/RANDALL/JUDGE/DEAN/
+  GIOVANNI/JESSE; FLANNERY->RANDOLPH (v0.73, Lavaridge=Ghost headmaster).
+- **Randall** (Randalls Island, bald baseball coach) + **Jesse** (Old Brookville, single
+  Grandma nanny -- double->single battle, Expert F pic; NOTE: Black sprite needs custom art).
+- **Rival = JUSTIN** everywhere (v0.69): 75 dialogue tags + 32 battle names.
+- **WALLY -> MERRICK** (v0.73): the bible's "Justin's nice brother / helpful NPC" = Wally's role
+  (59 refs + trainers). *Inferred -- revert if a different person was intended.*
+- **E4 + Champion** already themed: Cali -> Dad -> Mom -> Steven -> Champion JARED.
+- **Villains = TEAM ROCKET** (v0.71): Aqua/Magma -> Team Rocket, ARCHIE->GIOVANNI, MAXIE->ARCHER;
+  class names + {AQUA}/{MAGMA} placeholders. *(Two rival teams merged into one Rocket -- a few
+  co-appearance scenes read slightly oddly; review for plot coherence.)*
+- **Locations** (v0.72): 245 dialogue swaps, vanilla cities -> SAG neighborhoods per
+  region_map_sections (PETALBURG->THE BRONX, SLATEPORT->IMG ACADEMY, RUSTBORO->MIDTOWN, etc.).
+- Apartment interiors render-verified walkable (lobby + Floor 28 spawn + elevator + doormen).
+
+### Deliberately KEPT / vestigial (not jarring; optional to theme)
+- **Devon Corp / Mr. Stone** = Steven's company (Steven is kept as E4 #4) -> left intact.
+- **Scott** (Battle Frontier) + **Wallace** (Hoenn legendary arc) = vestigial (replaced by
+  Mewtwo's Island) -> left.
+- **Stern / Briney / Prof. Birch / Gabby / Ty** = minor Hoenn NPCs -> left (need a SAG call).
+
+### DECISIONS for Jared (when back)
+1. Confirm WALLY->MERRICK (or name the intended person for that helpful-friend slot).
+2. Villain merge: OK that Aqua+Magma both read as "Team Rocket" (Giovanni + exec Archer)?
+3. Theme the minor NPCs (Stern/Briney/Birch/Gabby/Ty) or leave them?
+### ART-BLOCKED (needs a pixel artist)
+- Jesse's Black old-woman sprite/battle pic; the NYC-shaped region-map image; custom leader sprites.
