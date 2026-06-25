@@ -27,10 +27,16 @@ LittlerootTown_EventScript_SAGLapras::
 	lock
 	faceplayer
 	goto_if_set FLAG_UNUSED_0x022, LittlerootTown_EventScript_SAGLaprasDoneScr
+	goto_if_unset FLAG_BADGE04_GET, LittlerootTown_EventScript_SAGLaprasNotYet
 	msgbox LittlerootTown_Text_SAGLaprasGive, MSGBOX_DEFAULT
 	givemon SPECIES_LAPRAS, 30
 	setflag FLAG_UNUSED_0x022
 	msgbox LittlerootTown_Text_SAGLaprasGot, MSGBOX_DEFAULT
+	release
+	end
+
+LittlerootTown_EventScript_SAGLaprasNotYet::
+	msgbox LittlerootTown_Text_SAGLaprasNotYet, MSGBOX_DEFAULT
 	release
 	end
 
@@ -49,6 +55,12 @@ LittlerootTown_Text_SAGLaprasGot:
 
 LittlerootTown_Text_SAGLaprasDone:
 	.string "Mind the currents out there.$"
+
+LittlerootTown_Text_SAGLaprasNotYet:
+	.string "Whoa there. This LAPRAS is a\n"
+	.string "handful, kid.\p"
+	.string "Come back when you've earned a few\n"
+	.string "badges and I'll see she's yours.$"
 
 LittlerootTown_EventScript_SAGDogs::
 	msgbox LittlerootTown_Text_SAGDogs, MSGBOX_NPC
