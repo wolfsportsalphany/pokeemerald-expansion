@@ -41,16 +41,32 @@ LittlerootTown_MaysHouse_1F_EventScript_Doorman2::
 	msgbox LittlerootTown_MaysHouse_1F_Text_Doorman2, MSGBOX_NPC
 	end
 
+LittlerootTown_MaysHouse_1F_EventScript_Doorman3::
+	msgbox LittlerootTown_MaysHouse_1F_Text_Doorman3, MSGBOX_NPC
+	end
+
+LittlerootTown_MaysHouse_1F_EventScript_Doorman4::
+	msgbox LittlerootTown_MaysHouse_1F_Text_Doorman4, MSGBOX_NPC
+	end
+
 LittlerootTown_MaysHouse_1F_Text_WhichFloor:
 	.string "Which floor, Mr. Gaer?$"
 
 LittlerootTown_MaysHouse_1F_Text_Doorman1:
-	.string "Evening, Mr. Gaer.\n"
+	.string "JON: Evening, Mr. Gaer.\n"
 	.string "Your brother's up on 11.$"
 
 LittlerootTown_MaysHouse_1F_Text_Doorman2:
-	.string "Welcome home. Elevator's right\n"
-	.string "there -- 28 is your floor.$"
+	.string "TROI: Welcome home. Elevator's\n"
+	.string "right there -- 28 is your floor.$"
+
+LittlerootTown_MaysHouse_1F_Text_Doorman3:
+	.string "ROBERT: Lobby's quiet tonight,\n"
+	.string "Mr. Gaer. Go win some gyms.$"
+
+LittlerootTown_MaysHouse_1F_Text_Doorman4:
+	.string "JOSE: Anything you need, sir,\n"
+	.string "you just holler. Name's JOSE.$"
 @ --- vanilla intro scripts below are kept (define shared RivalsHouse/PlayersHouse symbols) ---
 
 LittlerootTown_MaysHouse_1F_OnLoad:
