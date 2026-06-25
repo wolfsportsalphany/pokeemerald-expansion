@@ -628,7 +628,7 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "UPPER EAST SIDE is a tiny island community.\n"
+	.string "UPPER EAST SIDE is a tight-knit community.\n"
 	.string "If something gets trendy here,\l"
 	.string "everyone picks up on it right away.$"
 
