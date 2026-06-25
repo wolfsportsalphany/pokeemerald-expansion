@@ -437,7 +437,7 @@ DewfordTown_Gym_Text_BrawlyRematchDefeat:
 DewfordTown_Gym_Text_BrawlyPostRematch:
 	.string "SOKOTCH: Battling is vast and it's deep.\n"
 	.string "You can't see the bottom.\l"
-	.string "It's just like the sea of HOENN!$"
+	.string "It's just like the sea of NEW YORK!$"
 
 DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
 	.string "SOKOTCH: A wave may draw back, but it\n"
