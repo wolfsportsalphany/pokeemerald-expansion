@@ -48,7 +48,7 @@ DewfordTown_House2_Text_ExplainSilkScarf:
 	.string "with almost all POKéMON!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
+	.string "Wow, you came all the way uptown\n"
 	.string "to visit UPPER EAST SIDE?\p"
 	.string "Did you maybe come here because you\n"
 	.string "heard about SOKOTCH?\p"
