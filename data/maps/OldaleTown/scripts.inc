@@ -19,10 +19,10 @@ OldaleTown_EventScript_SAGGymInfo::
 	msgbox OldaleTown_Text_SAGGymInfo, MSGBOX_NPC
 	end
 OldaleTown_Text_SAGGymInfo:
-	.string "Those GYM doors lead to\n"
-	.string "SIDLEY AUSTIN -- ALTORELLI's firm.\p"
-	.string "Gym 1, over in Midtown.\n"
-	.string "Dark types, sharp suits, no mercy.$"
+	.string "That castle? SIDLEY AUSTIN --\n"
+	.string "ALTORELLI's firm. Gym 1, Midtown.\p"
+	.string "Dark types, sharp suits, no mercy.\n"
+	.string "Good luck, kid.$"
 
 OldaleTown_EventScript_SAGElmo::
 	msgbox OldaleTown_Text_SAGElmo, MSGBOX_NPC
