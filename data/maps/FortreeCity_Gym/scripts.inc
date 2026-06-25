@@ -278,7 +278,7 @@ FortreeCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
-	.string "WINONA: We humans can never escape\n"
+	.string "DEAN: We humans can never escape\n"
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"
@@ -291,14 +291,14 @@ FortreeCity_Gym_Text_WinonaRematchDefeat:
 	.string "I failed to reach your height again…$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "WINONA: Even though I have lost,\n"
+	.string "DEAN: Even though I have lost,\n"
 	.string "the wings of my heart remain unbroken.\p"
 	.string "I can rise and soar again and\n"
 	.string "yet again.\p"
 	.string "I am convinced of it!$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-	.string "WINONA: We humans can never escape\n"
+	.string "DEAN: We humans can never escape\n"
 	.string "gravity's pull on the ground.\p"
 	.string "But by striving for excellence,\n"
 	.string "we have the power to soar!\p"
