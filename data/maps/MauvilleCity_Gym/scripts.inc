@@ -274,28 +274,28 @@ MauvilleCity_Gym_Text_GymGuidePostVictory:
 	.string "you still cracked the door open!$"
 
 MauvilleCity_Gym_Text_KirkIntro:
-	.string "My electric soul, it'll shatter your\n"
-	.string "dreams whole, whoa-yeahah!$"
+	.string "My swing'll shatter your dreams\n"
+	.string "whole, whoa-yeahah!$"
 
 MauvilleCity_Gym_Text_KirkDefeat:
-	.string "That was plugged in, amped up,\n"
-	.string "over-driven electric, man!$"
+	.string "That was a grand slam, right\n"
+	.string "out of the park, man!$"
 
 MauvilleCity_Gym_Text_KirkPostBattle:
-	.string "POKéMON and rock, it's all about heart,\n"
-	.string "whoa-yeah!$"
+	.string "POKéMON and the game, it's all\n"
+	.string "about heart, whoa-yeah!$"
 
 MauvilleCity_Gym_Text_ShawnIntro:
-	.string "I trained under WATTSON!\n"
+	.string "I trained under RANDALL!\n"
 	.string "There ain't no way I'll lose easily!$"
 
 MauvilleCity_Gym_Text_ShawnDefeat:
 	.string "Unplugged and turned off…$"
 
 MauvilleCity_Gym_Text_ShawnPostBattle:
-	.string "WATTSON, our GYM LEADER, has been\n"
-	.string "around for a long, long time.\p"
-	.string "He was battling even before your\n"
+	.string "RANDALL has been uptown's guy\n"
+	.string "for ages.\p"
+	.string "He was swinging bats before your\n"
 	.string "daddy was born, that tough coot.$"
 
 MauvilleCity_Gym_Text_BenIntro:
@@ -306,7 +306,7 @@ MauvilleCity_Gym_Text_BenDefeat:
 	.string "It's no fun to lose…$"
 
 MauvilleCity_Gym_Text_BenPostBattle:
-	.string "WATTSON says he likes setting up\n"
+	.string "RANDALL says he likes setting up\n"
 	.string "little traps with switches.$"
 
 MauvilleCity_Gym_Text_VivianIntro:
@@ -317,8 +317,8 @@ MauvilleCity_Gym_Text_VivianDefeat:
 	.string "I'm shocked by your power!$"
 
 MauvilleCity_Gym_Text_VivianPostBattle:
-	.string "I've heard that MAUVILLE was founded\n"
-	.string "by WATTSON.\p"
+	.string "I hear RANDALL practically built\n"
+	.string "RANDALLS ISLAND himself.\p"
 	.string "He was a TRAINER long before we\n"
 	.string "became TRAINERS.\l"
 	.string "He must know all sorts of things!$"
@@ -331,8 +331,8 @@ MauvilleCity_Gym_Text_AngeloDefeat:
 	.string "My eyes are frazzled…$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle:
-	.string "MAUVILLE GYM's WATTSON has a shiny\n"
-	.string "forehead. It makes me happy!$"
+	.string "RANDALL's got a championship ring\n"
+	.string "that shines. It makes me happy!$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
 	.string "Uptown runs this diamond, rook.\pSwing away. You'll whiff.$"
@@ -342,7 +342,7 @@ MauvilleCity_Gym_Text_WattsonDefeat:
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
 	.string "{PLAYER} received the DYNAMO BADGE\n"
-	.string "from WATTSON.$"
+	.string "from RANDALL.$"
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
 	.string "With the DYNAMO BADGE, POKéMON can\n"
@@ -359,7 +359,7 @@ MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
-	.string "Registered GYM LEADER WATTSON\n"
+	.string "Registered GYM LEADER RANDALL\n"
 	.string "in the POKéNAV.$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:

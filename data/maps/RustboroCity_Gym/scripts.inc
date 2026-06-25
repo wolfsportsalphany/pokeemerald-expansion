@@ -129,42 +129,42 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "That's got to feel awesome!$"
 
 RustboroCity_Gym_Text_JoshIntro:
-	.string "Don't take us GYM TRAINERS lightly!\n"
-	.string "I'll show you why we're better!$"
+	.string "Associates bill by the hour.\n"
+	.string "Let's keep this short.$"
 
 RustboroCity_Gym_Text_JoshDefeat:
-	.string "You were too good for me…$"
+	.string "...Let the record show I lost.$"
 
 RustboroCity_Gym_Text_JoshPostBattle:
-	.string "You haven't seen anything of the ROCK\n"
-	.string "type's terrifying power!$"
+	.string "ALTORELLI doesn't lose cases.\n"
+	.string "You'll learn that the hard way.$"
 
 RustboroCity_Gym_Text_TommyIntro:
-	.string "If you can't beat me, you won't stand\n"
-	.string "a chance against ROXANNE!$"
+	.string "If you can't beat me, ALTORELLI\n"
+	.string "will eat you alive.$"
 
 RustboroCity_Gym_Text_TommyDefeat:
-	.string "Wow! You've got some potential!$"
+	.string "Huh. You've actually got a case.$"
 
 RustboroCity_Gym_Text_TommyPostBattle:
-	.string "ROXANNE is stronger than me by\n"
-	.string "several times.\p"
-	.string "You'd better be on your guard!$"
+	.string "ALTORELLI is way out of your\n"
+	.string "league.\p"
+	.string "Keep your guard up.$"
 
 RustboroCity_Gym_Text_MarcIntro:
-	.string "We might be in the middle of town,\n"
+	.string "We might be midtown,\n"
 	.string "but so what?\p"
-	.string "My ROCK POKéMON need room to\n"
-	.string "rampage!$"
+	.string "My DARK POKéMON like to play\n"
+	.string "dirty!$"
 
 RustboroCity_Gym_Text_MarcDefeat:
 	.string "Oh, man oh man!\n"
-	.string "Our challenger is one feisty customer!$"
+	.string "You're one feisty client!$"
 
 RustboroCity_Gym_Text_MarcPostBattle:
-	.string "I have to hand it to our LEADER.\p"
-	.string "It took smarts and sense for her to\n"
-	.string "pick the ROCK type at her young age.$"
+	.string "I have to hand it to the boss.\p"
+	.string "DARK type suits a lawyer who\n"
+	.string "plays to win.$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
 	.string "So the brother sent a courier.\pSidley Austin is MINE, kid.\nAs are you, once I'm done.$"
@@ -174,7 +174,7 @@ RustboroCity_Gym_Text_RoxanneDefeat:
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
 	.string "{PLAYER} received the STONE BADGE\n"
-	.string "from ROXANNE.$"
+	.string "from ALTORELLI.$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "The STONE BADGE heightens the ATTACK\n"
@@ -226,7 +226,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "… … … … … Click!$"
 
 RustboroCity_Gym_Text_RegisteredRoxanne:
-	.string "Registered GYM LEADER ROXANNE\n"
+	.string "Registered GYM LEADER ALTORELLI\n"
 	.string "in the POKéNAV.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:

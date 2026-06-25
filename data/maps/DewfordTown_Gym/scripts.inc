@@ -312,8 +312,8 @@ DewfordTown_Gym_Text_TakaoPostBattle:
 	.string "Your technique is commendable!$"
 
 DewfordTown_Gym_Text_JocelynIntro:
-	.string "There's no need for BRAWLY to be\n"
-	.string "involved!\p"
+	.string "I don't need SOKOTCH to handle\n"
+	.string "you myself!\p"
 	.string "I'll crush you!$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
@@ -336,10 +336,10 @@ DewfordTown_Gym_Text_LauraDefeat:
 	.string "I lost!$"
 
 DewfordTown_Gym_Text_LauraPostBattle:
-	.string "I battle in the dark to make my heart\n"
-	.string "stronger.\p"
-	.string "But because it's so dark, I can never\n"
-	.string "see BRAWLY's face…$"
+	.string "I study in the dark to sharpen\n"
+	.string "my focus.\p"
+	.string "But it's so dark I can never read\n"
+	.string "SOKOTCH's notes…$"
 
 DewfordTown_Gym_Text_LilithIntro:
 	.string "Ufufu…\n"
@@ -354,8 +354,8 @@ DewfordTown_Gym_Text_LilithPostBattle:
 	.string "back at the entrance again!$"
 
 DewfordTown_Gym_Text_BrendenIntro:
-	.string "I'll show you the gumption of\n"
-	.string "a sailing man!$"
+	.string "I'll show you some real\n"
+	.string "old-school grit!$"
 
 DewfordTown_Gym_Text_BrendenDefeat:
 	.string "How'd this happen?\n"
@@ -385,7 +385,7 @@ DewfordTown_Gym_Text_BrawlyDefeat:
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
 	.string "{PLAYER} received the KNUCKLE BADGE\n"
-	.string "from BRAWLY.$"
+	.string "from SOKOTCH.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "The KNUCKLE BADGE makes all POKéMON\n"
@@ -403,7 +403,7 @@ DewfordTown_Gym_Text_ExplainBulkUp:
 	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "Registered GYM LEADER BRAWLY\n"
+	.string "Registered GYM LEADER SOKOTCH\n"
 	.string "in the POKéNAV.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
