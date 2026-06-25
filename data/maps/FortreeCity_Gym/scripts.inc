@@ -152,8 +152,8 @@ FortreeCity_Gym_Text_GymGuidePostVictory:
 	.string "favor -- case closed!$"
 
 FortreeCity_Gym_Text_JaredIntro:
-	.string "Behold the elegant battle style of\n"
-	.string "BIRD POKéMON!$"
+	.string "Behold the airtight battle style\n"
+	.string "of STEEL POKéMON!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
 	.string "You…\n"
@@ -166,9 +166,9 @@ FortreeCity_Gym_Text_JaredPostBattle:
 	.string "our LEADER?$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-	.string "The lovers of BIRD POKéMON aspire\n"
-	.string "to join this GYM.\p"
-	.string "As a member of the FORTREE GYM,\n"
+	.string "Devotees of STEEL POKéMON aspire\n"
+	.string "to clerk at this GYM.\p"
+	.string "As one of THE DEAN's own,\n"
 	.string "I'm not allowed to lose!$"
 
 FortreeCity_Gym_Text_EdwardoDefeat:
