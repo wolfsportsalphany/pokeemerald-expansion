@@ -163,3 +163,31 @@ rival = Justin ("little Gaer"); player = SHANE GAER (forced male).
   strings/graphics change, higher risk; verify before attempting.
 - Bigger axes that need a human/playtest: custom sprites, wild encounters in city maps,
   a real post-credits "wake in the apartment" scene.
+
+## "DO IT ALL" PASS @ v0.50 - v0.56 (PRs #101-#107) -- the Hoenn-text purge is COMPLETE
+Every player-facing Hoenn reference on the critical path is now SAG. All text-only except
+the ending (one safe map-script). Charmap rule still holds: `é` `…` `“` `”` ok; use `--` not `—`.
+- **v0.50** gym entrance signs; **v0.51** town-name signs -> NYC neighborhoods.
+- **v0.52** gyms 1-4 rank-and-file trainers + badge-receipt/register leader names.
+- **v0.53** gyms 5-8 shown-on-win dialogue: receipts, registers, Mossdeep twins badge-give
+  -> GRANDMA, and the whole Petalburg vanilla "your dad is the leader" cutscene -> JUDGE.
+- **v0.54** gyms 5-8 rank-and-file trainers (Fortree -> THE DEAN, Petalburg drops "father",
+  Mossdeep PSYCHIC -> FAIRY) + renamed Bird Keeper TRAINER_JARED's battle name JARED -> JEROME
+  (so the only in-game JARED is the champion brother, TRAINER_WALLACE).
+- **v0.55** renamed ALL 8 badges: STONE->GAVEL, KNUCKLE->SCHOLAR, DYNAMO->PENNANT,
+  HEAT->MANOR, BALANCE->SLUGGER, FEATHER->VERDICT, MIND->FAMILY, RAIN->BOSS (display text
+  only; flags/symbols/trainer-card art unchanged).
+- **v0.56** POST-CREDITS BIRTHDAY SCENE: one-shot ON_FRAME msgbox in BrendansHouse_2F (the
+  post-GameClear respawn), gated FLAG_SYS_GAME_CLEAR + FLAG_UNUSED_0x024. "{PLAYER} woke up...
+  Happy birthday, Shane. Love, Jared." Msgbox-only, can't soft-lock.
+
+### GENUINELY BLOCKED (need a human / asset that this env can't make):
+- **Custom leader sprites** -- need an artist + Porymap; all leaders still use placeholder gfx.
+- **Wild encounters in city maps** -- the urban tilesets have no grass/encounter metatiles, so
+  walking encounters can't trigger without map tile work, and they don't suit NYC anyway
+  (player levels via the 99 starting Rare Candies by design).
+- **Playtest verification** -- the gym/town SIGNS (v0.50/51) and the v0.56 ending are
+  correct-from-source but UNVERIFIED in-emulator. Boot SAG-v0.56, read a couple signs, and
+  (with a cleared save) re-enter the apartment to confirm the birthday scene fires once.
+
+### NEXT free unused flag after 0x024: FLAG_UNUSED_0x025.
