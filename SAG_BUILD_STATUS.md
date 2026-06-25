@@ -235,3 +235,21 @@ references -> blanking it = `undefined reference` link errors.
   include/constants/script_menu.h + src/data/script_menu.h.
 - Apartment doors -> Lobby (dest 2). Mart (reused OldaleTown_Mart) entered from Hudson (15,5)/(16,5).
 - ALL these interior coordinates are render-guesses; PLAYTEST and tweak.
+
+## SESSION v0.61 -> v0.66 (apartment, obedience, Sidley Austin, theming)
+- v0.61/62: real-elevator apartment (LOBBY=MaysHouse_1F + Fl28=House1 + Fl11=House2,
+  MULTI_SAG_FLOORS menu); Jared=OBJ_EVENT_GFX_RED; Hudson Mart enterable (OldaleTown_Mart).
+- v0.63: **Pokemon ALWAYS obey** (battle_util.c GetAttackerObedienceForAction -> obedienceLevel=255).
+  Doormen named JON/TROI/ROBERT/JOSE (the 4 the user specified).
+- v0.65: **Removed the fake GYM building** in Times Square via tile edit -- stamped pavement
+  (0x32bb full value, copied from a clean tile) over footprint x14-19,y9-15 in
+  data/layouts/OldaleTown/map.bin; RENDER-VERIFIED before building. Sidley Austin = the
+  CASTLE (left grand building, warps 1,11/2,11 -> RustboroCity_Gym, region already MIDTOWN).
+  The castle IS Gym 1; do not touch it.
+- v0.66: themed ALL Poke Center nurses (data/text/pkmn_center_nurse.inc) + Mart clerks
+  (data/scripts/mart_clerk.inc) with NYC voices -- shared text, every town at once.
+- TILE-EDIT RECIPE (works headless): read a clean neighbor tile's full u16 value, stamp it
+  over the building footprint via struct into the layout .bin, then render.py to verify.
+- STILL OPEN: other towns' decorative/locked buildings (enterable-or-remove sweep);
+  deeper interior NPC theming; region-map base art (NYC shape) is art-blocked.
+- All SAG critical-path TOWN exteriors already have SAG NPCs (done pre-v0.61).
