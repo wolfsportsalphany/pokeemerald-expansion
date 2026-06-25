@@ -276,7 +276,7 @@ LavaridgeTown_EventScript_HerbShopSign::
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
 	.string "JUSTIN: {PLAYER}{KUN}! Long time no see!\p"
 	.string "Oh? While I visited the hot springs,\n"
-	.string "you got the LAVARIDGE GYM BADGE.\p"
+	.string "you got the RIVERDALE GYM BADGE.\p"
 	.string "You must have collected\n"
 	.string "good POKéMON…\l"
 	.string "No, I believe you raised some.\p"
@@ -292,7 +292,7 @@ LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
 	.string "You're trying hard because you don't\n"
 	.string "want to lose to me, I bet!\p"
 	.string "{PLAYER}{KUN}, I think I should challenge\n"
-	.string "your dad in PETALBURG GYM.\p"
+	.string "your dad in THE BRONX GYM.\p"
 	.string "See you again!$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
@@ -312,7 +312,7 @@ LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
 	.string "You might look around for those.\p"
 	.string "As for me…\n"
 	.string "I'm considering challenging JUDGE,\l"
-	.string "the GYM LEADER of PETALBURG.\p"
+	.string "the GYM LEADER of THE BRONX.\p"
 	.string "Unlike you, {PLAYER}, your dad looks like\n"
 	.string "he really is tough.\p"
 	.string "See you around!$"

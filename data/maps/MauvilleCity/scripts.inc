@@ -518,7 +518,7 @@ MauvilleCity_Text_WallyDefeat:
 
 MauvilleCity_Text_WallyIllGoBackToVerdanturf:
 	.string "WALLY: UNCLE…\n"
-	.string "I'll go back to VERDANTURF…$"
+	.string "I'll go back to PHILLY…$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "{PLAYER}, thank you.\n"
@@ -540,7 +540,7 @@ MauvilleCity_Text_UncleVisitUsSometime:
 	.string "that you must be the TRAINER who kept\l"
 	.string "an eye out for WALLY when he caught\l"
 	.string "his POKéMON.\p"
-	.string "Why don't you visit us in VERDANTURF\n"
+	.string "Why don't you visit us in PHILLY\n"
 	.string "sometime?\l"
 	.string "I'm sure WALLY would enjoy it.$"
 
@@ -579,7 +579,7 @@ MauvilleCity_Text_WattsonNeedFavorTakeKey:
 	.string "That's a good thing, wahahahaha!\p"
 	.string "Fine! I've decided!\n"
 	.string "I need a favor, {PLAYER}{KUN}!\p"
-	.string "MAUVILLE CITY has an underground\n"
+	.string "RANDALLS ISL. has an underground\n"
 	.string "sector called NEW MAUVILLE.\p"
 	.string "{PLAYER}{KUN}, I'd like you to go there and\n"
 	.string "switch off the GENERATOR.\p"
@@ -646,7 +646,7 @@ MauvilleCity_Text_BikeShopSign:
 
 MauvilleCity_Text_GameCornerSign:
 	.string "“The play spot for all!”\n"
-	.string "MAUVILLE GAME CORNER$"
+	.string "RANDALLS ISL. GAME CORNER$"
 
 MauvilleCity_Text_ExplainTV:
 	.string "Hi, do you check out TV at all?\p"

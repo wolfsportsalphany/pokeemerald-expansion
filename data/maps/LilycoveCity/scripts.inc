@@ -443,7 +443,7 @@ LilycoveCity_Text_MayDefeat:
 
 LilycoveCity_Text_MayGoingBackToLittleroot:
 	.string "JUSTIN: I'm thinking of going back to\n"
-	.string "LITTLEROOT soon.\p"
+	.string "HUDSON YARDS soon.\p"
 	.string "I've caught a decent group of POKéMON,\n"
 	.string "and my POKéDEX is coming along, so\l"
 	.string "I'm going home to show my dad.$"
@@ -505,7 +505,7 @@ LilycoveCity_Text_BrendanDefeat:
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot:
 	.string "JUSTIN: I…\n"
-	.string "I plan on going home to LITTLEROOT.\p"
+	.string "I plan on going home to HUDSON YARDS.\p"
 	.string "You know I'm helping out my dad on his\n"
 	.string "POKéDEX. It's coming together pretty\l"
 	.string "decently, so I should go show him.$"
@@ -662,7 +662,7 @@ LilycoveCity_Text_TeamAquaLotGoneForGood:
 	.string "have gone away for good.$"
 
 LilycoveCity_Text_CitySign:
-	.string "LILYCOVE CITY\p"
+	.string "PARAMUS\p"
 	.string "“Where the land ends and the\n"
 	.string "sea begins.”$"
 
@@ -673,27 +673,27 @@ LilycoveCity_Text_ContestHallSign:
 LilycoveCity_Text_MotelSign:
 	.string "COVE LILY MOTEL\p"
 	.string "“Remember us as COVE LILY of\n"
-	.string "LILYCOVE.”$"
+	.string "PARAMUS.”$"
 
 LilycoveCity_Text_MuseumSign:
-	.string "LILYCOVE MUSEUM\p"
+	.string "PARAMUS MUSEUM\p"
 	.string "“POKéMON Masterpiece Collection\n"
 	.string "on exhibit!”$"
 
 LilycoveCity_Text_MuseumSignPlayersExhibit:
-	.string "LILYCOVE MUSEUM\p"
+	.string "PARAMUS MUSEUM\p"
 	.string "“{PLAYER}'s POKéMON Collection\n"
 	.string "on exhibit!”$"
 
 LilycoveCity_Text_HarborSignUnderConstruction:
-	.string "LILYCOVE CITY HARBOR\p"
+	.string "PARAMUS HARBOR\p"
 	.string "“The ferry S.S. TIDAL is under\n"
-	.string "construction in SLATEPORT CITY.\p"
+	.string "construction in IMG ACADEMY.\p"
 	.string "“Service is scheduled to begin\n"
 	.string "shortly.”$"
 
 LilycoveCity_Text_HarborSign:
-	.string "LILYCOVE CITY HARBOR\p"
+	.string "PARAMUS HARBOR\p"
 	.string "“Enjoy a delightful cruise on\n"
 	.string "the ferry S.S. TIDAL.”$"
 
@@ -703,7 +703,7 @@ LilycoveCity_Text_TrainerFanClubSign:
 	.string "all over the sign…$"
 
 LilycoveCity_Text_DepartmentStoreSign:
-	.string "LILYCOVE DEPARTMENT STORE\p"
+	.string "PARAMUS DEPARTMENT STORE\p"
 	.string "“Overflowing with great merchandise\n"
 	.string "and excitement!\p"
 	.string "“A great place to find that something\n"

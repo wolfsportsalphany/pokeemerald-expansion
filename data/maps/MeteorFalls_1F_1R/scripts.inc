@@ -256,11 +256,11 @@ MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
 	.string "We've got the METEORITE, so off to\n"
 	.string "MT. CHIMNEY we go!\p"
 	.string "Hehehe! Be seeing you, you TEAM\n"
-	.string "AQUA dingbats!$"
+	.string "ROCKET dingbats!$"
 
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore:
 	.string "GIOVANNI: Didn't I see you before?\n"
-	.string "At SLATEPORT's MUSEUM?\p"
+	.string "At IMG ACADEMY's MUSEUM?\p"
 	.string "Ah, so your name is {PLAYER}.\p"
 	.string "At the time, I thought you were one\n"
 	.string "of TEAM ROCKET's goons.\p"

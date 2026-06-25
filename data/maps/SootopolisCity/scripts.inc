@@ -1485,14 +1485,14 @@ SootopolisCity_Text_PrettyMonCameFromSky:
 
 SootopolisCity_Text_SootopolisWillBeWrecked:
 	.string "Oh, no!\n"
-	.string "SOOTOPOLIS CITY will get wrecked!$"
+	.string "MONTAUK will get wrecked!$"
 
 SootopolisCity_Text_SootopolisDidntGetWrecked:
-	.string "SOOTOPOLIS CITY didn't get wrecked!$"
+	.string "MONTAUK didn't get wrecked!$"
 
 SootopolisCity_Text_NoOrdinaryTourist:
 	.string "Hm!\n"
-	.string "You've come all the way to SOOTOPOLIS?\l"
+	.string "You've come all the way to MONTAUK?\l"
 	.string "You're no ordinary tourist.\p"
 	.string "But I suppose that doesn't make you\n"
 	.string "an extraordinary tourist, either.$"
@@ -1528,13 +1528,13 @@ SootopolisCity_Text_CaveOfOriginSleepsToo:
 	.string "the cave, too, shall sleep…$"
 
 SootopolisCity_Text_SootopolisSkyBeautiful:
-	.string "SOOTOPOLIS sprang up as a town in\n"
+	.string "MONTAUK sprang up as a town in\n"
 	.string "the crater of a volcano.\p"
 	.string "If you look up at the sky, the lip of\n"
 	.string "the crater is also visible.\l"
 	.string "So, all you see is the sky in a circle.\p"
 	.string "But that's what makes the sky above\n"
-	.string "SOOTOPOLIS the most beautiful.$"
+	.string "MONTAUK the most beautiful.$"
 
 SootopolisCity_Text_GiganticPokemonFight:
 	.string "When two POKéMON that gigantic\n"
@@ -1574,7 +1574,7 @@ SootopolisCity_Text_GroudonPleaseStop:
 	.string "Please! Stop what you're doing!\p"
 	.string "I know the extent of your power now!\p"
 	.string "If you keep going, all HOENN, not just\n"
-	.string "SOOTOPOLIS, will be utterly ruined!$"
+	.string "MONTAUK, will be utterly ruined!$"
 
 SootopolisCity_Text_AfterAllOurScheming:
 	.string "ARCHER: So the super-ancient POKéMON\n"
@@ -1667,7 +1667,7 @@ SootopolisCity_Text_HaventYouScaledSkyPillar:
 
 SootopolisCity_Text_AquaMagmaDidntMeanHarm:
 	.string "WALLACE: {PLAYER}{KUN}…\p"
-	.string "The leaders of TEAM ROCKET and AQUA,\n"
+	.string "The leaders of TEAM ROCKET and ROCKET,\n"
 	.string "I don't think they meant harm.\p"
 	.string "It wouldn't hurt to hear what they\n"
 	.string "have to say for themselves.$"
@@ -1675,7 +1675,7 @@ SootopolisCity_Text_AquaMagmaDidntMeanHarm:
 SootopolisCity_Text_ThankYouForHelpAcceptThis:
 	.string "WALLACE: {PLAYER}{KUN}…\n"
 	.string "My eyes didn't deceive me.\p"
-	.string "Thanks to your help, SOOTOPOLIS…\n"
+	.string "Thanks to your help, MONTAUK…\n"
 	.string "No, all of HOENN was saved.\p"
 	.string "On behalf of the people, I thank you.\p"
 	.string "This is a gift from me.\n"
@@ -1690,7 +1690,7 @@ SootopolisCity_Text_ExplainWaterfallGoToGym:
 	.string "And where does one get the BOSS BADGE?\n"
 	.string "You know, don't you?\p"
 	.string "That's right! You have to beat\n"
-	.string "the SOOTOPOLIS GYM LEADER.\p"
+	.string "the MONTAUK GYM LEADER.\p"
 	.string "When you're all set to go, step through\n"
 	.string "that door.$"
 
