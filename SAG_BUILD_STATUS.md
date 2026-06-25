@@ -191,3 +191,27 @@ the ending (one safe map-script). Charmap rule still holds: `é` `…` `“` `�
   (with a cleared save) re-enter the apartment to confirm the birthday scene fires once.
 
 ### NEXT free unused flag after 0x024: FLAG_UNUSED_0x025.
+
+## STRUCTURAL ASKS @ v0.57 - v0.59 (PRs #108-#110)
+- **v0.57** retyped all 47 gym rank-and-file trainer PARTIES to their gym's SAG type
+  (script: scratchpad/retype_trainers.py rebuilds trainers.party block-by-block; classes/
+  names kept -- no 'lawyer' sprite exists). Leaders' teams untouched.
+- **v0.58** gated the Hudson Yards LAPRAS gift behind FLAG_BADGE04_GET (was given at start).
+- **v0.59** HUDSON YARDS APARTMENT BUILDING (the big map change):
+  - Spawn moved from LittlerootTown(13,14) street -> MAP_OLDALE_TOWN_HOUSE1 (5,6) = Shane's
+    apartment, "Floor 28" (new_game.c:142). Reused two ORPHANED interiors:
+    OldaleTown_House1 = Floor 28 (Shane), OldaleTown_House2 = Floor 11 (Jared).
+  - Both relabeled region_map_section -> MAPSEC_LITTLEROOT_TOWN (Hudson Yards popup).
+  - SAGJared NPC moved from the Hudson Yards exterior into Floor 11 (OldaleTown_House2).
+  - Elevator = an operator NPC in each apt (YES/NO floor select) that `warp`s 28<->11.
+  - Building entrance: new LittlerootTown warp at the existing door tile (4,11) -> Floor 28.
+  - **COORDINATES UNVERIFIED IN-EMULATOR** (set from tools/sag/render.py): spawn (5,6) in
+    House1; door (4,11); elevator arrivals House1(4,7)/House2(4,6); objects. If the spawn or
+    a warp lands wrong, it's a one-line coordinate tweak. PLAYTEST a NEW GAME first.
+
+### STILL OPEN: lawfirm out of Times Square (#3)
+Altorelli's gym = MAP_RUSTBORO_CITY_GYM, entered from OldaleTown (Times Square) warps at
+(1,11)/(2,11). User wants it on its own block OUTSIDE Times Square. Needs a small CLEAN
+exterior map for the lawfirm block -- none exists orphaned-and-empty (only full FRLG towns),
+so this needs a freshly authored small exterior (hardest headless task). Recommend doing it
+AFTER the v0.59 building coordinates are playtest-confirmed (same render-guess method).
