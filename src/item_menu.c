@@ -2088,12 +2088,22 @@ static void ItemMenu_Cancel(u8 taskId)
     ReturnToItemList(taskId);
 }
 
+static const u8 sText_SagMirrorBlocked[] = _("You can only use items the\nopponent has used first!");
+
 static void ItemMenu_UseInBattle(u8 taskId)
 {
     // Safety check
     enum ItemType type = GetItemType(gSpecialVar_ItemId);
     if (!GetItemBattleUsage(gSpecialVar_ItemId))
         return;
+
+    // SAG: mirror-item rule -- only battle items the opponent has already used, count-matched.
+    if (!SAG_PlayerCanUseBattleItem(gSpecialVar_ItemId))
+    {
+        RemoveContextWindow();
+        DisplayItemMessage(taskId, FONT_NORMAL, sText_SagMirrorBlocked, HandleErrorMessage);
+        return;
+    }
 
     RemoveContextWindow();
     if (type == ITEM_USE_BAG_MENU || (type == ITEM_USE_BATTLER && !IsDoubleBattle()))

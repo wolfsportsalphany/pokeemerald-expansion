@@ -2993,10 +2993,72 @@ static void ClearSetBScriptingStruct(void)
     gBattleScripting.specialTrainerBattleType = specialBattleType;
 }
 
+// SAG: mirror-item rule. In a trainer battle the player may only use a battle item
+// (Potion, Full Restore, X-item, ...) that the opponent has ALREADY used this battle,
+// and no more times than the opponent has (2 Full Restores vs 1). Poke Balls and wild
+// battles are unrestricted. Per-battle ledger of (item, opponent uses, player uses).
+#define SAG_ITEM_MIRROR_MAX 16
+static struct { u16 item; u8 oppCount; u8 playerCount; } sSagItemMirror[SAG_ITEM_MIRROR_MAX];
+static u8 sSagItemMirrorCount;
+
+void SAG_ResetItemMirror(void)
+{
+    sSagItemMirrorCount = 0;
+}
+
+static s32 SAG_FindOrAddMirror(u16 item)
+{
+    u32 i;
+    for (i = 0; i < sSagItemMirrorCount; i++)
+    {
+        if (sSagItemMirror[i].item == item)
+            return i;
+    }
+    if (sSagItemMirrorCount >= SAG_ITEM_MIRROR_MAX)
+        return -1;
+    i = sSagItemMirrorCount++;
+    sSagItemMirror[i].item = item;
+    sSagItemMirror[i].oppCount = 0;
+    sSagItemMirror[i].playerCount = 0;
+    return i;
+}
+
+void SAG_RecordBattleItem(u32 battler, u16 item)
+{
+    s32 idx;
+    if (!(gBattleTypeFlags & BATTLE_TYPE_TRAINER))
+        return;
+    if (item == ITEM_NONE || GetItemPocket(item) == POCKET_POKE_BALLS)
+        return;
+    idx = SAG_FindOrAddMirror(item);
+    if (idx < 0)
+        return;
+    if (GetBattlerSide(battler) == B_SIDE_OPPONENT)
+        sSagItemMirror[idx].oppCount++;
+    else
+        sSagItemMirror[idx].playerCount++;
+}
+
+bool32 SAG_PlayerCanUseBattleItem(u16 item)
+{
+    u32 i;
+    if (!(gBattleTypeFlags & BATTLE_TYPE_TRAINER))
+        return TRUE; // wild battles unrestricted
+    if (GetItemPocket(item) == POCKET_POKE_BALLS)
+        return TRUE; // balls always allowed
+    for (i = 0; i < sSagItemMirrorCount; i++)
+    {
+        if (sSagItemMirror[i].item == item)
+            return sSagItemMirror[i].playerCount < sSagItemMirror[i].oppCount;
+    }
+    return FALSE; // opponent has not used this item -> player may not either
+}
+
 static void BattleStartClearSetData(void)
 {
     s32 i;
 
+    SAG_ResetItemMirror();
     TurnValuesCleanUp(FALSE);
     memset(&gSpecialStatuses, 0, sizeof(gSpecialStatuses));
 
@@ -4440,6 +4502,7 @@ static void HandleTurnActionSelectionState(void)
                         gLastUsedItem = (gBattleResources->bufferB[battler][1] | (gBattleResources->bufferB[battler][2] << 8));
                         if (GetItemPocket(gLastUsedItem) == POCKET_POKE_BALLS)
                             gBattleStruct->throwingPokeBall = TRUE;
+                        SAG_RecordBattleItem(battler, gLastUsedItem); // SAG: mirror-item ledger
                         gBattleCommunication[battler]++;
                     }
                     break;
