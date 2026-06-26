@@ -46,7 +46,8 @@ BirthIsland_Exterior_EventScript_Mewtwo::
 	goto_if_eq VAR_RESULT, B_OUTCOME_WON, BirthIsland_Exterior_EventScript_DefeatedMewtwo
 	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, BirthIsland_Exterior_EventScript_RanFromMewtwo
 	goto_if_eq VAR_RESULT, B_OUTCOME_PLAYER_TELEPORTED, BirthIsland_Exterior_EventScript_RanFromMewtwo
-	setflag FLAG_BATTLED_DEOXYS
+	setflag FLAG_BATTLED_DEOXYS    @ SAG: marks CAUGHT (Montauk gift reads this)
+	setflag FLAG_DEFEATED_DEOXYS   @ SAG: also hide Mewtwo on re-entry -- no infinite re-catches
 	release
 	end
 
