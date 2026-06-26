@@ -38,7 +38,7 @@ BirthIsland_Exterior_EventScript_Mewtwo::
 	delay 40
 	waitmoncry
 	setvar VAR_LAST_TALKED, LOCALID_BIRTH_ISLAND_DEOXYS
-	seteventmon SPECIES_MEWTWO, 70
+	seteventmon SPECIES_MEWTWO, 70, ITEM_MEWTWONITE_X @ SAG: caught Mewtwo holds its Mega Stone (Armored Mewtwo = Mega X)
 	setflag FLAG_SYS_CTRL_OBJ_DELETE
 	special BattleSetup_StartLegendaryBattle
 	clearflag FLAG_SYS_CTRL_OBJ_DELETE
