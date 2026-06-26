@@ -1709,12 +1709,21 @@ SootopolisCity_EventScript_SAGMewtwo::
 	lock
 	faceplayer
 	goto_if_set FLAG_UNUSED_0x020, SootopolisCity_EventScript_SAGMewtwoDone
+	goto_if_set FLAG_BATTLED_DEOXYS, SootopolisCity_EventScript_SAGMewtwoCaught @ SAG: caught it on New Island -- don't double-give
 	msgbox SootopolisCity_Text_SAGMewtwoGive, MSGBOX_DEFAULT
 	givemon SPECIES_MEWTWO, 70
 	setflag FLAG_UNUSED_0x020
 	msgbox SootopolisCity_Text_SAGMewtwoGot, MSGBOX_DEFAULT
 	release
 	end
+
+SootopolisCity_EventScript_SAGMewtwoCaught::
+	msgbox SootopolisCity_Text_SAGMewtwoCaught, MSGBOX_DEFAULT
+	release
+	end
+
+SootopolisCity_Text_SAGMewtwoCaught:
+	.string "So you caught it yourself, out on\nthe island -- with your own hands.\pThen it is truly yours.\nThe strongest there is. Go show your\lbrother.$"
 
 SootopolisCity_EventScript_SAGMewtwoDone::
 	lock
@@ -1735,20 +1744,31 @@ SootopolisCity_Text_SAGMewtwoDone2:
 SootopolisCity_EventScript_SAGDragonite::
 	lock
 	faceplayer
-	goto_if_set FLAG_UNUSED_0x021, SootopolisCity_EventScript_SAGDragoniteDoneScr
+	goto_if_set FLAG_UNUSED_0x021, SootopolisCity_EventScript_SAGDragoniteFly
 	msgbox SootopolisCity_Text_SAGDragoniteGive, MSGBOX_DEFAULT
 	givemon SPECIES_DRAGONITE, 62
 	setflag FLAG_UNUSED_0x021
 	msgbox SootopolisCity_Text_SAGDragoniteGot, MSGBOX_DEFAULT
+	goto SootopolisCity_EventScript_SAGDragoniteFly
+	end
+
+@ SAG: the courier Dragonite flies you out to NEW ISLAND -- the reliable access.
+SootopolisCity_EventScript_SAGDragoniteFly::
+	msgbox SootopolisCity_Text_SAGDragoniteFlyAsk, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, SootopolisCity_EventScript_SAGDragoniteNoFly
+	closemessage
+	warp MAP_BIRTH_ISLAND_EXTERIOR, 0
+	waitstate
 	release
 	end
 
-SootopolisCity_EventScript_SAGDragoniteDoneScr::
-	lock
-	faceplayer
+SootopolisCity_EventScript_SAGDragoniteNoFly::
 	msgbox SootopolisCity_Text_SAGDragoniteDone, MSGBOX_DEFAULT
 	release
 	end
+
+SootopolisCity_Text_SAGDragoniteFlyAsk:
+	.string "That courier DRAGONITE can wing you\nstraight out to NEW ISLAND.\pARMORED MEWTWO is waiting there.\nClimb on?$"
 
 SootopolisCity_Text_SAGDragoniteGive:
 	.string "Special delivery!\nA courier DRAGONITE,\nflown all the way to Montauk.\nIt's yours, kid.$"
