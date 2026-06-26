@@ -35,3 +35,11 @@ OldaleTown_EventScript_SAGTkts::
 	end
 OldaleTown_Text_SAGTkts:
 	.string "TKTS booth: half-price\nshows, two-hour line.$"
+
+OldaleTown_EventScript_CentralParkSign::
+	msgbox OldaleTown_Text_CentralParkSign, MSGBOX_SIGN
+	end
+
+OldaleTown_Text_CentralParkSign:
+	.string "CENTRAL PARK lies to the WEST.\p"
+	.string "Wild battles wait in the green.$"
