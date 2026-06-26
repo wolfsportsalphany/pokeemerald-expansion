@@ -181,9 +181,11 @@ static void SAG_GiveStartingLoadout(void)
     //   - the competitive held-item toolkit (above)
     for (i = 1; i <= ITEM_GOLD_BOTTLE_CAP; i++)
         AddBagItem((enum Item)i, 999);
+    for (i = ITEM_RED_ORB; i <= ITEM_DIANCITE; i++) // SAG: Primal orbs + EVERY Mega Stone
+        AddBagItem((enum Item)i, 999);
     for (i = ITEM_TM01; i <= ITEM_HM08; i++)
         AddBagItem((enum Item)i, 999);
-    for (i = ITEM_MACH_BIKE; i < ITEMS_COUNT; i++)
+    for (i = ITEM_HM08 + 1; i < ITEMS_COUNT; i++) // SAG: Mega Ring, Shiny/Catching/Exp Charms, Dynamax Band, all key items
         AddBagItem((enum Item)i, 999);
     for (i = 0; i < ARRAY_COUNT(sHeldItems); i++)
         AddBagItem((enum Item)sHeldItems[i], 999);
