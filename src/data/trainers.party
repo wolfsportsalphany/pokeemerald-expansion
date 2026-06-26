@@ -4575,7 +4575,7 @@ Mugshot: Purple
 Weavile @ Heavy-Duty Boots
 Ability: Pressure
 Jolly Nature
-Level: 100
+Level: 68
 EVs: 252 Atk / 4 Def / 252 Spe
 - Triple Axel
 - Knock Off
@@ -4585,7 +4585,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Mawile @ Life Orb
 Ability: Huge Power
 Adamant Nature
-Level: 100
+Level: 68
 EVs: 252 HP / 252 Atk / 4 Def
 - Play Rough
 - Sucker Punch
@@ -4595,7 +4595,7 @@ EVs: 252 HP / 252 Atk / 4 Def
 Sneasler @ Heavy-Duty Boots
 Ability: Unburden
 Jolly Nature
-Level: 100
+Level: 68
 EVs: 252 Atk / 4 Def / 252 Spe
 - Close Combat
 - Dire Claw
@@ -4605,7 +4605,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Grafaiai @ Black Sludge
 Ability: Prankster
 Jolly Nature
-Level: 100
+Level: 68
 EVs: 252 Atk / 4 Def / 252 Spe
 - Gunk Shot
 - Knock Off
@@ -4615,7 +4615,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Maushold @ Wide Lens
 Ability: Technician
 Jolly Nature
-Level: 100
+Level: 68
 EVs: 252 Atk / 4 Def / 252 Spe
 - Population Bomb
 - Tidy Up
@@ -4625,7 +4625,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Sableye @ Leftovers
 Ability: Prankster
 Bold Nature
-Level: 100
+Level: 68
 EVs: 252 HP / 252 Def / 4 SpD
 - Will-O-Wisp
 - Foul Play
@@ -4646,7 +4646,7 @@ Mugshot: Green
 Iron Valiant @ Booster Energy
 Ability: Quark Drive
 Naive Nature
-Level: 100
+Level: 74
 EVs: 252 SpA / 4 Def / 252 Spe
 - Moonblast
 - Close Combat
@@ -4656,7 +4656,7 @@ EVs: 252 SpA / 4 Def / 252 Spe
 Iron Hands @ Assault Vest
 Ability: Quark Drive
 Adamant Nature
-Level: 100
+Level: 74
 EVs: 252 HP / 252 Atk / 4 Def
 - Drain Punch
 - Fake Out
@@ -4666,7 +4666,7 @@ EVs: 252 HP / 252 Atk / 4 Def
 Iron Treads @ Booster Energy
 Ability: Quark Drive
 Jolly Nature
-Level: 100
+Level: 74
 EVs: 252 Atk / 4 Def / 252 Spe
 - Earthquake
 - Iron Head
@@ -4676,7 +4676,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Archaludon @ Assault Vest
 Ability: Stamina
 Modest Nature
-Level: 100
+Level: 74
 EVs: 252 HP / 252 SpA / 4 SpD
 - Electro Shot
 - Draco Meteor
@@ -4686,7 +4686,7 @@ EVs: 252 HP / 252 SpA / 4 SpD
 Revavroom @ Life Orb
 Ability: Filter
 Adamant Nature
-Level: 100
+Level: 74
 EVs: 252 Atk / 4 Def / 252 Spe
 - Shift Gear
 - Gunk Shot
@@ -4696,7 +4696,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Rotom-Wash @ Leftovers
 Ability: Levitate
 Bold Nature
-Level: 100
+Level: 74
 EVs: 248 HP / 252 SpA / 8 Spe
 - Hydro Pump
 - Volt Switch
@@ -4717,7 +4717,7 @@ Mugshot: Pink
 Milotic @ Flame Orb
 Ability: Marvel Scale
 Bold Nature
-Level: 100
+Level: 80
 EVs: 252 HP / 252 Def / 4 SpD
 - Scald
 - Recover
@@ -4727,7 +4727,7 @@ EVs: 252 HP / 252 Def / 4 SpD
 Gardevoir @ Choice Specs
 Ability: Trace
 Timid Nature
-Level: 100
+Level: 80
 EVs: 252 SpA / 4 SpD / 252 Spe
 - Moonblast
 - Psyshock
@@ -4737,7 +4737,7 @@ EVs: 252 SpA / 4 SpD / 252 Spe
 Roserade @ Black Sludge
 Ability: Natural Cure
 Timid Nature
-Level: 100
+Level: 80
 EVs: 252 SpA / 4 SpD / 252 Spe
 - Sludge Bomb
 - Giga Drain
@@ -4747,7 +4747,7 @@ EVs: 252 SpA / 4 SpD / 252 Spe
 Togekiss @ Leftovers
 Ability: Serene Grace
 Timid Nature
-Level: 100
+Level: 80
 EVs: 252 HP / 252 SpA / 4 Spe
 - Air Slash
 - Nasty Plot
@@ -4757,7 +4757,7 @@ EVs: 252 HP / 252 SpA / 4 Spe
 Serperior @ Leftovers
 Ability: Contrary
 Timid Nature
-Level: 100
+Level: 80
 EVs: 252 SpA / 4 SpD / 252 Spe
 - Leaf Storm
 - Giga Drain
@@ -4767,7 +4767,7 @@ EVs: 252 SpA / 4 SpD / 252 Spe
 Espathra @ Leftovers
 Ability: Speed Boost
 Timid Nature
-Level: 100
+Level: 80
 EVs: 252 SpA / 4 Def / 252 Spe
 - Lumina Crash
 - Calm Mind
@@ -4788,7 +4788,7 @@ Mugshot: Blue
 Metagross @ Life Orb
 Ability: Clear Body
 Adamant Nature
-Level: 100
+Level: 86
 EVs: 252 Atk / 4 Def / 252 Spe
 - Meteor Mash
 - Earthquake
@@ -4798,7 +4798,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Aggron @ Assault Vest
 Ability: Rock Head
 Adamant Nature
-Level: 100
+Level: 86
 EVs: 252 HP / 252 Atk / 4 Def
 - Heavy Slam
 - Head Smash
@@ -4808,7 +4808,7 @@ EVs: 252 HP / 252 Atk / 4 Def
 Skarmory @ Rocky Helmet
 Ability: Sturdy
 Impish Nature
-Level: 100
+Level: 86
 EVs: 252 HP / 252 Def / 4 SpD
 - Body Press
 - Spikes
@@ -4818,7 +4818,7 @@ EVs: 252 HP / 252 Def / 4 SpD
 Excadrill @ Leftovers
 Ability: Mold Breaker
 Adamant Nature
-Level: 100
+Level: 86
 EVs: 252 Atk / 4 Def / 252 Spe
 - Earthquake
 - Iron Head
@@ -4828,7 +4828,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Cradily @ Leftovers
 Ability: Storm Drain
 Careful Nature
-Level: 100
+Level: 86
 EVs: 252 HP / 4 Def / 252 SpD
 - Recover
 - Giga Drain
@@ -4838,7 +4838,7 @@ EVs: 252 HP / 4 Def / 252 SpD
 Armaldo @ Life Orb
 Ability: Swift Swim
 Adamant Nature
-Level: 100
+Level: 86
 EVs: 252 Atk / 4 Def / 252 Spe
 - Stone Edge
 - X-Scissor
@@ -5272,7 +5272,7 @@ EVs: 252 HP / 4 SpA / 252 SpD
 - Flash Cannon
 
 === TRAINER_TATE_AND_LIZA_1 ===
-Name: JESSE
+Name: GRANDMA
 Class: Leader
 Pic: Expert F
 Gender: Female
@@ -6532,7 +6532,7 @@ Mugshot: Yellow
 Kyogre @ Mystic Water
 Ability: Drizzle
 Modest Nature
-Level: 100
+Level: 92
 EVs: 4 HP / 252 SpA / 252 Spe
 - Water Spout
 - Origin Pulse
@@ -6542,7 +6542,7 @@ EVs: 4 HP / 252 SpA / 252 Spe
 Dialga @ Life Orb
 Ability: Pressure
 Modest Nature
-Level: 100
+Level: 92
 EVs: 252 SpA / 4 SpD / 252 Spe
 - Draco Meteor
 - Flash Cannon
@@ -6552,7 +6552,7 @@ EVs: 252 SpA / 4 SpD / 252 Spe
 Zapdos @ Heavy-Duty Boots
 Ability: Static
 Timid Nature
-Level: 100
+Level: 92
 EVs: 252 SpA / 4 Def / 252 Spe
 - Thunderbolt
 - Hurricane
@@ -6562,7 +6562,7 @@ EVs: 252 SpA / 4 Def / 252 Spe
 Cresselia @ Leftovers
 Ability: Levitate
 Bold Nature
-Level: 100
+Level: 92
 EVs: 252 HP / 252 Def / 4 SpD
 - Moonblast
 - Moonlight
@@ -6572,7 +6572,7 @@ EVs: 252 HP / 252 Def / 4 SpD
 Marshadow @ Life Orb
 Ability: Technician
 Jolly Nature
-Level: 100
+Level: 92
 EVs: 252 Atk / 4 Def / 252 Spe
 - Spectral Thief
 - Close Combat
@@ -6582,7 +6582,7 @@ EVs: 252 Atk / 4 Def / 252 Spe
 Porygon2 @ Eviolite
 Ability: Download
 Bold Nature
-Level: 100
+Level: 92
 EVs: 252 HP / 252 Def / 4 SpD
 - Tri Attack
 - Ice Beam
