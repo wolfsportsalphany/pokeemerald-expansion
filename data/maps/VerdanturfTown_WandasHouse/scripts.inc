@@ -162,7 +162,7 @@ VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
 	.string "parents in THE BRONX in the eye…$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
-	.string "MERRICK was in EVER GRANDE?\p"
+	.string "MERRICK was in CENTRAL SYNAG?\p"
 	.string "His parents in THE BRONX would be\n"
 	.string "astonished to hear that!$"
 
