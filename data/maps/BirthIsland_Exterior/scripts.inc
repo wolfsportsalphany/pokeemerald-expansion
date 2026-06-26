@@ -92,3 +92,19 @@ BirthIsland_Exterior_Text_Justin:
 	.string "Naturally.\p"
 	.string "Yours is up top. The big armored\n"
 	.string "brute. Try to keep up, would you?$"
+
+BirthIsland_Exterior_EventScript_Grunt2::
+	msgbox BirthIsland_Exterior_Text_Grunt2, MSGBOX_NPC
+	end
+
+BirthIsland_Exterior_Text_Grunt2:
+	.string "TEAM ROCKET claimed this rock.\n"
+	.string "Turn back while you still can, kid.$"
+
+BirthIsland_Exterior_EventScript_Grunt3::
+	msgbox BirthIsland_Exterior_Text_Grunt3, MSGBOX_NPC
+	end
+
+BirthIsland_Exterior_Text_Grunt3:
+	.string "You think you can take what the\n"
+	.string "BOSS built? Up there is a god.$"
