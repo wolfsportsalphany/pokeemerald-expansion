@@ -6853,10 +6853,36 @@ struct BoxPokemon *GetSelectedBoxMonFromPcOrParty(void)
     return boxmon;
 }
 
+// SAG: give every Pokemon the player obtains a competitive build -- max IVs,
+// a nature that boosts its main attacking stat, and its hidden ability.
+void SAG_MakeCompetitive(struct Pokemon *mon)
+{
+    u32 i;
+    u8 iv = 31;
+    u16 species = GetMonData(mon, MON_DATA_SPECIES);
+    u8 nature, abilityNum;
+
+    if (species == SPECIES_NONE || GetMonData(mon, MON_DATA_IS_EGG))
+        return;
+
+    for (i = 0; i < NUM_STATS; i++)
+        SetMonData(mon, MON_DATA_HP_IV + i, &iv);
+
+    nature = (gSpeciesInfo[species].baseAttack >= gSpeciesInfo[species].baseSpAttack) ? NATURE_ADAMANT : NATURE_MODEST;
+    SetMonData(mon, MON_DATA_HIDDEN_NATURE, &nature);
+
+    abilityNum = NUM_ABILITY_SLOTS - 1; // hidden ability slot
+    if (gSpeciesInfo[species].abilities[abilityNum] != ABILITY_NONE)
+        SetMonData(mon, MON_DATA_ABILITY_NUM, &abilityNum);
+
+    CalculateMonStats(mon);
+}
+
 u32 GiveScriptedMonToPlayer(struct Pokemon *mon, u8 slot)
 {
     u32 sentToPc;
     u32 i = 0;
+    SAG_MakeCompetitive(mon); // SAG: universal competitive builds (gifts + starting party)
     if (slot < PARTY_SIZE)
     {
         CopyMon(&gParties[B_TRAINER_PLAYER][slot], mon, sizeof(struct Pokemon));

@@ -10216,6 +10216,7 @@ static void Cmd_givecaughtmon(void)
                 break;
         }
 
+        SAG_MakeCompetitive(caughtMon); // SAG: every caught mon gets a competitive build
         if (GiveCapturedMonToPlayer(caughtMon) != MON_GIVEN_TO_PARTY
          && gBattleCommunication[MULTISTRING_CHOOSER] != B_MSG_SWAPPED_INTO_PARTY)
         {

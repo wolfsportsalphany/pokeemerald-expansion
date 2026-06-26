@@ -954,6 +954,7 @@ void SavePlayerPartyMon(u32 index, struct Pokemon *mon);
 bool32 IsSpeciesOfType(enum Species species, enum Type type);
 struct BoxPokemon *GetSelectedBoxMonFromPcOrParty(void);
 u32 GiveScriptedMonToPlayer(struct Pokemon *mon, u8 slot);
+void SAG_MakeCompetitive(struct Pokemon *mon); // SAG: max IVs + competitive nature + hidden ability
 void ChangePokemonNicknameWithCallback(void (*callback)(void));
 bool32 HasShedinjaHPHandling(enum Species species);
 
