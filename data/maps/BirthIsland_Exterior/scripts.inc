@@ -80,3 +80,15 @@ BirthIsland_Exterior_Text_Grunt:
 	.string "Our masterwork is up at the summit --\l"
 	.string "ARMORED MEWTWO.\p"
 	.string "Go on. Go amuse it.$"
+
+BirthIsland_Exterior_EventScript_Justin::
+	msgbox BirthIsland_Exterior_Text_Justin, MSGBOX_NPC
+	end
+
+BirthIsland_Exterior_Text_Justin:
+	.string "JUSTIN: Took you long enough.\p"
+	.string "While you dawdled, I already bagged\n"
+	.string "mine -- MEW. Rarest one there is.\l"
+	.string "Naturally.\p"
+	.string "Yours is up top. The big armored\n"
+	.string "brute. Try to keep up, would you?$"
