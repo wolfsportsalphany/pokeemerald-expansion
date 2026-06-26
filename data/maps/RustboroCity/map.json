@@ -13,23 +13,7 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": [
-    {
-      "map": "MAP_ROUTE115",
-      "offset": 0,
-      "direction": "up"
-    },
-    {
-      "map": "MAP_ROUTE104",
-      "offset": 0,
-      "direction": "down"
-    },
-    {
-      "map": "MAP_ROUTE116",
-      "offset": 0,
-      "direction": "right"
-    }
-  ],
+  "connections": [],
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_5",
@@ -300,7 +284,7 @@
       "x": 33,
       "y": 19,
       "elevation": 0,
-      "dest_map": "MAP_RUSTBORO_CITY_HOUSE1",
+      "dest_map": "MAP_OLDALE_TOWN",
       "dest_warp_id": "0"
     },
     {
