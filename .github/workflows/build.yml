@@ -1,11 +1,11 @@
 name: CI
 
+# Disabled on push/PR for the SAG fork: this is the upstream multi-game CI
+# (Emerald + FireRed + LeafGreen + test suite, strict UNUSED/DEPRECATED errors) which
+# fails on this single-game fork and emailed a failure on every push. The ROM that
+# actually ships is built by release-rom.yml. Run manually if ever needed.
 on:
-  push:
-    branches:
-      - master
-      - upcoming
-  pull_request:
+  workflow_dispatch:
 
 env:
   GAME_REVISION: 0
