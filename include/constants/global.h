@@ -110,8 +110,8 @@ enum Language
 #define ROAMER_COUNT 1 // Number of maximum concurrent active roamers
 
 // Bag constants
-#define BAG_ITEMS_COUNT 140    // SAG: comprehensive general items (save-limited)
-#define BAG_KEYITEMS_COUNT 55  // SAG: every key item
+#define BAG_ITEMS_COUNT 200    // SAG: comprehensive general items incl. every Mega Stone
+#define BAG_KEYITEMS_COUNT 80  // SAG: every key item incl. Mega Ring + charms + form items
 #define BAG_POKEBALLS_COUNT 35 // SAG: every ball
 #define BAG_TMHM_COUNT 125     // SAG: every TM/HM
 #define BAG_BERRIES_COUNT 46   // SAG: original (berries less critical for save space)
