@@ -1036,6 +1036,9 @@ extern struct AiThinkingStruct *gAiThinkingStruct;
 extern struct AiLogicData *gAiLogicData;
 extern struct AiPartyData *gAiPartyData;
 extern struct BattleHistory *gBattleHistory;
+bool32 SAG_PlayerCanUseBattleItem(u16 item); // SAG: mirror-item rule (defined in battle_main.c)
+void SAG_RecordBattleItem(u32 battler, u16 item);
+void SAG_ResetItemMirror(void);
 extern u8 *gLinkBattleSendBuffer;
 extern u8 *gLinkBattleRecvBuffer;
 extern struct BattleResources *gBattleResources;
