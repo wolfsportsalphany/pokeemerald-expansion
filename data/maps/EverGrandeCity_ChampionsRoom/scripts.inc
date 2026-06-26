@@ -261,7 +261,7 @@ EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
 	.string "You've beaten the CHAMPION?$"
 
 EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
-	.string "PROF. BIRCH: Hah!\n"
+	.string "PROF. MAPLE: Hah!\n"
 	.string "What did I tell you, JUSTIN?\p"
 	.string "I said not to count this one out.\p"
 	.string "… … … … … … … …\n"
@@ -274,7 +274,7 @@ EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
 	.string "POKéDEX of yours.$"
 
 EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
-	.string "PROF. BIRCH: Anyway,\n"
+	.string "PROF. MAPLE: Anyway,\n"
 	.string "congratulations, champ!\p"
 	.string "Now go on. The final room is yours.$"
 
