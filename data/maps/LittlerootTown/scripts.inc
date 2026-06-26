@@ -95,3 +95,13 @@ LittlerootTown_EventScript_SAGHardhat::
 	end
 LittlerootTown_Text_SAGHardhat:
 	.string "They built this whole\nneighborhood in a week.$"
+
+LittlerootTown_EventScript_HudsonSign::
+	msgbox LittlerootTown_Text_HudsonSign, MSGBOX_SIGN
+	end
+
+LittlerootTown_Text_HudsonSign:
+	.string "HUDSON YARDS\p"
+	.string "Manhattan's west side.
+"
+	.string "Where it all begins.$"
