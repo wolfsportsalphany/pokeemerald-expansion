@@ -67,3 +67,15 @@ BirthIsland_Exterior_Text_MewtwoConfront:
 	.string "strongest in this city -- in any city.\p"
 	.string "You came all this way to test that?\n"
 	.string "Then come. Show me your resolve!$"
+
+BirthIsland_Exterior_EventScript_Grunt::
+	msgbox BirthIsland_Exterior_Text_Grunt, MSGBOX_NPC
+	end
+
+BirthIsland_Exterior_Text_Grunt:
+	.string "Heh… so the courier's invitation\n"
+	.string "reached someone worth a damn.\p"
+	.string "TEAM ROCKET owns NEW ISLAND now.\n"
+	.string "Our masterwork is up at the summit --\l"
+	.string "ARMORED MEWTWO.\p"
+	.string "Go on. Go amuse it.$"
