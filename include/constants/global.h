@@ -110,11 +110,11 @@ enum Language
 #define ROAMER_COUNT 1 // Number of maximum concurrent active roamers
 
 // Bag constants
-#define BAG_ITEMS_COUNT 255    // SAG: max u8; holds the bulk of general items
-#define BAG_KEYITEMS_COUNT 80  // SAG: hold every key item
-#define BAG_POKEBALLS_COUNT 40 // SAG: hold every ball
-#define BAG_TMHM_COUNT 200     // SAG: hold every TM/HM
-#define BAG_BERRIES_COUNT 100  // SAG: hold every berry
+#define BAG_ITEMS_COUNT 140    // SAG: comprehensive general items (save-limited)
+#define BAG_KEYITEMS_COUNT 55  // SAG: every key item
+#define BAG_POKEBALLS_COUNT 35 // SAG: every ball
+#define BAG_TMHM_COUNT 125     // SAG: every TM/HM
+#define BAG_BERRIES_COUNT 46   // SAG: original (berries less critical for save space)
 
 // Number of facilities for Ranking Hall.
 // 7 facilities for single mode + tower double mode + tower multi mode.

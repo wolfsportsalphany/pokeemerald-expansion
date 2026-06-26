@@ -163,12 +163,30 @@ void ResetMenuAndMonGlobals(void)
 static void SAG_GiveStartingLoadout(void)
 {
     u32 i;
+    // SAG: competitive held-item toolkit (high-ID items not in the consumable block).
+    static const u16 sHeldItems[] = {
+        ITEM_LEFTOVERS, ITEM_FOCUS_SASH, ITEM_CHOICE_BAND, ITEM_CHOICE_SPECS, ITEM_CHOICE_SCARF,
+        ITEM_LIFE_ORB, ITEM_ASSAULT_VEST, ITEM_EVIOLITE, ITEM_HEAVY_DUTY_BOOTS, ITEM_BLACK_SLUDGE,
+        ITEM_FLAME_ORB, ITEM_TOXIC_ORB, ITEM_BOOSTER_ENERGY, ITEM_ROCKY_HELMET, ITEM_WEAKNESS_POLICY,
+        ITEM_AIR_BALLOON, ITEM_EXPERT_BELT, ITEM_LIGHT_CLAY, ITEM_MENTAL_HERB, ITEM_WHITE_HERB,
+        ITEM_QUICK_CLAW, ITEM_KINGS_ROCK, ITEM_BRIGHT_POWDER, ITEM_SCOPE_LENS, ITEM_SHELL_BELL,
+        ITEM_MUSCLE_BAND, ITEM_WISE_GLASSES, ITEM_FOCUS_BAND, ITEM_SITRUS_BERRY, ITEM_LUM_BERRY,
+    };
 
-    // SAG: FULL BAG -- give every item at 999 ("infinite" for a playthrough). Key items
-    // auto-cap at 1 in their pocket. Covers all balls, medicines, vitamins, mints,
-    // bottle caps, ability items, held items, every TM + HM, and every key item.
-    for (i = 1; i < ITEMS_COUNT; i++)
+    // SAG: comprehensive bag at 999 ("infinite" for a playthrough). The save can't hold
+    // literally every item, so we give the useful blocks:
+    //   - balls + all medicines/vitamins/ability items/mints/candies/bottle caps (4..134)
+    //   - every TM + HM
+    //   - every key item
+    //   - the competitive held-item toolkit (above)
+    for (i = 1; i <= ITEM_GOLD_BOTTLE_CAP; i++)
         AddBagItem((enum Item)i, 999);
+    for (i = ITEM_TM01; i <= ITEM_HM08; i++)
+        AddBagItem((enum Item)i, 999);
+    for (i = ITEM_MACH_BIKE; i < ITEMS_COUNT; i++)
+        AddBagItem((enum Item)i, 999);
+    for (i = 0; i < ARRAY_COUNT(sHeldItems); i++)
+        AddBagItem((enum Item)sHeldItems[i], 999);
 
     // SAG: Shane's starting party. EEVEE is NOT given here -- Jared gifts it on Floor 11.
     ScriptGiveMon(SPECIES_GASTLY, 16, ITEM_NONE);
