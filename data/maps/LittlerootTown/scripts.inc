@@ -102,6 +102,5 @@ LittlerootTown_EventScript_HudsonSign::
 
 LittlerootTown_Text_HudsonSign:
 	.string "HUDSON YARDS\p"
-	.string "Manhattan's west side.
-"
+	.string "Manhattan's west side.\p"
 	.string "Where it all begins.$"
