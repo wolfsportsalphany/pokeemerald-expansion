@@ -460,7 +460,10 @@ static u8 PickWildMonNature(enum Species species)
         }
     }
 
-    return GetSynchronizedNature(WILDMON_ORIGIN, species);
+    // SAG: competitive nature -- Adamant for physical attackers, Modest for special
+    if (gSpeciesInfo[species].baseAttack >= gSpeciesInfo[species].baseSpAttack)
+        return NATURE_ADAMANT;
+    return NATURE_MODEST;
 }
 
 void CreateWildMon(enum Species species, u8 level)
@@ -482,6 +485,17 @@ void CreateWildMon(enum Species species, u8 level)
         SetMonData(wildMon, MON_DATA_SPDEF_IV, &perfectIv);
         if (gSpeciesInfo[species].abilities[NUM_NORMAL_ABILITY_SLOTS] != ABILITY_NONE)
             SetMonData(wildMon, MON_DATA_ABILITY_NUM, &hiddenAbility);
+        // SAG: competitive EV spread (252 attacking / 252 Speed / 6 HP)
+        {
+            u32 ev252 = 252, ev6 = 6, ev0 = 0;
+            bool32 physical = gSpeciesInfo[species].baseAttack >= gSpeciesInfo[species].baseSpAttack;
+            SetMonData(wildMon, MON_DATA_HP_EV, &ev6);
+            SetMonData(wildMon, MON_DATA_ATK_EV, physical ? &ev252 : &ev0);
+            SetMonData(wildMon, MON_DATA_SPATK_EV, physical ? &ev0 : &ev252);
+            SetMonData(wildMon, MON_DATA_SPEED_EV, &ev252);
+            SetMonData(wildMon, MON_DATA_DEF_EV, &ev0);
+            SetMonData(wildMon, MON_DATA_SPDEF_EV, &ev0);
+        }
         CalculateMonStats(wildMon);
     }
 }
